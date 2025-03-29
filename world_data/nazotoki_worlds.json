@@ -526,6 +526,17 @@
 						"Android": false
 					}
 				}
+				{
+					"ID": "wrld_16a115b9-53e9-4182-b90e-9d44005fe669",
+					"Name": "脱出ゲーム「VEIL」",
+					"RecommendedCapacity": 4,
+					"Capacity": 6,
+					"Description": "全てが謎に包まれた脱出ゲーム、＂VEIL＂へようこそ。⁄途中参加不可⁄制限時間60分",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
 			]
 		},
 		{

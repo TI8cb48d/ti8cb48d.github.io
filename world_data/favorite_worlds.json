@@ -1,0 +1,44 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "謎解きワールドポータルサイト",
+			"Worlds": [
+				{
+					"ID": "wrld_98cc32f3-0ddc-4381-9bf2-ebb76a91e61a",
+					"Name": "謎解きポータルハブ「なぞいろは」-Nazotoki portal hub NazoIroha",
+					"RecommendedCapacity": 16,
+					"Capacity": 60,
+					"Description": "謎解きワールドのポータルハブです。謎ワを探したり，待ち合わせに使ったりしてください！不具合・削除依頼はご連絡いただけたら嬉しいです！This is a riddle world portal hub․ The worlds related to Nazotoki‚ a Japanese-style riddle‚ are mainly introduced․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d9241058-8f36-4a6a-b359-298d6cea1904",
+					"Name": "謎めぐり 記念写真館",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎めぐりで行って撮ってきた記念写真を展示しているワールドです これまでに行ったワールドに行くポータルを作ることもできます",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3b6983c6-814a-4e43-804a-a78845e231cf",
+					"Name": "謎解きパズル系ポータルワールド ∗A Portal World（Riddle‚ Puzzle）∗",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "個人的に体験した謎解き・パズル・脱出系のワールドを紹介するポータルワールドです。主観的なコメントや難度の表示があります。参考程度にどうぞ。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		}
+	]
+}

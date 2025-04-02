@@ -275,17 +275,6 @@
 					}
 				},
 				{
-					"ID": "wrld_d5768b43-bbe6-4c4b-a6a3-42010a6c7144",
-					"Name": "謎解きゲーム アンサーパネル",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "パネルを使って解答をする謎解きゲームです。 グローバル対応なので、みんなでワイワイ遊べます。 【難易度：やや簡単】 【知識：ほぼ不要】 【プレイ時間目安：20～60分】 【プレイ推奨人数：何人でも可】 ＃アンサーパネル ＃VRC_アンサーパネル",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
 					"ID": "wrld_d7a3c025-9911-4a0e-bffe-6e421ecc27fc",
 					"Name": "（forJP） Change Words",
 					"RecommendedCapacity": 8,
@@ -1057,6 +1046,33 @@
 					"RecommendedCapacity": 6,
 					"Capacity": 12,
 					"Description": "日本語話者向けの脱出ワールドです。バグにまみれた謎を解き明かし、脱出を目指しましょう。＃VRC_bug_test／プレイ時間：1~2時間／人数：1~6人推奨／機器：Desktop、VR両方プレイ可能／ギミック：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "Syance",
+			"Worlds": [
+				{
+					"ID": "wrld_15c61667-c86e-491e-93a1-6e310e5638f2",
+					"Name": "KEYWORDS【 JP ⁄ EN 】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "【 This is a game world where you can play puzzle-solving challenges․ 】【 謎解きワールドです。謎を解き明かしてください。】【 Difficulty level ˸ difficult 】【 Estimated clear time ˸ 60 ~ 180 min 】【 ＃VRC_KEYWORDS 】",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d5768b43-bbe6-4c4b-a6a3-42010a6c7144",
+					"Name": "謎解きゲーム アンサーパネル",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "パネルを使って解答をする謎解きゲームです。 グローバル対応なので、みんなでワイワイ遊べます。 【難易度：やや簡単】 【知識：ほぼ不要】 【プレイ時間目安：20～60分】 【プレイ推奨人数：何人でも可】 ＃アンサーパネル ＃VRC_アンサーパネル",
 					"Platform": {
 						"PC": true,
 						"Android": true

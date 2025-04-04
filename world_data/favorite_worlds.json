@@ -39,6 +39,120 @@
 					}
 				}
 			]
+		},
+		{
+			"Category": "チルワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_beddab1e-fee1-cafe-f00d-ca7c0dd1eca7",
+					"Name": "SuRroom",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Experience true VR home world․ Multilingual supported․ created by ˸ CITRUS Studio members˸［＂Shatoo＂‚ ＂ureishi＂‚ ＂Rastvas＂‚ ＂Izzy_da＂］",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1f8831d6-98da-48f7-8294-fd23a6ca77d9",
+					"Name": "きのみと森の部屋でおやすみ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "植物が沢山ある森のようなお部屋です。 少人数向けV睡ワールド 睡眠に必要なものは全部あると思います。 分かりにくいけどQvpenは白い木の枝",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7802a897-eaed-4e60-a8b7-0add21f6b487",
+					"Name": "神の喫煙所",
+					"RecommendedCapacity": 8,
+					"Capacity": 20,
+					"Description": "3⁄24更新）イメージパッドを追加しました",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_2c374fe0-8b84-43c3-b3b2-3a2ee1be6dfb",
+					"Name": "Cloudveil Cabin",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "雲の上に隠された家 VR睡眠や少人数での雑談などにどうぞ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_40287d54-724f-46b7-a3fe-bd333ca9d470",
+					"Name": "E-ROOM－臆病で寂しがりやの私と－",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "8人までの少人数雑談部屋兼睡眠部屋です。 タグはないけど、ひとことメッセージボードをおいてるので ペンで意思表示してね！添い寝アバターもあるよ！ 別ワールドで2‚4‚6人用のお部屋もあります！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "ポータルワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_bb6b76c2-d67e-43c8-b268-3b17ff3f79a7",
+					"Name": "幻会興業ワールドツアーの歴史",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "幻会興業の過去のワールドツアーで巡ったワールドを収録しています！ ワールドのリストは、ワールドツアーが終わった後すぐ、毎週日曜日の午前0時に更新されます！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_0004612c-f364-49e5-89aa-540974d2fedf",
+					"Name": "ケセドの200個目の世界-CHESED's 200th My World-",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "200作目。週１ワールド制作を３年１０か月毎週欠かさず続けてこられたのは応援してくださるみなさんのおかげです。本当にありがとうございます。これからも私の作る世界を楽しんでいただけると嬉しいです。200th world․ It is thanks to everyone who has supported me that I have been able to continue producing one world a week for three years and ten months without fail․ Thank you very much․ I hope you will continue to enjoy the world I create․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "アバター",
+			"Worlds": [
+				{
+					"ID": "wrld_96460268-8c89-438f-b8f2-2ea2f1ed1ce7",
+					"Name": "The Avatar Studio ｜ Avatown",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Cozy avatar testing world with quick avatar image generator․ Mesh test‚ born test‚ lighting test‚ Avatar intro image and multiple sick image generator․ Test your avatar and make your avatar introǃ Share your creative avatar intro with your friends with ＃AvatarIntro",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b6ace8bf-1663-48ca-8a88-2f0cabe55a03",
+					"Name": "アバター改変のためのワールド-Avater Test World",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "2024⁄01⁄27更新！ブルームの操作、アバターフィギュア、身長計付き四面図、AudioLink対応動画プレイヤー、パーティクルコライダーのテスト用オブジェクトなどがあります。使用したアセットの記録付き！2023⁄07⁄08時点の更新は旧ワールドの更新版としています。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
 		}
 	]
 }

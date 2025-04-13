@@ -339,6 +339,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_191a9664-0827-43ec-9813-373bd8e37fdf",
+					"Name": "謎解きワールド『THE ORTHODOX2 -細長い部屋からの脱出-』",
+					"RecommendedCapacity": 5,
+					"Capacity": 16,
+					"Description": "ザ・王道ふたたび 日本語を前提とした謎解きワールドです 前作『THE ORTHODOX』をプレイしておられずとも楽しめます 細長い部屋からの脱出を目指しましょう ․․․․․․え？ ぜんぜん細長くないって？ まあまあ、それはともかく․․․․․․ 身体を動かす仕掛けがいくつかあります 少々広いスペースでの挑戦をおすすめします 想定時間： 1 ~ 3 時間 難易度：難しい",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -592,6 +603,17 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 20,
 					"Description": "なでなで48手？いや、違う。うちは＂なぞとき＂48手だ！！！＃VRC_48",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e3027c30-6bdb-4757-92e8-39787d5e50be",
+					"Name": "謎解きワールド『謎解きスケルトンパズル セカンド』",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "僕の初めて作った謎解きワールド『謎解きスケルトンパズル』の第二回です！",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -866,6 +888,17 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "［JP Only］2グループに分かれて謎を解き、相手より高い点数を目指すワールドです。現在問題は4セット用意されています。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6e8fd082-9e1c-476b-ab71-f5ceb3b1db12",
+					"Name": "謎解きワールド「RULE」",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "［JP Recommended］This is a riddle world․ If you can deduce the hidden rules and answer the five questions correctly‚ you will clear the game․ The world operates is local․ 見えないルールを推測し、5問の問題を解く謎解きワールドです。 ワールド動作はローカルです。",
 					"Platform": {
 						"PC": true,
 						"Android": false

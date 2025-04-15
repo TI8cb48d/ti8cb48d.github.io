@@ -618,6 +618,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_b83b8a56-49a4-4bd3-8a8e-180422bd5e83",
+					"Name": "謎解きワールド『Sky Rainbow of travel』",
+					"RecommendedCapacity": 5,
+					"Capacity": 15,
+					"Description": "［謎ワ制作交流イベント『DUELECT』］ 空と虹をテーマにした謎解きです。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1323,6 +1334,17 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "目が覚めた貴女は、知らない部屋に閉じ込められていました。置き手紙によれば、ここから脱出するためには、謎を全て解いて暗号を全て正しく当てはめなければならないようです。犯人はただの愉快犯というわけではないようですが․․․․․（謎解きに使用する英単語は一部を除き机上の本に載っています）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_54caa5ea-55ab-4223-ba37-5b55d21164ab",
+					"Name": "自由への脱出 -Escape into Liberty-",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "『ねぇ、知ってる？ この空の向こうには神様がいて、僕らを見守ってくれているんだ』 1~4人想定の謎解きワールドです。動作はグローバルで途中参加も可能です。謎解きのクリア状況は共有され、セーブされます。 このワールドはたけすぴおん（＠takespeon_VRC）さん企画の＃DUELECTにて『空×虹』のテーマで製作したワールドです。",
 					"Platform": {
 						"PC": true,
 						"Android": true

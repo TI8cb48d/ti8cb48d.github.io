@@ -121,17 +121,6 @@
 					}
 				},
 				{
-					"ID": "wrld_65f736d7-fba5-4ebb-870b-c225699658e4",
-					"Name": "謎解きワールド colony",
-					"RecommendedCapacity": 3,
-					"Capacity": 6,
-					"Description": "謎解きワールド colony「コロニー」 ＃VRC_コロニー 【プレイ時間】60分～【難易度】そこそこ〜しっかり 【注意】途中入場不可 Japanese knowledges are required ＂皆様のワクワクを、もっと刺激してみせましょう！＂",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
 					"ID": "wrld_eabdb9ab-09d6-4068-a118-e8c4ac2501f6",
 					"Name": "8Questions",
 					"RecommendedCapacity": 8,
@@ -1056,6 +1045,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_77e52302-aa65-4430-9068-f42a904210ed",
+					"Name": "謎解きワールド「Colour of kalmia」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "意味が分かると怖いかもしれない日本語話者向け謎解きワールド第4弾です。DUELECT参加作品",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1147,6 +1147,33 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "conceal88",
+			"Worlds": [
+				{
+					"ID": "wrld_65f736d7-fba5-4ebb-870b-c225699658e4",
+					"Name": "謎解きワールド colony",
+					"RecommendedCapacity": 3,
+					"Capacity": 6,
+					"Description": "謎解きワールド colony「コロニー」 ＃VRC_コロニー 【プレイ時間】60分～【難易度】そこそこ〜しっかり 【注意】途中入場不可 Japanese knowledges are required ＂皆様のワクワクを、もっと刺激してみせましょう！＂",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d6504446-14a1-4db1-8c51-434e0adefb5d",
+					"Name": "謎解きワールド component",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "何とはいいませんが、そんなものはありません。 ⁄⁄ 難易度：やわらか 時間：15min～ すべてローカル動作",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]

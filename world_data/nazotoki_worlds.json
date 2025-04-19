@@ -339,6 +339,28 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_9a68e667-d3dc-40a4-9f34-46d437fe86d7",
+					"Name": "謎解きワールド「この箱からの脱出」",
+					"RecommendedCapacity": 3,
+					"Capacity": 20,
+					"Description": "日本語話者向け謎解きワールド一作目です。この箱の謎を解き明かせばゲームクリアです。｜想定プレイ時間 二時間～｜作者Xにてヒント・解説を公開しました。｜＃VRC_ThisBox",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_bac9d7a7-04ea-436a-9a0f-f406f447cfdf",
+					"Name": "12Riddles",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "12Riddlesです。謎解きです。適宜検索を推奨します。想定時間 2 hours․ 動作は基本的にローカルですが、一部致命的にグローバルなものを含みます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},

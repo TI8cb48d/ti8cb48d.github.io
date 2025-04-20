@@ -330,17 +330,6 @@
 					}
 				},
 				{
-					"ID": "wrld_191a9664-0827-43ec-9813-373bd8e37fdf",
-					"Name": "謎解きワールド『THE ORTHODOX2 -細長い部屋からの脱出-』",
-					"RecommendedCapacity": 5,
-					"Capacity": 16,
-					"Description": "ザ・王道ふたたび 日本語を前提とした謎解きワールドです 前作『THE ORTHODOX』をプレイしておられずとも楽しめます 細長い部屋からの脱出を目指しましょう ․․․․․․え？ ぜんぜん細長くないって？ まあまあ、それはともかく․․․․․․ 身体を動かす仕掛けがいくつかあります 少々広いスペースでの挑戦をおすすめします 想定時間： 1 ~ 3 時間 難易度：難しい",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
 					"ID": "wrld_9a68e667-d3dc-40a4-9f34-46d437fe86d7",
 					"Name": "謎解きワールド「この箱からの脱出」",
 					"RecommendedCapacity": 3,
@@ -1143,6 +1132,44 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_30000000-0000-0000-0000-000000000000",
+					"Name": "謎解きRTA【7th ANSWER】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "誰よりも早く、７問目の答えを導くタイムアタック謎解きです。2020年にTwitter上で開催した謎解き企画のVRC移植版です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "ビビりのビビル",
+			"Worlds": [
+				{
+					"ID": "wrld_67f6b5fd-ef86-4c2a-92c0-e9fc28be921d",
+					"Name": "謎解きワールド『THE ORTHODOX -小部屋からの脱出-』",
+					"RecommendedCapacity": 5,
+					"Capacity": 16,
+					"Description": "日本語話者向けの謎解きワールドです。 ものすごくシンプルなワンルームからの脱出を目指しましょう。 難易度：簡単 想定時間：30~90 min",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_191a9664-0827-43ec-9813-373bd8e37fdf",
+					"Name": "謎解きワールド『THE ORTHODOX2 -細長い部屋からの脱出-』",
+					"RecommendedCapacity": 5,
+					"Capacity": 16,
+					"Description": "ザ・王道ふたたび 日本語を前提とした謎解きワールドです 前作『THE ORTHODOX』をプレイしておられずとも楽しめます 細長い部屋からの脱出を目指しましょう ․․․․․․え？ ぜんぜん細長くないって？ まあまあ、それはともかく․․․․․․ 身体を動かす仕掛けがいくつかあります 少々広いスペースでの挑戦をおすすめします 想定時間： 1 ~ 3 時間 難易度：難しい",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1329,7 +1356,7 @@
 					}
 				},
 				{
-					"ID": "",
+					"ID": "wrld_30000000-0000-0000-0000-000000000000",
 					"Name": "Fascination",
 					"RecommendedCapacity": 30,
 					"Capacity": 32,

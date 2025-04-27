@@ -350,6 +350,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_44265418-ea60-41fe-9beb-db1cbb3e451a",
+					"Name": "いずみ謎解き生誕祭2024",
+					"RecommendedCapacity": 16,
+					"Capacity": 48,
+					"Description": "k․izumiの生誕祭用ワールドです 謎を若干解きやすくしました",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -406,6 +417,28 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "多人数で遊べる謎解きワールドです。制限時間は１問240秒、全20問。不正解を選んだ人が、脱落します。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_29637de6-18ca-469b-aa1d-5e7a08d8f373",
+					"Name": "アントラー誕生祭2023⁄無限回廊からの脱出",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "2023年10月21日に公開したお誕生日会場です。謎解きが１問だけあり、解くと会場に行ける仕組みでした。動作はローカルです！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1e7d28d5-f754-409d-ae65-12a7a02a9075",
+					"Name": "アントラー誕生祭2024⁄ポータルワールドの秘密",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "ポータルワールド兼2024年の誕生日会場です。謎を解くと会場へ行けます。動作はローカルです。",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -628,6 +661,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_09b1d8ac-1704-41a4-9db1-be412e6e8346",
+					"Name": "高難易度謎解き『JP_アランからの挑戦状』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "僕史上最難関の謎解きワールドです！",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -1139,6 +1183,39 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "誰よりも早く、７問目の答えを導くタイムアタック謎解きです。2020年にTwitter上で開催した謎解き企画のVRC移植版です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_51a65a86-a321-4a4b-a04e-b1d9ab264e8b",
+					"Name": "謎解きワールド【Twelve Room】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "無機質な部屋にある謎を解いて最終問題への正解を目指す、日本語話者向け謎解きワールドです。【難易度：そこそこ難しい】【知識：ほぼ不要】【クリアタイム目安：60分～150分】【ギミック：ほぼグローバル（途中参加・可）】【 ＃VRC_TwelveRoom 】",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_2e467548-90f6-4a53-8de2-90b6536c9595",
+					"Name": "ふつうの？？？？なぞとき",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "普通じゃない謎解きワールドです。難易度が高いため、謎解きに慣れている人向けのワールドです。知識はほぼ不要なので、貴方の謎解き力、そして謎解きの理解度が全ての結果を握ります。 【難易度：かなり難しい】【知識：ほぼ不要】【クリアタイム目安：40分～120分】【ギミック：ローカル（協力可）】【 ＃VRC_NotNormal 】",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_385bf9cb-fb9a-468b-98cf-f4fc7c5ba65b",
+					"Name": "エイプリルフール企画【ふつうのエスパーなぞとき】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "エイプリルフール企画です。正攻法なんてありません。ゴリ押しで答えを当ててください。＃VRC_AprilEsper",
 					"Platform": {
 						"PC": true,
 						"Android": true

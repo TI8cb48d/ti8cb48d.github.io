@@ -6,6 +6,17 @@
 			"Category": "2025/04",
 			"Worlds": [
 				{
+					"ID": "wrld_3f068a13-118b-4295-b6e5-b556f9c94c16",
+					"Name": "［謎解き］おかしの家からの脱出（SweetsEscape）",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "カリンちゃんと一緒におかしの家から脱出しよう！ジャンル：謎解き脱出ゲーム／プレイ時間：20分～1時間／難易度：簡単（ヒントあり）／推奨人数：1～5人（あまり広くないので）／注意：ギミックはローカルです。NPCシステムの表記が壊れることがあります。壊れた際にはお手数ですが、リジョインをお願いします。＃VRC_SweetsEscape",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_bea9e5cb-53c0-449a-9210-3f9236c505e4",
 					"Name": "【謎解き】月の見える家にて",
 					"RecommendedCapacity": 8,

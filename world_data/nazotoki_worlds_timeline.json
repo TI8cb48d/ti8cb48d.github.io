@@ -6,6 +6,17 @@
 			"Category": "2025/04",
 			"Worlds": [
 				{
+					"ID": "wrld_879b2ddd-b3af-49dd-b958-7a353bda32c4",
+					"Name": "謎解きワールド 『HexaMaze』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。謎を解いて扉を開けつつ、脱出スイッチを探しましょう。謎の配置はグローバル、正誤判定はローカルです。＃VRC_HexaMaze",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_3f068a13-118b-4295-b6e5-b556f9c94c16",
 					"Name": "［謎解き］おかしの家からの脱出（SweetsEscape）",
 					"RecommendedCapacity": 5,

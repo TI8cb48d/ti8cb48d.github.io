@@ -3,6 +3,77 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2025/05",
+			"Worlds": [
+				{
+					"ID": "wrld_d2ff2dcb-5974-483e-ae2e-2dfbd1fae8f4",
+					"Name": "謎解きワールド『上下左右』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。通路を進み、上下左右を集めましょう。動作はローカルです。＃VRC_UDLR",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e1df89b6-8826-4558-ac0c-a4a5da1eea67",
+					"Name": "謎解ァヵワールド「Reddle」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "チル、できません。あっと驚く新体験、ありません。一枚謎だけです。8問 ＋ Lunatic3問 想定時間100分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3d7b89ef-f1f3-42e0-8100-6a9d36ed8a46",
+					"Name": "V睡部屋からの脱出",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "ちゃんと寝て、ちゃんと起きましょう。 ⁄【想定プレイ時間】１時間～ ⁄【難易度】わからん！ ⁄動作はすべてローカルです 【5⁄5更新】コライダー周りを改善。リセットボタンを追加しました",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_86bdc643-b23b-4702-93bd-9b30d36a20c6",
+					"Name": "チマタグラムワールド 2 「ちまたことば」",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "アナグラムの一種である、チマタグラムを30問解くワールドです。 第二弾です。すべてクリアする必要はないので、気軽に遊んでください。 日本語に完全に依存した問題が続きます。 ワールド動作：ローカル 1プレイの時間˸30分～諦めるまで",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_0a483eff-fb88-4006-8ca8-5f3ea1516a0d",
+					"Name": "何の変哲もない謎解きワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "何の変哲もない普通の謎解きワールドです。難易度˸普通（主観） 想定クリア時間˸45m~2h 動作˸ペン以外ローカル 不具合等は作者まで。 v1․1˸Quest仮対応",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_57c60247-d135-49ee-a3c6-54ebb94b7479",
+					"Name": "謎解きワールド『34』",
+					"RecommendedCapacity": 10,
+					"Capacity": 34,
+					"Description": "一作目の謎解きワールドです。無機質な部屋の正体を明かし、クリアを目指してください。⁄ THIs world is my fiRst vrchaT riddle world․ rEveal thE ideNtity of the inorganic room and try to solve it․ ⁄ ・推定プレイ時間1h~3h ⁄ ＃VRC_34",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "2025/04",
 			"Worlds": [
 				{

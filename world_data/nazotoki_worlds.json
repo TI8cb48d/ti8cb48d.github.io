@@ -3,44 +3,6 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
-			"Category": "Trimally",
-			"Worlds": [
-				{
-					"ID": "wrld_3012e187-a096-46ea-8172-484b14061826",
-					"Name": "謎解きワールド：ヘプタゴンルーム",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "［JP only］全7問のシンプルな謎解きです。上級者モードあり。腕に自信のある人はタイムアタックしてみようǃ Exクリアはありません。Desktop可。",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_fdcf478b-febd-42f2-96ae-9e23910814e1",
-					"Name": "謎解きワールド：ナンバーズ・コリドー",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "［JP only］パスコードを入力してすべての扉を開き、ゴールへ向かおう！QvPen以外のギミックはローカルです。想定プレイ時間：60分-120分、またはそれ以上。難しめ。Exクリアはありません。Desktop可。2024⁄11⁄14 ヒント追加しました。",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_e88a4de6-d634-4862-bb66-3534f426a1f6",
-					"Name": "謎解きワールド：「十人十色」",
-					"RecommendedCapacity": 8,
-					"Capacity": 16,
-					"Description": "［JP only］想定プレイ時間：クリアまで5分-15分、完全クリアまで45分-120分。QvPen以外のギミックはローカルです。Desktop‚ VR対応。",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				}
-			]
-		},
-		{
 			"Category": "Other Creators",
 			"Worlds": [
 				{
@@ -349,6 +311,44 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "Trimally",
+			"Worlds": [
+				{
+					"ID": "wrld_3012e187-a096-46ea-8172-484b14061826",
+					"Name": "謎解きワールド：ヘプタゴンルーム",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［JP only］全7問のシンプルな謎解きです。上級者モードあり。腕に自信のある人はタイムアタックしてみようǃ Exクリアはありません。Desktop可。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_fdcf478b-febd-42f2-96ae-9e23910814e1",
+					"Name": "謎解きワールド：ナンバーズ・コリドー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［JP only］パスコードを入力してすべての扉を開き、ゴールへ向かおう！QvPen以外のギミックはローカルです。想定プレイ時間：60分-120分、またはそれ以上。難しめ。Exクリアはありません。Desktop可。2024⁄11⁄14 ヒント追加しました。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e88a4de6-d634-4862-bb66-3534f426a1f6",
+					"Name": "謎解きワールド：「十人十色」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "［JP only］想定プレイ時間：クリアまで5分-15分、完全クリアまで45分-120分。QvPen以外のギミックはローカルです。Desktop‚ VR対応。",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]

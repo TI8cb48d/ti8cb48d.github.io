@@ -17,6 +17,17 @@
 					}
 				},
 				{
+					"ID": "wrld_b1562a95-f952-4e8b-8eae-21468f652f6c",
+					"Name": "謎解きワールド「キク！」",
+					"RecommendedCapacity": 12,
+					"Capacity": 32,
+					"Description": "「この世の中には、キいておいたほうがよいとされるものが沢山あります。」日本語話者向け謎解きワールドです。 Desktop可／想定時間30～60min／ワールド内にヒント・解答あり／ハッシュタグ：＃VRC_RIDDLE_KIKU",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_d2ff2dcb-5974-483e-ae2e-2dfbd1fae8f4",
 					"Name": "謎解きワールド『上下左右』",
 					"RecommendedCapacity": 16,

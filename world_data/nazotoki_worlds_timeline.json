@@ -6,6 +6,17 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_a6a3d77c-04fb-48ee-bd5f-59d883747497",
+					"Name": "謎解きワールド【メイ９】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "５月９日は「謎解きの日」ということで、即興で謎解きワールドを作ってみました 。９問の謎に正解すればクリアです。【難易度：やや難しい】【知識：ほぼ不要（やや語彙力が必要）】【クリアタイム目安：30～90分】【ギミック：ローカル】【 ＃VRC_May9 】",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_b14ce17e-6710-49d1-8ae0-c8509181037e",
 					"Name": "普通の謎解きのはずでしたが諸事情でずんだもんに読み上げてもらいます",
 					"RecommendedCapacity": 16,
@@ -22,6 +33,17 @@
 					"RecommendedCapacity": 12,
 					"Capacity": 32,
 					"Description": "「この世の中には、キいておいたほうがよいとされるものが沢山あります。」日本語話者向け謎解きワールドです。 Desktop可／想定時間30～60min／ワールド内にヒント・解答あり／ハッシュタグ：＃VRC_RIDDLE_KIKU",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3a0ce5e4-455c-4eec-a685-438e5f7dc4c1",
+					"Name": "Up In The Air․",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "No knowledge of Japanese language is required to proceed․ ⁄ 奥に進むために日本語の知識は必要としません。",
 					"Platform": {
 						"PC": true,
 						"Android": false

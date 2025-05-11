@@ -312,6 +312,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_cd719b98-977f-4397-9943-f6e0ed2fec39",
+					"Name": "謎解きワールド「THE SEVEN」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールド「THE SEVEN」へようこそ！ このワールドには6問＋最終問題の計7つの 問題があります！ パスコードは数字で、パスワードは小文字の英語で 回答する必要があります！ 正しい回答を入力すると扉の音とともに次の部屋への道が開かれますよ！ 各問題にあるヒントは、一度展開すると消すことはできません！ リザルトにも影響するので頑張ってみましょう！＃VRC_THESEVENでリザルトを共有していただけると嬉しいです！クリア後隠し要素もあるよǃ 本ワールドの謎解きには一部日本語及び日本文化への理解が必要です",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_57c60247-d135-49ee-a3c6-54ebb94b7479",
+					"Name": "謎解きワールド『34』",
+					"RecommendedCapacity": 10,
+					"Capacity": 34,
+					"Description": "一作目の謎解きワールドです。無機質な部屋の正体を明かし、クリアを目指してください。⁄ THIs world is my fiRst vrchaT riddle world․ rEveal thE ideNtity of the inorganic room and try to solve it․ ⁄ ・推定プレイ時間1h~3h ⁄ ＃VRC_34",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1051,6 +1073,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_879b2ddd-b3af-49dd-b958-7a353bda32c4",
+					"Name": "謎解きワールド 『HexaMaze』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。謎を解いて扉を開けつつ、脱出スイッチを探しましょう。謎の配置はグローバル、正誤判定はローカルです。＃VRC_HexaMaze",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -1183,6 +1216,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "無機質な部屋にある謎を解いて最終問題への正解を目指す、日本語話者向け謎解きワールドです。【難易度：そこそこ難しい】【知識：ほぼ不要】【クリアタイム目安：60分～150分】【ギミック：ほぼグローバル（途中参加・可）】【 ＃VRC_TwelveRoom 】",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_dc3cdb51-3580-4bb9-bf64-42655a60071d",
+					"Name": "天罰",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "罪を犯した者への罰 【2025⁄05⁄11】説明文に一部の問題の重大なヒントが追加されました",
 					"Platform": {
 						"PC": true,
 						"Android": true

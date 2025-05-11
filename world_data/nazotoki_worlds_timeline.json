@@ -6,6 +6,28 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_fd9515bc-0fa6-49c8-913f-12d4f111dee3",
+					"Name": "謎解きワールド『Quadruple - クアドラプル』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "割とシンプルな謎解きワールドです。想定プレイ時間30～60分",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3bd55e6a-4219-4ea3-9b18-5573b05bc6ea",
+					"Name": "謎解きワールド「四角と矢印3」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "四角と矢印のみで構成された高難易度謎解き第3弾。ネタが尽きたのでおそらくシリーズ最終作です。 想定クリア時間˸2h30m~数日 動作˸ペン以外全てローカル 不具合等は作者まで。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_4d3fd65d-8874-4479-959d-7bfdf3cabe7f",
 					"Name": "謎解きワールド「潜火工房」",
 					"RecommendedCapacity": 1,

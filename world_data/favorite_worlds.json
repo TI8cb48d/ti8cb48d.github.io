@@ -3,36 +3,124 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
-			"Category": "謎解きワールドポータルサイト",
+			"Category": "ゲーム",
 			"Worlds": [
 				{
-					"ID": "wrld_98cc32f3-0ddc-4381-9bf2-ebb76a91e61a",
-					"Name": "謎解きポータルハブ「なぞいろは」-Nazotoki portal hub NazoIroha",
-					"RecommendedCapacity": 16,
-					"Capacity": 60,
-					"Description": "謎解きワールドのポータルハブです。謎ワを探したり，待ち合わせに使ったりしてください！不具合・削除依頼はご連絡いただけたら嬉しいです！This is a riddle world portal hub․ The worlds related to Nazotoki‚ a Japanese-style riddle‚ are mainly introduced․",
+					"ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
+					"Name": "A Simple Fishing World",
+					"RecommendedCapacity": 28,
+					"Capacity": 80,
+					"Description": "［ Catch Fish using Physics Based Rodsǃ ］［ Complete your FishDexǃ ］ ［ Relax in a peaceful Environmentǃ ］ ⁄⁄ v27 - Spring is hereǃ New items in the seasonal shopǃ",
 					"Platform": {
 						"PC": true,
 						"Android": true
 					}
 				},
 				{
-					"ID": "wrld_d9241058-8f36-4a6a-b359-298d6cea1904",
-					"Name": "謎めぐり 記念写真館",
+					"ID": "wrld_2e647e8d-8430-4b40-8bd7-914f1fa817b2",
+					"Name": "RESONARK - RhythmGame v3․6․3",
+					"RecommendedCapacity": 14,
+					"Capacity": 28,
+					"Description": "RhythmGameWorld for PCVR ＆ Desktop ＆ Quest by UDON （U＃） Language˸ 日本語‚ English Player˸ 1-2",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_236bb7cd-dca2-44a2-9542-3b965e15d37d",
+					"Name": "RESONARK 4 ELVES Pt․1 - RhythmGame - v4․1․7a",
+					"RecommendedCapacity": 14,
+					"Capacity": 28,
+					"Description": "Rhythm game world for PCVR ＆ Desktop ＆ Android （Quest） ｜ Language˸ 日本語‚ English ｜ Player˸ 1-2",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_89030155-e58c-4fbf-87cb-716d55269cfc",
+					"Name": "ジェスチャーゲーム【charades】",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "謎めぐりで行って撮ってきた記念写真を展示しているワールドです これまでに行ったワールドに行くポータルを作ることもできます",
+					"Description": "お題カードを引いてジェスチャーで相手に伝えよう！ 出題者はVR必須、回答者はデスクトップでも可。 Draw a subject card and tell your partner with gesturesǃ VR is required for contestants‚ desktop is acceptable for respondents․",
 					"Platform": {
 						"PC": true,
 						"Android": false
 					}
 				},
 				{
-					"ID": "wrld_3b6983c6-814a-4e43-804a-a78845e231cf",
-					"Name": "謎解きパズル系ポータルワールド ∗A Portal World（Riddle‚ Puzzle）∗",
-					"RecommendedCapacity": 64,
-					"Capacity": 64,
-					"Description": "個人的に体験した謎解き・パズル・脱出系のワールドを紹介するポータルワールドです。主観的なコメントや難度の表示があります。参考程度にどうぞ。",
+					"ID": "wrld_a323f41a-26e1-4bfd-942b-becc5777fa57",
+					"Name": "これゲッサー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「これなーんだ」 アキネーター風ゲームで遊べるワールドです。 出題者は、お題を選んだら 「これなーんだ」と言ってゲームスタート。 解答者は、イエスかノーで答えられる質問で、 お題がなにか絞り込んで当てよう。 お題語数 約7000語。 【遊び方いろいろ】好きなルールで遊ぼう！ 遊び方1：解答者1人！ 遊び方2：出題者1人！ 遊び方3：チーム戦！ 遊び方4：100秒ごとに大ヒント！ 遊び方5：答えのジャンルは発表してスタート！ 遊び方6：質問20個で正解に近い人の勝ち！ 遊び方7：制限時間を決めてチャレンジ！ 遊び方8：当てるまでガンバる！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_fba7ee36-9fb8-4546-be26-5105442bd029",
+					"Name": "USEMONO -Seekers Inc․-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "お客様のお家で制限時間内に失せ物を探し出せ！シンプルなルールの楽しい宝探しゲーム。「あなたは失せ物探しのエキスパートです」 Find the lost items in the customer's house within the time limitǃ A fun treasure hunt game with simple rules․ You are an expert in lost-and-found․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_cc431eec-0d33-4e71-a2c3-22a4d1c1e150",
+					"Name": "バチャボンバー - VirtuaBomber",
+					"RecommendedCapacity": 24,
+					"Capacity": 32,
+					"Description": "爆弾が落ちる前に答えを言え！｜ プレイ必要人数˸ 回答者5人＋出題＆判定1人＝6人 ｜ 某クイズ番組を体験できるワールドです。画像テンプレはこちら˸ https˸⁄⁄pbs․twimg․com⁄media⁄Gj0NDyAakAA2yne?format＝jpg＆name＝large",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3c281bc5-956c-440c-8d73-be9376f4222f",
+					"Name": "バチャリーグ［改］ - VirtuaLeague",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "5人で協力して5文字の答えを導け！｜プレイ必要人数：解答者5人＋出題者1人＝6人",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c2b63c84-61a4-48bf-9b8c-d70a7db08207",
+					"Name": "バチャツアーズ - VirtualTours",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "迫りくる難読漢字を読みがなミサイルで迎撃せよ！ 2024⁄09⁄03 現在ワールドのギミックが壊れていてゲームを進行できない不具合を確認しております。 Unityプロジェクトも破損してしまっているため、改修も不可能となっております。9⁄2に私のTwitter（現˸X）にて不具合の対処法を動画で公開していますので、そちらをご確認の上、ワールドのセットアップを各自していただくようお願いいたします。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9c70b41c-5ff1-4101-a6dc-d8a31ad5c3a0",
+					"Name": "Quiz Lab",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "QuizLab／早押しクイズと書きクイズができるワールドです。解答者最大6人対応。プリセットとかは用意してないので各自持ち寄ってください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6cf16c36-aee4-45c3-9029-a511356773e4",
+					"Name": "V令和教育委員会 VReiwa Kyouiku Iinkai",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "＃VRC_VRKI ＃V令和教育委員会 ＂V RAYǃWOWǃA BOARD OF EDICATON＂ 「平成教育委員会」の番組を模したワールドです。16席のボード回答ができる回答席と一元管理できる司会者席があります。 問題のプリセットなどはないので、持ち寄りで楽しんでください。文字、画像、動画で問題を表示する機能があります。時計は常に日本時間を指しています。This is a world modeled after the program ＂HEIǃSAYǃA BOARD OF EDUCATION․＂ It features seating for 16 board responders and a host seat for centralized management․ There are no preset questions‚ so please enjoy by bringing your own․ The world includes functionality to display questions using text‚ images‚ and videos․ The clock always indicates Japan standard time（JST）․",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -97,6 +185,307 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
+					"Name": "旅館「待宵」-inn matuyoi-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "来る筈の人を待つ夜。旅館の一室のワールドです。V睡や団欒にどうぞ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_cc341f9d-9363-49c5-b7e6-262c1d0d8f45",
+					"Name": "Stabby Cinema",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "This PC and Quest world aims to create one of the most high end and immersive cinema experiences available in VRChat․ The world features˸ Automated lighting‚ Automated doors‚ 3D‚ （up to） 7․1 Surround Sound‚ Playlist queues‚ Cinema Beds‚ LTCGI Lighting bouncing on the screen‚ Custom GI lighting solution for the quest versionǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653",
+					"Name": "メゾン荘 201号室",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Mirror ⁄ Video ⁄ QVPen ⁄ AudioLink ⁄ AudioReverbFilter",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_424e4033-db3d-4817-b081-8a16e41708c5",
+					"Name": "ハイム荘 401号室",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Mirror ⁄ Video ⁄ QVPen ⁄ AudioLink ⁄ AudioReverbFilter ⁄ FireWorks",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
+					"Name": "Tiharuum - ちはるーむ",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "色んな人が普段使いしやすいワールドを目指して作りました！オリジナルで使いやすい動画タブレット、拡張メニューに30以上のゲーム、料理ギミック、アバター展示もあります。動作負荷も非常に軽いです。（更新日˸25⁄5⁄1）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_74b0e92d-c3c9-463a-9782-b3878fb89a8c",
+					"Name": "Fallen Books",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "忘れ去られた島で一人静かに暮らす少女の物語。迎えの来ない彼女を慰めるかのように、今日もどこからか本が舞い降りてくる。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4b6207b0-64f2-4483-80b7-f913d21d3b97",
+					"Name": "Fallen Books -night-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "噂を聞きつけ訪れた旅人を冷たい静寂が出迎える。学者一家が遺した文献の山に潜む幼い影は、意外な足音に戸惑いながらも、胸を弾ませ訪問者を招き入れる。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e0199185-f4ac-49ac-b10f-e209cad880bb",
+					"Name": "Rest․",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b0748170-ed80-4544-8c0f-d5c9f8a1d764",
+					"Name": "最終バス（LastBus）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "次は終点、神保駅です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "有名どころ",
+			"Worlds": [
+				{
+					"ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
+					"Name": "日本語話者向け集会場「FUJIYAMA」JP",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "マッチング用タグマーカー搭載！日本語話者向け集会場「FUJIYAMA」 公式X（旧Twitter）：＠JP_Fujiyama",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33",
+					"Name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "（配信および録画はご遠慮下さい） 日本人向けのシンプルな談話スペースとなっています。 初心者さんや自分から話しかけるのが苦手な人にも便利なタグ機能や、遊べるリバーシがあります。 Japan Talk Room 公式グループのGroup Publicもご遠慮なくご利用ください。ただし、権利侵害や不適切なアバターの使用はご遠慮願います。 また、最低限の距離感及び礼儀は保っていただくようお願いします。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_153be667-a86e-4aaf-9eed-921bd568ee9b",
+					"Name": "EN-JP Language Exchange",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Version 1․2․1",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
+					"Name": "VRC 新宿駅 Shinjuku Station",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "［ X -≻ ＃VRSJK ］ VRC新宿ワールドへようこそ！ VRChatで最も有名な路上ライブ専用ワールドを目指しています。 音楽が好きな方は、ぜひお気軽にご参加ください！ VRC신주쿠 월드입니다․ VRChat에서 가장 유명한 버스킹 월드를 목표로 하고있습니다․ 음악을 좋아하신다면 자유롭게 들어오세요 ǃ Welcome to the VRC Shinjuku Worldǃ We aim to become the most famous busking world in VRChat․ If you love music‚ feel free to join usǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_59144203-48ff-40bc-aa71-9b4b1f954bfc",
+					"Name": "Birthday Celebration",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "誕生日お祝い用ワールドです。黒板に誕生日の人の名前を書いて写真を撮りましょう！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_45d80265-bdf4-402b-bea2-59b848df6873",
+					"Name": "星夢島 -Star Reverie Island-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Wish upon a star to recollection your reverie․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "広いワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
+					"Name": "Japan Street 0․442",
+					"RecommendedCapacity": 60,
+					"Capacity": 80,
+					"Description": "［重要］VRC側のバグで偶に＂0MB＂になって入れなくなる場合があります、再アップロードで直せるので入れない場合は連絡ください。「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
+					"Name": "City MIO for Vehicle World",
+					"RecommendedCapacity": 20,
+					"Capacity": 35,
+					"Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+					"Name": "ごまさば群島 - Gomasaba archipelago",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_75d8169c-c79c-4ed2-bf6c-a1aa18971cab",
+					"Name": "Vaiana Blue",
+					"RecommendedCapacity": 40,
+					"Capacity": 50,
+					"Description": "透き通る青い海。リゾート旅行へ！アイランドワールドを制作しました。 水上コテージでくつろいだり、砂浜で撮影会して楽しもう ジェットスキー、グライダー、バナナボートなどのマリンスポーツも！ Clear blue sea․ Go on a resort tripǃ We created Island World․ Relax at the water cottage or enjoy a photo session on the sandy beachǃ Marine sports such as jet ski‚ glider‚ and banana boat are also availableǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c84fbb38-eb04-448a-8f80-8d59cbe3b459",
+					"Name": "Midnight Shibuya",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "雨降る夜の渋谷をモチーフにしたワールドです！ 魔特六課_八咫烏、関連ワールド",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9a3e7956-2997-40fb-93ba-f04204cdc763",
+					"Name": "SayaTown",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "VRCワールド「SayaTown」公開しました！ 14․5k㎡の広大なワールドで様々な建物、場所があり 電車、車、バイク、ヘリコプターなどのに乗り探索することができます。 観光スポットも多数あり！ みなさん、ぜひ遊びに来てね！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "謎解きワールドポータル",
+			"Worlds": [
+				{
+					"ID": "wrld_98cc32f3-0ddc-4381-9bf2-ebb76a91e61a",
+					"Name": "謎解きポータルハブ「なぞいろは」-Nazotoki portal hub NazoIroha",
+					"RecommendedCapacity": 16,
+					"Capacity": 60,
+					"Description": "謎解きワールドのポータルハブです。謎ワを探したり，待ち合わせに使ったりしてください！不具合・削除依頼はご連絡いただけたら嬉しいです！This is a riddle world portal hub․ The worlds related to Nazotoki‚ a Japanese-style riddle‚ are mainly introduced․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d9241058-8f36-4a6a-b359-298d6cea1904",
+					"Name": "謎めぐり 記念写真館",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎めぐりで行って撮ってきた記念写真を展示しているワールドです これまでに行ったワールドに行くポータルを作ることもできます",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3b6983c6-814a-4e43-804a-a78845e231cf",
+					"Name": "謎解きパズル系ポータルワールド ∗A Portal World（Riddle‚ Puzzle）∗",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "個人的に体験した謎解き・パズル・脱出系のワールドを紹介するポータルワールドです。主観的なコメントや難度の表示があります。参考程度にどうぞ。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4be40602-3b88-4d1c-8955-a95f4ac78d1d",
+					"Name": "「一枚謎解き」MINIMAL SOLUTION",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "一枚謎解き「ミニマル」シリーズの解説ワールド「ミニマルソリューション」。ネタバレ注意！Riddle 「MINIMAL SOLUTION」․ ＃VRC_MINIMARUPUZZLE",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a7d9becb-6a5b-4956-ac84-87b2a86b7aad",
+					"Name": "たけすぴおん作謎ワ解説＆ポータルワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "たけすぴおん作の謎解きワールドのポータルと、簡単な説明、解説動画を見ることが出来るワールドです。現在38ワールドあります。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -124,6 +513,28 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+					"Name": "［JP］ USiOPORT ウシヲポート",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "日本語対応Portal Worldです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e93bf929-a9de-461c-8a7d-f0ebda909352",
+					"Name": "ゲームワールド紹介ワールド≺クレイドル≻",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "ゲームワールド紹介ワールド≺クレイドル≻は、ゲームワールドを紹介するワールドです。 Game Worlds Introduction World ≺Cradle≻ is a world that presents game worlds․ ［2023⁄09⁄25］バーチャルライフマガジン様に、紹介記事を書いていただきました！ URL˸https˸⁄⁄vr-lifemagazine․com⁄cradle⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -147,6 +558,110 @@
 					"RecommendedCapacity": 10,
 					"Capacity": 20,
 					"Description": "2024⁄01⁄27更新！ブルームの操作、アバターフィギュア、身長計付き四面図、AudioLink対応動画プレイヤー、パーティクルコライダーのテスト用オブジェクトなどがあります。使用したアセットの記録付き！2023⁄07⁄08時点の更新は旧ワールドの更新版としています。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "その他",
+			"Worlds": [
+				{
+					"ID": "wrld_8e7e4c56-d8f3-4478-9977-ac0368faf582",
+					"Name": "Just QK",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "クイズ王になれそうなワールドです。 早押しボタンやホワイトボードでクイズができます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b2dcf40e-8ed8-4056-9553-9f9a80bb5fe7",
+					"Name": "sakanaction 新宝島",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "サカナクション 鱼韵乐队 新宝岛",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_66db350a-478f-451d-a9d1-841a69ebd82e",
+					"Name": "トリビアの泉-Spring of Trivia-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "プリセットのトリビアが422個あります。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6409a742-ae13-405d-882e-8f96c8559e04",
+					"Name": "Tokyo big sight",
+					"RecommendedCapacity": 32,
+					"Capacity": 80,
+					"Description": "World biggest Exhibition Center and Holy land for anime fan",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_dbe37582-aa96-43e9-a557-96cb955bd419",
+					"Name": "VR Art Museum 西洋絵画美術館 v1․1",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "日本人向けの古典絵画から19世紀頃までのパブリックドメインの絵画を原寸大で展示しています。 v1․0 2022⁄6⁄4 公開 v1․1 2022⁄7⁄4 絵画の増設、縮尺の修正、解説の修正、秘密の部屋の追加",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4058a481-b3b7-45b9-898d-e2ee8aa7057a",
+					"Name": "素描部駅 Skeb_Station",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "素描部駅はSkebの協力によって作成されたワールドで、日本のローカル駅がモチーフです。Music by yuugen6 ［Love Your Sketch］",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_518e90cd-1643-4665-a43b-9be77db8106b",
+					"Name": "ひなげし坂_HinageshiZaka",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ひなげし坂は日本の島嶼部の田舎町をイメージして作られたワールドです。ゆっくりと夏をお過ごし下さい。HINAGESHI-ZAKA is a world imagined based on a rural town in the Japanese islands․ Please enjoy your leisurely summer there․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_0bed7591-1f04-4971-9419-0641f6bdd5a8",
+					"Name": "Hapineko Cafe",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Hapineko Cafe",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4ad7c206-e571-49e1-bbb2-622e99e0ddab",
+					"Name": "Bird Cafe -HIDAMARI-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "鳥さんたちと触れ合いながらくつろげる鳥カフェワールドです。交流イベント等で使えるギミックをいくつか配置しています。（プレゼンテーションギミック、ワールドメガホン、防音室、等）ギミックの使い方はカウンターのImagePadをご確認ください。",
 					"Platform": {
 						"PC": true,
 						"Android": true

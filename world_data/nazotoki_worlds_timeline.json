@@ -6,6 +6,17 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_4be40602-3b88-4d1c-8955-a95f4ac78d1d",
+					"Name": "「一枚謎解き」MINIMAL SOLUTION",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "一枚謎解き「ミニマル」シリーズの解説ワールド「ミニマルソリューション」。ネタバレ注意！Riddle 「MINIMAL SOLUTION」․ ＃VRC_MINIMARUPUZZLE",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_fd9515bc-0fa6-49c8-913f-12d4f111dee3",
 					"Name": "謎解きワールド『Quadruple - クアドラプル』",
 					"RecommendedCapacity": 16,

@@ -270,17 +270,6 @@
 					}
 				},
 				{
-					"ID": "wrld_0447fbb1-8ab3-4972-b724-8858041b912e",
-					"Name": "難易度ロリコライダー謎解き",
-					"RecommendedCapacity": 8,
-					"Capacity": 32,
-					"Description": "4段階の難易度調整が可能な謎解きワールドです。ストーリーあり。＃VRC_DifCoL",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
 					"ID": "wrld_9a68e667-d3dc-40a4-9f34-46d437fe86d7",
 					"Name": "謎解きワールド「この箱からの脱出」",
 					"RecommendedCapacity": 3,
@@ -1084,6 +1073,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_d2ff2dcb-5974-483e-ae2e-2dfbd1fae8f4",
+					"Name": "謎解きワールド『上下左右』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。通路を進み、上下左右を集めましょう。動作はローカルです。＃VRC_UDLR",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1317,6 +1317,33 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "ねおぽん",
+			"Worlds": [
+				{
+					"ID": "wrld_0447fbb1-8ab3-4972-b724-8858041b912e",
+					"Name": "難易度ロリコライダー謎解き",
+					"RecommendedCapacity": 8,
+					"Capacity": 32,
+					"Description": "4段階の難易度調整が可能な謎解きワールドです。ストーリーあり。＃VRC_DifCoL",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6b5b050d-cb5f-4eb6-8c82-d44feb7b80da",
+					"Name": "【謎解き】まっとうなサイエンス",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "色のついた謎を解いていくワールドです。 トゥルーエンドあり（インスタンスを抜ける必要はなし） 想定所要時間 ⁄ 人数：30分～ ⁄ 1～6人 ＃VRC_マットな彩and数",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]

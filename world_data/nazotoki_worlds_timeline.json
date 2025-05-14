@@ -2601,6 +2601,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_eabdb9ab-09d6-4068-a118-e8c4ac2501f6",
+					"Name": "8Questions",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "［JP⁄EN］ Solve the 8 questions․ All gimmicks are local․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},

@@ -6,6 +6,17 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_e7892abb-371b-437a-957d-3f96f8cce027",
+					"Name": "謎解きワールド『ミノタウロスの道』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けのちょっとした謎解きワールドです。部屋を傾けて、向こう側までの道を作りましょう。動作はローカルです。＃VRC_M_Way",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_c182398b-2539-4349-ab03-1fa720509df0",
 					"Name": "脱出ゲーム Platform",
 					"RecommendedCapacity": 8,

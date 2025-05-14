@@ -6,6 +6,28 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_c182398b-2539-4349-ab03-1fa720509df0",
+					"Name": "脱出ゲーム Platform",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "『偶然』に導かれたあなたは、罠の仕組まれたデスゲームから脱出できるのか？⁄ 制限時間40分 ⁄ グローバル動作 ⁄ 途中参加不可",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6b5b050d-cb5f-4eb6-8c82-d44feb7b80da",
+					"Name": "【謎解き】まっとうなサイエンス",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "色のついた謎を解いていくワールドです。 トゥルーエンドあり（インスタンスを抜ける必要はなし） 想定所要時間 ⁄ 人数：30分～ ⁄ 1～6人 ＃VRC_マットな彩and数",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_4be40602-3b88-4d1c-8955-a95f4ac78d1d",
 					"Name": "「一枚謎解き」MINIMAL SOLUTION",
 					"RecommendedCapacity": 8,

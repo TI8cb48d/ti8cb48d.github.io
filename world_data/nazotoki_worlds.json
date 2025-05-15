@@ -1268,6 +1268,33 @@
 			]
 		},
 		{
+			"Category": "32Ryo",
+			"Worlds": [
+				{
+					"ID": "wrld_985c09ba-7e86-4bd5-89c3-377c9871290f",
+					"Name": "謎解きワールド「4 Directions」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "回答欄は1つのみ。条件を推測して答えを導こう。 想定クリア時間˸30m~2h 動作˸ペン以外ローカル 難易度˸ちょいむず 不具合等は作者まで。 v1․1˸ヒントを追加。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0a483eff-fb88-4006-8ca8-5f3ea1516a0d",
+					"Name": "何の変哲もない謎解きワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "何の変哲もない普通の謎解きワールドです。難易度˸普通（主観） 想定クリア時間˸45m~2h 動作˸ペン以外ローカル 不具合等は作者まで。 v1․1˸Quest仮対応",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "ビビりのビビル",
 			"Worlds": [
 				{

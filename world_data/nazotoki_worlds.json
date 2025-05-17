@@ -237,17 +237,6 @@
 					}
 				},
 				{
-					"ID": "wrld_4c398857-d14d-45a1-88cd-9999d4125771",
-					"Name": "なぞとき しよう！",
-					"RecommendedCapacity": 8,
-					"Capacity": 16,
-					"Description": "練習で作ってみました。中級者向けくらいを想定してます。ヒントあり 全5問 ＃tokitai_VRC",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
 					"ID": "wrld_7916fcf8-e377-40f5-8d8d-3c79bcca05cc",
 					"Name": "謎解きのある部屋",
 					"RecommendedCapacity": 12,
@@ -308,6 +297,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "謎解きワールド「THE SEVEN」へようこそ！ このワールドには6問＋最終問題の計7つの 問題があります！ パスコードは数字で、パスワードは小文字の英語で 回答する必要があります！ 正しい回答を入力すると扉の音とともに次の部屋への道が開かれますよ！ 各問題にあるヒントは、一度展開すると消すことはできません！ リザルトにも影響するので頑張ってみましょう！＃VRC_THESEVENでリザルトを共有していただけると嬉しいです！クリア後隠し要素もあるよǃ 本ワールドの謎解きには一部日本語及び日本文化への理解が必要です",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_75aedc87-3557-45fe-b29d-740e6957ade5",
+					"Name": "謎解きワールド Rooms",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "数々の謎を解き明かし、部屋だらけの奇妙な空間から脱出せよ。 ⁄途中参加可能 ⁄想定クリアタイム˸ 3時間 ⁄VR・Desktop対応⁄【不具合報告は＠uzaaakiまで】",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -788,6 +788,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_fd9515bc-0fa6-49c8-913f-12d4f111dee3",
+					"Name": "謎解きワールド『Quadruple - クアドラプル』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "割とシンプルな謎解きワールドです。想定プレイ時間30～60分",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1167,6 +1178,33 @@
 					"RecommendedCapacity": 6,
 					"Capacity": 12,
 					"Description": "日本語話者向けの脱出ワールドです。バグにまみれた謎を解き明かし、脱出を目指しましょう。＃VRC_bug_test／プレイ時間：1~2時間／人数：1~6人推奨／機器：Desktop、VR両方プレイ可能／ギミック：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "いぬんちゅ",
+			"Worlds": [
+				{
+					"ID": "wrld_4c398857-d14d-45a1-88cd-9999d4125771",
+					"Name": "なぞとき しよう！",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "練習で作ってみました。中級者向けくらいを想定してます。ヒントあり 全5問 ＃tokitai_VRC",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c182398b-2539-4349-ab03-1fa720509df0",
+					"Name": "脱出ゲーム Platform",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "『偶然』に導かれたあなたは、罠の仕組まれたデスゲームから脱出できるのか？⁄ 制限時間40分 ⁄ グローバル動作 ⁄ 途中参加不可",
 					"Platform": {
 						"PC": true,
 						"Android": true

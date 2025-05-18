@@ -6,6 +6,17 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_19185e4e-f30b-48e1-a35d-b718189620da",
+					"Name": "謎解きワールド「なぞびより」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "処女作の謎解きワールドです。【難易度：ふつう】【所要時間：30分～1時間】【ローカル動作】 ＃VRC_なぞびより 注意：全ての問題にはヒントが付いていません",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_e7892abb-371b-437a-957d-3f96f8cce027",
 					"Name": "謎解きワールド『ミノタウロスの道』",
 					"RecommendedCapacity": 16,

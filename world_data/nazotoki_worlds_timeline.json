@@ -6,6 +6,17 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_0fa9dd6e-0194-45b0-bfbc-c3cfc6808300",
+					"Name": "CONTAINER",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "簡単な謎解きです。全1問 予想時間 5分～ ＃VRC_CONTAINER",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_19185e4e-f30b-48e1-a35d-b718189620da",
 					"Name": "謎解きワールド「なぞびより」",
 					"RecommendedCapacity": 8,
@@ -3083,6 +3094,22 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "2022/04",
+			"Worlds": [
+				{
+					"ID": "wrld_a05de834-7f9d-4073-aa92-bee08fbbdacc",
+					"Name": "謎解き⁄Riddle 'ALPHABET'",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Room N's No․1 ＝ G․ ［JP⁄EN］ 暗号・仕掛け主体の謎解きワールド。Cipher and gimmick riddles․ 1 hour ~ several days․",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]

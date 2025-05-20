@@ -6,6 +6,28 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_2d2623b5-e00b-4937-bff4-ffa8f89541e1",
+					"Name": "謎解きワールド『THE ORTHODOX3 -矢印だらけの部屋からの脱出-』",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "かえってきた王道。 仕掛けが作動する前に、謎を解いて部屋から脱出しましょう。 脱出のためのアドバイスをするのならば、ひとつだけ。 それぞれの矢印には、一貫した法則が存在します。 それを、お忘れなきよう。 難易度：難しい 問題数：大きく4問、小さく30問以上 制限時間：90分 動作：基本的にグローバル 注意事項： 本ワールドはゲーム開始後の合流を想定していません。 そのため、ゲームを開始する前に全員がそろっていること、およびそれ以上人が入ることはないことを確認してからプレイするようにお願いします。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_20e2bdd1-3eae-4532-9274-51cee7961a84",
+					"Name": "謎解きワールド『？？？だらけの謎』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "？？？だらけの謎を解け！＃VRC_Q",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_0fa9dd6e-0194-45b0-bfbc-c3cfc6808300",
 					"Name": "CONTAINER",
 					"RecommendedCapacity": 16,

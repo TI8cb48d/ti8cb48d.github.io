@@ -6,6 +6,28 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_b4651179-ed50-4319-bafe-713d73cff2bc",
+					"Name": "謎解きワールド『論理爆弾の塔』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けのちょっとした謎解きワールドです。１階～５階までの人形の話を聞いて、10分以内に爆弾のある場所を突き止めましょう。動作はローカルです。＃VRC_LogicTower",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b55669c8-c3e8-4a13-bd1b-beee7064e5bb",
+					"Name": "鏡の世界の間違い探し",
+					"RecommendedCapacity": 10,
+					"Capacity": 16,
+					"Description": "チルワールド風の間違い探しワールドです。 鏡の中の世界と現実の世界で異なるところがあるので、間違いを見つけてください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_2d2623b5-e00b-4937-bff4-ffa8f89541e1",
 					"Name": "謎解きワールド『THE ORTHODOX3 -矢印だらけの部屋からの脱出-』",
 					"RecommendedCapacity": 5,

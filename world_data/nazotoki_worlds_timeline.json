@@ -6,6 +6,17 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_225225dc-0e3a-42f6-8394-2481dad2b78b",
+					"Name": "9つの箱からの脱出～",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "初めて謎解きワールド作りました！ よければ、やってみてくださいー！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_b4651179-ed50-4319-bafe-713d73cff2bc",
 					"Name": "謎解きワールド『論理爆弾の塔』",
 					"RecommendedCapacity": 16,

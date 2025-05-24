@@ -673,6 +673,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_20e2bdd1-3eae-4532-9274-51cee7961a84",
+					"Name": "謎解きワールド『？？？だらけの謎』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "？？？だらけの謎を解け！＃VRC_Q",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},

@@ -6,6 +6,17 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_0a68be6d-2a02-479b-9f83-f16df73bbae7",
+					"Name": "VRChatを始めたばかりの新人が見様見真似で謎解きワールドを作ってみた件",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎ワールド初投稿です！VR推奨です。簡単ですが楽しんでもらえればと思います。 EXはありません。EXはありません。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_d0cf9a63-8421-453e-af12-d25fe002e3ef",
 					"Name": "謎解き?探索?パズル?ワールド「Empty」",
 					"RecommendedCapacity": 4,

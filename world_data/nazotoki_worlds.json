@@ -1106,6 +1106,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_b4651179-ed50-4319-bafe-713d73cff2bc",
+					"Name": "謎解きワールド『論理爆弾の塔』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けのちょっとした謎解きワールドです。１階～５階までの人形の話を聞いて、10分以内に爆弾のある場所を突き止めましょう。動作はローカルです。＃VRC_LogicTower",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1216,6 +1227,17 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 8,
 					"Description": "『偶然』に導かれたあなたは、罠の仕組まれたデスゲームから脱出できるのか？⁄ 制限時間40分 ⁄ グローバル動作 ⁄ 途中参加不可",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a50146fe-4730-4ea2-a4e2-1870751e232b",
+					"Name": "謎解きワールド Fake",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "そこにあるのは4枚のカード。日本語話者向け謎解きワールドです。想定クリア時間˸1時間くらい ＃VRC_Fake",
 					"Platform": {
 						"PC": true,
 						"Android": true

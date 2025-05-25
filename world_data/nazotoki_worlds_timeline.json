@@ -6,6 +6,17 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_091ef93c-19ce-4a95-977d-4f3754969d22",
+					"Name": "【謎解き】555～イッツ ファイブ to ゴー～",
+					"RecommendedCapacity": 5,
+					"Capacity": 15,
+					"Description": "謎解きが全て5画に制限された謎解きワールドです。EXあり。 想定所要時間 ⁄ 人数：25分～ ⁄ 1～5人。＃VRC_5画",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_0a68be6d-2a02-479b-9f83-f16df73bbae7",
 					"Name": "VRChatを始めたばかりの新人が見様見真似で謎解きワールドを作ってみた件",
 					"RecommendedCapacity": 16,

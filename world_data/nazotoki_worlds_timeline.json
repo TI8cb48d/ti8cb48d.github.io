@@ -6,6 +6,17 @@
 			"Category": "2025/05",
 			"Worlds": [
 				{
+					"ID": "wrld_d0cf9a63-8421-453e-af12-d25fe002e3ef",
+					"Name": "謎解き?探索?パズル?ワールド「Empty」",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "VRChatで出来る行動を全て試してみましょう。デスクトップ推奨。（ワールドのジャンルが分からないのでこのようなタイトルになっています。） v1․1˸テキスト修正、部屋間距離を500から100に変更",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_225225dc-0e3a-42f6-8394-2481dad2b78b",
 					"Name": "9つの箱からの脱出～",
 					"RecommendedCapacity": 16,

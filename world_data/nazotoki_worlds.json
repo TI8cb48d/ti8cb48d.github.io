@@ -270,17 +270,6 @@
 					}
 				},
 				{
-					"ID": "wrld_bac9d7a7-04ea-436a-9a0f-f406f447cfdf",
-					"Name": "12Riddles",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "12Riddlesです。謎解きです。適宜検索を推奨します。想定時間 2 hours․ 動作は基本的にローカルですが、一部致命的にグローバルなものを含みます。",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
 					"ID": "wrld_44265418-ea60-41fe-9beb-db1cbb3e451a",
 					"Name": "いずみ謎解き生誕祭2024",
 					"RecommendedCapacity": 16,
@@ -1338,6 +1327,44 @@
 				}
 			]
 		},
+	{
+			"Category": "Weiss White",
+			"Worlds": [
+						{
+					"ID": "wrld_bac9d7a7-04ea-436a-9a0f-f406f447cfdf",
+					"Name": "12Riddles",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "12Riddlesです。謎解きです。適宜検索を推奨します。想定時間 2 hours․ 動作は基本的にローカルですが、一部致命的にグローバルなものを含みます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_0fa9dd6e-0194-45b0-bfbc-c3cfc6808300",
+					"Name": "CONTAINER",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "簡単な謎解きです。全1問 予想時間 5分～ ＃VRC_CONTAINER",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_59c6f667-0eea-4c0f-b71a-b9be9f717295",
+					"Name": "プチ謎解きワールド Voiddle",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "プチ謎解きワールドです！4問だけあります！日本語と一部英語の知識が必要です。想定時間：25分～ 3問解けばクリアですが、普通のClearとPERFECT CLEARがあります。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
 		{
 			"Category": "32Ryo",
 			"Worlds": [
@@ -1439,6 +1466,17 @@
 					"RecommendedCapacity": 6,
 					"Capacity": 16,
 					"Description": "色のついた謎を解いていくワールドです。 トゥルーエンドあり（インスタンスを抜ける必要はなし） 想定所要時間 ⁄ 人数：30分～ ⁄ 1～6人 ＃VRC_マットな彩and数",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_091ef93c-19ce-4a95-977d-4f3754969d22",
+					"Name": "【謎解き】555～イッツ ファイブ to ゴー～",
+					"RecommendedCapacity": 5,
+					"Capacity": 15,
+					"Description": "謎解きが全て5画に制限された謎解きワールドです。EXあり。 想定所要時間 ⁄ 人数：25分～ ⁄ 1～5人。＃VRC_5画",
 					"Platform": {
 						"PC": true,
 						"Android": true

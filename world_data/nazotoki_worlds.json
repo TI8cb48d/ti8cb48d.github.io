@@ -312,6 +312,28 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_225225dc-0e3a-42f6-8394-2481dad2b78b",
+					"Name": "9つの箱からの脱出～",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "初めて謎解きワールド作りました！ よければ、やってみてくださいー！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+								{
+					"ID": "wrld_8aaea81b-e762-43ff-ae58-0747f0b8495b",
+					"Name": "MathPuzzle",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "数学的思考をテーマとした謎解き（パズル）ワールドです。 推定クリア時間：20～40分。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -1231,6 +1253,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+								{
+					"ID": "wrld_fdac92e2-d1de-4010-bdb1-4f8d8be0229c",
+					"Name": "なぞときクエスト",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "選べる難易度！12問の謎を解いてより多くの敵を倒そう！ ＃VRC_なぞクエ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1358,6 +1391,28 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "プチ謎解きワールドです！4問だけあります！日本語と一部英語の知識が必要です。想定時間：25分～ 3問解けばクリアですが、普通のClearとPERFECT CLEARがあります。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e1df89b6-8826-4558-ac0c-a4a5da1eea67",
+					"Name": "謎解ァヵワールド「Reddle」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "チル、できません。あっと驚く新体験、ありません。一枚謎だけです。8問 ＋ Lunatic3問 想定時間100分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_643f07f6-d4e3-4850-a414-77e42994eaca",
+					"Name": "パズル＆謎解きワールド「Inherit」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "古来から伝わる剣がある。その剣は「継承」を司る１２の石板を解き明かした人物に継承されるらしい。あなたは謎を解明し、剣を入手することはできるのか。日本語と英語それなりのパズル＆謎解きワールドです。予想時間：1時間 動作はローカルです。",
 					"Platform": {
 						"PC": true,
 						"Android": true

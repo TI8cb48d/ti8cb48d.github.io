@@ -193,6 +193,17 @@
 					}
 				},
 				{
+					"ID": "wrld_56d7cb64-3214-411e-8af2-a7306d369470",
+					"Name": "七つの謎",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "七つの問題がある謎解きワールドです",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_69f313d6-8163-4e4d-ba1f-289037d6a406",
 					"Name": "Simple is Best",
 					"RecommendedCapacity": 20,
@@ -1124,6 +1135,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "日本人向けのちょっとした謎解きワールドです。１階～５階までの人形の話を聞いて、10分以内に爆弾のある場所を突き止めましょう。動作はローカルです。＃VRC_LogicTower",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+								{
+					"ID": "wrld_e7892abb-371b-437a-957d-3f96f8cce027",
+					"Name": "謎解きワールド『ミノタウロスの道』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けのちょっとした謎解きワールドです。部屋を傾けて、向こう側までの道を作りましょう。動作はローカルです。＃VRC_M_Way",
 					"Platform": {
 						"PC": true,
 						"Android": true

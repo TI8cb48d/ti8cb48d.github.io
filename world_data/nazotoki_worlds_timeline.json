@@ -3,6 +3,33 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2025/06",
+			"Worlds": [
+				{
+					"ID": "wrld_1a8c9550-40b1-4b10-80a3-0cdec61ccb61",
+					"Name": "Summer Phantom あの頃の夏の話",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "「君に、あの夏を思い出させに来たよ」 祖母の遺品整理の途中で居眠りしたあなたが目覚めると、背後霊の声が聞こえるようになっていた。仕掛けられた謎を解いて、背後霊にも片付けを手伝わせてやろう。 セーブなしヒントありローカル動作の謎解きワールドです。注：アバターサイズが大きい場合雑談・ヒントが使えない可能性があります。謎を解くごとにヒントは更新され、雑談は追加解放されます。おまけ˸ ＃VRC_SummerPhantom filemlia",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_94377591-e006-4421-b190-a90b51db0f0d",
+					"Name": "謎解きワールド original",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語話者向けの謎解きワールドです⁄推定クリア時間 ヒントをしっかり使って1時間～⁄初めてのワールドなのでどうか温かい目でお願いします",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},				
+		{
 			"Category": "2025/05",
 			"Worlds": [
 				{

@@ -26,6 +26,83 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_3f2bd052-5872-4ebd-80f8-bec836fcbb45",
+					"Name": "ねことうさぎのなぞとき",
+					"RecommendedCapacity": 5,
+					"Capacity": 16,
+					"Description": "クリア目安20分から30分 謎解き初心者向けワールド ねことうさぎの要素はあまりありません ＃VRC_ねことうさぎ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c6223590-8ad6-41ba-b691-2962be711440",
+					"Name": "謎解きワールド「侵蝕」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "問題が進むたびに問題の左側が徐々に黒く侵蝕されていくワールドです。最後の問題は色々推測する必要があります。全7問。 不具合等は作者まで。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a45e1d07-040f-459e-bcf0-24cbae1659b0",
+					"Name": "【謎解き】いじわる星人からの挑戦状",
+					"RecommendedCapacity": 5,
+					"Capacity": 15,
+					"Description": "いじわる星人から探偵おうしゃま宛てに送られてきた挑戦状に挑む助手のあなた。いじわるな謎たちをあなたは解くことができるのか！？難易度4段階あり、ヒントから答えまであり。想定時間：30分～ ⁄想定人数：1～5人",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1960ba66-2e44-40ab-8340-ae0e8941c76f",
+					"Name": "RootHive˸ Servaline Domain The Forgotten Giggig Protocol",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "gizmo-pantsが送るてんこ盛りワールド。風が吹きすさぶサーバルキャットの住処に忘れ去られ埋もれた謎をあなたも解いてみないか？ ワールドに設置された３Dモデル、スクリプトは基本的にgizmo-pantsによる作品です。iwasyncを用いた立体音響動画視聴環境を、liltoonによるLightVolumeなライティング表現とHmixGalleryから『ポックルの大地』をBGMとして利用し、荒廃しながらも快活に存るカラっとした空気感を表現しています。 A chaotic‚ jam-packed world brought to you by gizmo-pants․ Will you uncover the forgotten mysteries buried in the windswept home of the serval cat? scripts placed throughout the world are original creations by gizmo-pants․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8a4ac435-7b3d-4cb6-8185-e03efb691248",
+					"Name": "謎解きワールド「南国執務室」",
+					"RecommendedCapacity": 2,
+					"Capacity": 8,
+					"Description": "パズル系謎解きワールド⁄PCオンリー⁄2時間想定⁄推奨人数1~3人⁄Desktop可⁄クリア状態は同期するので、手つかずの物からなら途中参加可⁄細かいものは同期しません：このワールドにはVRC貴族部サロンの非公式コンテンツを含みます：ペルベヌアの貴族の執務室です。部屋の持ち主は領土問題に頭を悩ませているようで？",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_56902cdf-da82-4e88-9f8a-9757f482d441",
+					"Name": "？？？ワールド 「10＾7」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "実験的理不尽ワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b7cfd244-6e5a-4ef5-a05b-18ba0485a84a",
+					"Name": "謎解きワールド-Riddle pangraM",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "初作品かつ実験作品。答えと謎・指示を46音で制作しました。 少なめの6問構成です。 限られた文字で何が作れるかの挑戦。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},				

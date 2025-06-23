@@ -345,6 +345,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_3f2bd052-5872-4ebd-80f8-bec836fcbb45",
+					"Name": "ねことうさぎのなぞとき",
+					"RecommendedCapacity": 5,
+					"Capacity": 16,
+					"Description": "クリア目安20分から30分 謎解き初心者向けワールド ねことうさぎの要素はあまりありません ＃VRC_ねことうさぎ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b7cfd244-6e5a-4ef5-a05b-18ba0485a84a",
+					"Name": "謎解きワールド-Riddle pangraM",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "初作品かつ実験作品。答えと謎・指示を46音で制作しました。 少なめの6問構成です。 限られた文字で何が作れるかの挑戦。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -1466,6 +1488,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_c6223590-8ad6-41ba-b691-2962be711440",
+					"Name": "謎解きワールド「侵蝕」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "問題が進むたびに問題の左側が徐々に黒く侵蝕されていくワールドです。最後の問題は色々推測する必要があります。全7問。 不具合等は作者まで。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1554,6 +1587,17 @@
 					"RecommendedCapacity": 5,
 					"Capacity": 15,
 					"Description": "謎解きが全て5画に制限された謎解きワールドです。EXあり。 想定所要時間 ⁄ 人数：25分～ ⁄ 1～5人。＃VRC_5画",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a45e1d07-040f-459e-bcf0-24cbae1659b0",
+					"Name": "【謎解き】いじわる星人からの挑戦状",
+					"RecommendedCapacity": 5,
+					"Capacity": 15,
+					"Description": "いじわる星人から探偵おうしゃま宛てに送られてきた挑戦状に挑む助手のあなた。いじわるな謎たちをあなたは解くことができるのか！？難易度4段階あり、ヒントから答えまであり。想定時間：30分～ ⁄想定人数：1～5人",
 					"Platform": {
 						"PC": true,
 						"Android": true

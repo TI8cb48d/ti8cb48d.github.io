@@ -3,8 +3,103 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2025/07",
+			"Worlds": [
+				{
+					"ID": "wrld_1475ab06-c825-44fb-9f94-391095334b6b",
+					"Name": "謎解きRTA【7th ANSWER】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "誰よりも早く「７問目の答え」を導くタイムアタック型の謎解きゲームです。2020年にTwitter上で開催した謎解き企画のVRChat移植版です。【難易度：やや難しい】【知識：少し必要】【目標クリアタイム：40分】【ギミック：ローカル（タイマーはグローバルのため途中参加不可）】【 ＃VRC_7th_ANSWER 】",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6996e907-acbd-4077-b3df-da2023b6bc7e",
+					"Name": "Reloader",
+					"RecommendedCapacity": 6,
+					"Capacity": 8,
+					"Description": "日本語話者向けの脱出ワールドです。ワールドのロードを繰り返し、脱出を目指しましょう。 ＃VRC_Reloader／制限時間：75分／人数：1~6人推奨／機器：Desktop、VR両方プレイ可能／ギミック：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c01158fb-3c81-47ac-b772-76737921440e",
+					"Name": "謎解きワールド「黒紫無双インフィニティ」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［JP Only］［DUELECT参加作品］日本語話者向け謎解きワールドです。ワールド動作˸ローカル プレイ人数˸1人～ 想定クリア時間˸30分～90分",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6663bf66-58e9-4fb2-8bb6-909ee41e91bd",
+					"Name": "謎解きワールド『六角遊戯』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。出題される謎に素早く答えてください。 動作はグローバルです。プレイ時間：１回あたり約５分 ＃VRC_Rokkaku",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8ef82912-3a1c-4408-9380-05499c7a22bd",
+					"Name": "謎解きワールド：CrescentMoon",
+					"RecommendedCapacity": 8,
+					"Capacity": 32,
+					"Description": "1問正解すればクリアです。Exクリアはありません。想定クリア時間：60分",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_5ae9e6c2-ae04-4e7c-ad1d-1220c1514b54",
+					"Name": "Word Sculpture Museum 単語彫刻美術館 ［Puzzle⁄Riddle］",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Openworld puzzling sculpture museum․ Your purpose is to guess its title․ English supported․ 5＋ hours of gameplay with progress saves․ Playable in VR ＆ Desktop․ オープンワールドなパズル美術館․ 各彫刻のタイトルを当ててください․ 日本語対応․ 配信OK․ 想定5時間以上（セーブ可）․ VR ⁄ Desktop両対応․ ＃VRC_WSMPuzzle",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6ec05bad-ba8b-4265-8242-7e9d87406b07",
+					"Name": "とあるVTuberへの挑戦状",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "フレンドのVtuberに向けて作ったものですが、どなたでも解けると思います。 想定クリア時間：１時間（一部検索推奨） ＃VRC_TVTC",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},	
+		{
 			"Category": "2025/06",
 			"Worlds": [
+				{
+					"ID": "wrld_a57e3ab9-ba4a-4bfd-9024-f0dcab49f4c9",
+					"Name": "［キンニクでカイケツ］みんなで謎解き探索系ホラーPhantoms at Horror Nights",
+					"RecommendedCapacity": 10,
+					"Capacity": 15,
+					"Description": "今宵、挑戦者のみなさまを館にご招待いたします。筋肉はウラギラナイ！筋肉がすべてをカイケツする！あまりコワクナイホラー！制限時間２０分、全員が揃ったらインスタンスを閉じてスタート／2名以上いないとクリアできません。HMD利用のプレーヤーは体調が良いときにプレイしてください。また、リスポーンは問題ありませんが、ワールドに入りなおすとギミックの不具合が発生します。ワールド音量８０以上推奨／配信・動画OKですが、ワールド名の記載をお願いします／Your muscles will solve all mysteriesǃPlayers using HMD should play when they are in good physical condition․Two or more people must play to complete the game․ Also‚ respawning is not a problem‚ but reentering the world will cause gimmick malfunctions․ World volume 80 or higher recommended․ Live streaming and video uploads are allowed․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
 				{
 					"ID": "wrld_1a8c9550-40b1-4b10-80a3-0cdec61ccb61",
 					"Name": "Summer Phantom あの頃の夏の話",

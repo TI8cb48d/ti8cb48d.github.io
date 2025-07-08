@@ -1,6 +1,6 @@
 {
 	"ReverseCategorys": false,
-	"ShowPrivateWorld": false,
+	"ShowPrivateWorld": true,
 	"Categorys": [
 		{
 			"Category": "Other Creators",
@@ -314,6 +314,17 @@
 					}
 				},
 				{
+					"ID": "wrld_19185e4e-f30b-48e1-a35d-b718189620da",
+					"Name": "謎解きワールド「なぞびより」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "処女作の謎解きワールドです。【難易度：ふつう】【所要時間：30分～1時間】【ローカル動作】 ＃VRC_なぞびより 注意：全ての問題にはヒントが付いていません",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_57c60247-d135-49ee-a3c6-54ebb94b7479",
 					"Name": "謎解きワールド『34』",
 					"RecommendedCapacity": 10,
@@ -367,6 +378,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_6ec05bad-ba8b-4265-8242-7e9d87406b07",
+					"Name": "とあるVTuberへの挑戦状",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "フレンドのVtuberに向けて作ったものですが、どなたでも解けると思います。 想定クリア時間：１時間（一部検索推奨） ＃VRC_TVTC",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b1562a95-f952-4e8b-8eae-21468f652f6c",
+					"Name": "謎解きワールド「キク！」",
+					"RecommendedCapacity": 12,
+					"Capacity": 32,
+					"Description": "「この世の中には、キいておいたほうがよいとされるものが沢山あります。」日本語話者向け謎解きワールドです。 Desktop可／想定時間30～60min／ワールド内にヒント・解答あり／ハッシュタグ：＃VRC_RIDDLE_KIKU",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -405,6 +438,49 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_8ef82912-3a1c-4408-9380-05499c7a22bd",
+					"Name": "謎解きワールド：CrescentMoon",
+					"RecommendedCapacity": 8,
+					"Capacity": 32,
+					"Description": "1問正解すればクリアです。Exクリアはありません。想定クリア時間：60分",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "Trimally -Private World-",
+			"Worlds": [
+				{
+					"ID": "wrld_fac890eb-3be7-4755-b509-428c0abd279e",
+					"Name": "Night Wind【謎解きワールド】",
+					"RecommendedCapacity": 8,
+					"Capacity": 32,
+					"Description": "Exクリア等はありません。クリアまでの時間：15分～150分",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					},
+					"ReleaseStatus": "private",
+					"PermittedRoles": ["Master"]
+				},
+				{
+					"ID": "wrld_07eeb5f6-9a49-47eb-8187-a21e0c996a19",
+					"Name": "謎解きワールド：Coincidence",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Coincidence：偶然の一致。挙動はすべてグローバルです。QvPen、電卓はご自由にお使いください。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					},
+					"ReleaseStatus": "private",
+					"PermittedRoles": ["Master"]
 				}
 			]
 		},
@@ -1951,6 +2027,12 @@
 					}
 				}
 			]
+		}
+	],
+	"Roles":[
+		{
+			"RoleName":"Master",
+			"DisplayNames":["とり（Tori）"]
 		}
 	]
 }

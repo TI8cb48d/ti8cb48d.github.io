@@ -39,6 +39,17 @@
 					}
 				},
 				{
+					"ID": "wrld_945c28af-bdcf-41b4-b5b4-7d0ff6c77444",
+					"Name": "脱出ゲーム「リボルバールーム」",
+					"RecommendedCapacity": 4,
+					"Capacity": 10,
+					"Description": "絶望のギャンブルに隠された謎を暴け。⁄途中参加不可⁄制限時間60分⁄謎解きに慣れている人向け ＃VRC_リボルバールーム ＃DUELECT",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_6663bf66-58e9-4fb2-8bb6-909ee41e91bd",
 					"Name": "謎解きワールド『六角遊戯』",
 					"RecommendedCapacity": 16,

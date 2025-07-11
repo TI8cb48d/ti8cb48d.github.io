@@ -440,22 +440,31 @@
 					}
 				},
 				{
-					"ID": "wrld_8ef82912-3a1c-4408-9380-05499c7a22bd",
-					"Name": "謎解きワールド：CrescentMoon",
-					"RecommendedCapacity": 8,
+					"ID": "wrld_07eeb5f6-9a49-47eb-8187-a21e0c996a19",
+					"Name": "謎解きワールド：Coincidence",
+					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "1問正解すればクリアです。Exクリアはありません。想定クリア時間：60分",
+					"Description": "Coincidence：偶然の一致。挙動はすべてグローバルです。QvPen、電卓はご自由にお使いください。",
 					"Platform": {
 						"PC": true,
-						"Android": true,
-						"iOS": true
-					}
-				}
-			]
-		},
-		{
-			"Category": "Trimally -Private World-",
-			"Worlds": [
+						"Android": true
+					},
+					"ReleaseStatus": "private",
+					"PermittedRoles": ["Master"]
+				},
+				{
+					"ID": "wrld_95d19cb5-3149-4306-8a19-e18583c36329",
+					"Name": "【α版】RIDDLES in 60 Seconds",
+					"RecommendedCapacity": 8,
+					"Capacity": 32,
+					"Description": "新作謎解きワールドのテスト用ワールドです。みんなで謎を解こう！（一人でも可） タイトルは仮のものです。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					},
+					"ReleaseStatus": "private",
+					"PermittedRoles": ["Master"]
+				},
 				{
 					"ID": "wrld_fac890eb-3be7-4755-b509-428c0abd279e",
 					"Name": "Night Wind【謎解きワールド】",
@@ -470,17 +479,16 @@
 					"PermittedRoles": ["Master"]
 				},
 				{
-					"ID": "wrld_07eeb5f6-9a49-47eb-8187-a21e0c996a19",
-					"Name": "謎解きワールド：Coincidence",
-					"RecommendedCapacity": 16,
+					"ID": "wrld_8ef82912-3a1c-4408-9380-05499c7a22bd",
+					"Name": "謎解きワールド：CrescentMoon",
+					"RecommendedCapacity": 8,
 					"Capacity": 32,
-					"Description": "Coincidence：偶然の一致。挙動はすべてグローバルです。QvPen、電卓はご自由にお使いください。",
+					"Description": "1問正解すればクリアです。Exクリアはありません。想定クリア時間：60分",
 					"Platform": {
 						"PC": true,
-						"Android": true
-					},
-					"ReleaseStatus": "private",
-					"PermittedRoles": ["Master"]
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -685,6 +693,17 @@
 					"RecommendedCapacity": 4,
 					"Capacity": 6,
 					"Description": "全てが謎に包まれた脱出ゲーム、＂VEIL＂へようこそ。⁄途中参加不可⁄制限時間60分",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_945c28af-bdcf-41b4-b5b4-7d0ff6c77444",
+					"Name": "脱出ゲーム「リボルバールーム」",
+					"RecommendedCapacity": 4,
+					"Capacity": 10,
+					"Description": "絶望のギャンブルに隠された謎を暴け。⁄途中参加不可⁄制限時間60分⁄謎解きに慣れている人向け ＃VRC_リボルバールーム ＃DUELECT",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -2021,6 +2040,17 @@
 					"RecommendedCapacity": 15,
 					"Capacity": 15,
 					"Description": "実験的な謎解きワールドです。＃VRC_みんなで",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e38e9941-5081-489d-9a86-8bf28a85a1b4",
+					"Name": "［riddle］Ophiuchus",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "＃VRC_Ophiuchus",
 					"Platform": {
 						"PC": true,
 						"Android": true

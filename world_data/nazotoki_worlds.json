@@ -1432,11 +1432,11 @@
 					}
 				},
 				{
-					"ID": "wrld_30000000-0000-0000-0000-000000000000",
+					"ID": "wrld_1475ab06-c825-44fb-9f94-391095334b6b",
 					"Name": "謎解きRTA【7th ANSWER】",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "誰よりも早く、７問目の答えを導くタイムアタック謎解きです。2020年にTwitter上で開催した謎解き企画のVRC移植版です。",
+					"Description": "誰よりも早く「７問目の答え」を導くタイムアタック型の謎解きゲームです。2020年にTwitter上で開催した謎解き企画のVRChat移植版です。【難易度：やや難しい】【知識：少し必要】【目標クリアタイム：40分】【ギミック：ローカル（タイマーはグローバルのため途中参加不可）】【 ＃VRC_7th_ANSWER 】",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -1883,7 +1883,7 @@
 					}
 				},
 				{
-					"ID": "wrld_30000000-0000-0000-0000-000000000000",
+					"ID": "",
 					"Name": "Fascination",
 					"RecommendedCapacity": 30,
 					"Capacity": 32,

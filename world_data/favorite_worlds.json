@@ -466,17 +466,6 @@
 					}
 				},
 				{
-					"ID": "wrld_4be40602-3b88-4d1c-8955-a95f4ac78d1d",
-					"Name": "「一枚謎解き」MINIMAL SOLUTION",
-					"RecommendedCapacity": 8,
-					"Capacity": 16,
-					"Description": "一枚謎解き「ミニマル」シリーズの解説ワールド「ミニマルソリューション」。ネタバレ注意！Riddle 「MINIMAL SOLUTION」․ ＃VRC_MINIMARUPUZZLE",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
 					"ID": "wrld_a7d9becb-6a5b-4956-ac84-87b2a86b7aad",
 					"Name": "たけすぴおん作謎ワ解説＆ポータルワールド",
 					"RecommendedCapacity": 16,
@@ -547,6 +536,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "Cozy avatar testing world with quick avatar image generator․ Mesh test‚ born test‚ lighting test‚ Avatar intro image and multiple sick image generator․ Test your avatar and make your avatar introǃ Share your creative avatar intro with your friends with ＃AvatarIntro",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
+					"Name": "Avatar Testing Chamber",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Working on avatars? Test your emissions‚ AudioLink‚ LTCGI‚ height‚ falling animation‚ polygons⁄normals‚ reflections and moreǃ View your own doppelganger‚ dance to a MMD song‚ use real-time lights or take pictures with any colour background․ ~ World is a continuous work in progress",
 					"Platform": {
 						"PC": true,
 						"Android": true

@@ -524,6 +524,39 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_0754e9f0-e19d-4dbf-8f4f-a2f891c7736f",
+					"Name": "れおちゃんのポータルワールド！ver․1",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "たくさんの好きと行ってみたい場所をまとめた写真撮影用ポータルワールドver․1です。1ってことは2が存在します。よかったらそっちもいってみてね。YamaPlayerとQvペンがあります。バージョンを分けて被りを差し替えました。追加して欲しいワールドがあったら私のXアカウント（＠Shinffia）にお気軽にDMかリプください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_eae14a57-45ec-4d68-a367-d4a7946f5078",
+					"Name": "れおちゃんのポータルワールド！ver․2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "たくさんの好きと行ってみたい場所をまとめた写真撮影用ポータルワールドver․2です。2ってことは1が存在します。よかったらそっちもいってみてね。YamaPlayerとQvペンがあります。バージョンを分けて被りを差し替えました。追加して欲しいワールドがあったら私のXアカウント（＠Shinffia）にお気軽にDMかリプください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a1dc3e31-8f6d-4f40-bbdd-f36a1fd5d7e4",
+					"Name": "CHILL PORTAL",
+					"RecommendedCapacity": 16,
+					"Capacity": 64,
+					"Description": "CHILL PORTAL 現在122個",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},

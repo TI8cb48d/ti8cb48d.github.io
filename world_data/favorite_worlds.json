@@ -701,6 +701,49 @@
 					}
 				}
 			]
+		},
+		{
+			"Category": "メモ",
+			"Worlds": [
+				{
+					"ID": "wrld_7444c1ee-8dd8-4057-8926-75b3de75b125",
+					"Name": "-NKR- SemiBasement BAR",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "-NKR- SemiBasement BAR のデモワールドとなります",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_a20905ce-777d-43df-abcb-2e49b69ec7ea",
+					"Name": "comrades 2 test",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "comrades 2 test",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				}
+			],
+			"PermittedRoles": [
+				"Master"
+			]
+		}
+	],
+	"Roles": [
+		{
+			"RoleName": "Master",
+			"DisplayNames": [
+				"とり（Tori）",
+				"Trimally"
+			]
 		}
 	]
 }

@@ -6,6 +6,28 @@
 			"Category": "2025/07",
 			"Worlds": [
 				{
+					"ID": "wrld_99939687-ab7d-448c-b42b-51ff2862b5d9",
+					"Name": "脱出ゲーム「無実の罪からの脱出」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "冤罪で投獄されたあなた。刑が執行されるまでに『無実の罪』から脱出できるのか？ ⁄ 制限時間60分 ⁄ グローバル動作 ⁄ 途中参加不可",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c38838f2-802a-48f6-9df6-061b92248abf",
+					"Name": "EgoisticPerspectivREVENGE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「EgoisticPerspectiveREVENGE」は9つの問題から構成される謎解きワールドです。 Advanced code-breaking technology is required to play this world․ 2025⁄07⁄12アップロード 2025⁄07⁄14告知 2025⁄07⁄16 進めなくなる致命的な問題を修正（したつもりです）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_1475ab06-c825-44fb-9f94-391095334b6b",
 					"Name": "謎解きRTA【7th ANSWER】",
 					"RecommendedCapacity": 16,

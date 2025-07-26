@@ -28,6 +28,17 @@
 					}
 				},
 				{
+					"ID": "wrld_0a11cb79-e01f-45b9-a0f8-1bf8e3b77878",
+					"Name": "すいちゃんなぞなぞ2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "もふでさん（すいちゃんさん）がツイッターで公開しているなぞなぞや、書き下ろしのなぞなぞを楽しむことが出来るワールドです。 ぜひ複数人で考えながらご覧ください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_1475ab06-c825-44fb-9f94-391095334b6b",
 					"Name": "謎解きRTA【7th ANSWER】",
 					"RecommendedCapacity": 16,

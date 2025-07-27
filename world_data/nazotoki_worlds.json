@@ -17,17 +17,6 @@
 					}
 				},
 				{
-					"ID": "wrld_7b517ca3-28f7-4179-a12b-acb21302e09c",
-					"Name": "謎解きワールド 「NODUO」",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "4方向の謎を解いて、最終問題を解こう ǃ 困ったときは＂ウソ＂ヒントがついている ǃ 動作 ˸ ローカル ⁄ 想定クリア時間 ˸ 10秒～1時間 （Ex除く） ⁄ ＃VRC_NODUO",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
 					"ID": "wrld_d1781dd5-bf7b-4868-9b06-db32237e24b4",
 					"Name": "チマタグラムワールド「食べちまた」",
 					"RecommendedCapacity": 6,
@@ -1281,7 +1270,7 @@
 						"Android": true
 					}
 				},
-								{
+				{
 					"ID": "wrld_e7892abb-371b-437a-957d-3f96f8cce027",
 					"Name": "謎解きワールド『ミノタウロスの道』",
 					"RecommendedCapacity": 16,
@@ -1290,6 +1279,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a759bc21-fcf4-4033-9c8f-bb6f8b0ceb35",
+					"Name": "謎解きワールド『ミノタウロスの箱 ~Minotaur's Box~』",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "謎解きワールドです。道が無いなら、作ればいい。動作：ローカル ＂Minotaur's Box＂ It is a puzzle world․ Move the boxes and conquer the labyrinth․",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -1536,7 +1536,45 @@
 				}
 			]
 		},
-	{
+		{
+			"Category": "はやおうどん（´・ω・`）",
+			"Worlds": [
+				{
+					"ID": "wrld_7b517ca3-28f7-4179-a12b-acb21302e09c",
+					"Name": "謎解きワールド 「NODUO」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "4方向の謎を解いて、最終問題を解こう ǃ 困ったときは＂ウソ＂ヒントがついている ǃ 動作 ˸ ローカル ⁄ 想定クリア時間 ˸ 10秒～1時間 （Ex除く） ⁄ ＃VRC_NODUO",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_948128c8-052c-4b58-bcaa-9151efd598cc",
+					"Name": "ImPerFecTion all",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ImPerFecTion all ⁄ Riddle world ⁄ Play time ˸ 30mins～ ⁄ Gimmicks ˸ Local ⁄ ＃VRC_IPFTall",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_66aad73f-0a73-4978-8203-823f995874a6",
+					"Name": "Hedera",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Hedera ⁄ Riddle world ⁄ Play time ˸ 1 hour ⁄ Gimmicks ˸ Local ⁄ ＃VRC_Hedera",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "Weiss White",
 			"Worlds": [
 						{

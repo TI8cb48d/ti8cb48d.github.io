@@ -709,6 +709,17 @@
 						"Android": false
 					},
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_ece83c46-61be-418f-bd35-2aceb197d611",
+					"Name": "謎解き「OVERHOLE」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "13個の＂謎＂と、13個の＂ピース＂。アナタは全てを揃えることはできるのか？高難易度、想定プレイ時間３時間～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1363,6 +1374,17 @@
 					"RecommendedCapacity": 6,
 					"Capacity": 12,
 					"Description": "日本語話者向けの脱出ワールドです。バグにまみれた謎を解き明かし、脱出を目指しましょう。＃VRC_bug_test／プレイ時間：1~2時間／人数：1~6人推奨／機器：Desktop、VR両方プレイ可能／ギミック：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6996e907-acbd-4077-b3df-da2023b6bc7e",
+					"Name": "Reloader",
+					"RecommendedCapacity": 6,
+					"Capacity": 8,
+					"Description": "日本語話者向けの脱出ワールドです。ワールドのロードを繰り返し、脱出を目指しましょう。 ＃VRC_Reloader／制限時間：75分／人数：1~6人推奨／機器：Desktop、VR両方プレイ可能／ギミック：グローバル",
 					"Platform": {
 						"PC": true,
 						"Android": true

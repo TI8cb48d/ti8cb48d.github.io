@@ -435,6 +435,22 @@
 			]
 		},
 		{
+			"Category": "Tokunomilk",
+			"Worlds": [
+				{
+					"ID": "wrld_23d3471a-6670-4b77-bf2c-4c4af1e53231",
+					"Name": "【謎解きワールド】XYZ",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "日本語話者向け高難易度謎解きワールドです 検索必須 動作はペンを除きローカルです supported by なず˸NAZ ふぁゔ／Favnir ＃VRC_XYZ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "Trimally",
 			"Worlds": [
 				{

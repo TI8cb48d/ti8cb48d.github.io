@@ -6,6 +6,17 @@
 			"Category": "2025/07",
 			"Worlds": [
 				{
+					"ID": "wrld_9062ce41-f590-4bdf-a3f9-23822a056a86",
+					"Name": "謎解きワールド「WHITE OUT 2」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "1枚謎のみのシンプルな謎解きワールドです。 ＃VRC_WHITE_OUT_2",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_99939687-ab7d-448c-b42b-51ff2862b5d9",
 					"Name": "脱出ゲーム「無実の罪からの脱出」",
 					"RecommendedCapacity": 16,

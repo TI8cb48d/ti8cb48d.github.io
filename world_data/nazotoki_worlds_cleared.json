@@ -1103,6 +1103,17 @@
 			"Category": "takuminm1n",
 			"Worlds": [
 				{
+					"ID": "wrld_9062ce41-f590-4bdf-a3f9-23822a056a86",
+					"Name": "謎解きワールド「WHITE OUT 2」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "1枚謎のみのシンプルな謎解きワールドです。 ＃VRC_WHITE_OUT_2",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_70e54b8d-d4e8-4933-8dd4-3ad2246b0ad8",
 					"Name": "謎解きワールド「WHITE OUT」",
 					"RecommendedCapacity": 8,
@@ -1464,6 +1475,22 @@
 			]
 		},
 		{
+			"Category": "てるるx-x",
+			"Worlds": [
+				{
+					"ID": "wrld_c9203b82-6411-4b8d-9cc6-af9f70626792",
+					"Name": "謎解きワールド「謎の家からの脱出」",
+					"RecommendedCapacity": 1,
+					"Capacity": 16,
+					"Description": "謎の家からの脱出を目指せ！⁄想定クリア時間60分‚挙動は全てローカル⁄＃VRC_NazoHouse",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "とまみちゃん",
 			"Worlds": [
 				{
@@ -1639,6 +1666,17 @@
 		{
 			"Category": "ふ（fu ⁄ ɸɯ）",
 			"Worlds": [
+				{
+					"ID": "wrld_205216bf-acbd-4004-84c8-6e618e305ece",
+					"Name": "謎解きワールド「ぐらでーしょん」",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "謎解きとそれ以外の境目が分からなくなりました。 明らかに筋のある別解がある場合はお知らせください。。傾聴します。全4問です ヒントあります。 想定クリア時間10分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
 				{
 					"ID": "wrld_d1781dd5-bf7b-4868-9b06-db32237e24b4",
 					"Name": "チマタグラムワールド「食べちまた」",

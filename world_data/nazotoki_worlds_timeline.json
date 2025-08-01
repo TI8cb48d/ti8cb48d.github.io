@@ -6,6 +6,17 @@
 			"Category": "2025/07",
 			"Worlds": [
 				{
+					"ID": "wrld_205216bf-acbd-4004-84c8-6e618e305ece",
+					"Name": "謎解きワールド「ぐらでーしょん」",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "謎解きとそれ以外の境目が分からなくなりました。 明らかに筋のある別解がある場合はお知らせください。。傾聴します。全4問です ヒントあります。 想定クリア時間10分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_9062ce41-f590-4bdf-a3f9-23822a056a86",
 					"Name": "謎解きワールド「WHITE OUT 2」",
 					"RecommendedCapacity": 8,

@@ -3,6 +3,22 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2025/08",
+			"Worlds": [
+				{
+					"ID": "wrld_9d5b71e2-8268-43f6-b007-a90c637ea3df",
+					"Name": "2人専用チルワールドからの脱出",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "2人専用チルワールドからの脱出。 身内向けの報告ワールドに一部変更を加えたものです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "2025/07",
 			"Worlds": [
 				{

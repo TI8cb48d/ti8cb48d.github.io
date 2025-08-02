@@ -6,6 +6,17 @@
 			"Category": "2025/08",
 			"Worlds": [
 				{
+					"ID": "wrld_6017402f-2f15-4f18-8122-6c98379bd079",
+					"Name": "謎解きワールド「ゴーゴートゥエンティファイブ」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［JP Only］過去に開催されたイベント「ホネマツリ25」のために作成された謎解きを、誰でも遊べる内容に作り替えた謎解きワールドです。2人以上で挑戦するステージがありますが、1人でもプレイは可能です。動作：グローバル 想定プレイ時間：30分～2時間",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_9d5b71e2-8268-43f6-b007-a90c637ea3df",
 					"Name": "2人専用チルワールドからの脱出",
 					"RecommendedCapacity": 2,

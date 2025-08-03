@@ -73,6 +73,38 @@
 			]
 		},
 		{
+			"Category": "Bru-Beri",
+			"Worlds": [
+				{
+					"ID": "wrld_21b5005e-a59d-4d9b-b24f-a34f61c9013f",
+					"Name": "Bru-Beri's workspace",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "ワールド初制作。 動画みたり雑談したり。Video Player、QVpen、ちょっとした謎解きもあります ＃VRC_BBws",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "Fozyjp",
+			"Worlds": [
+				{
+					"ID": "wrld_9d5b71e2-8268-43f6-b007-a90c637ea3df",
+					"Name": "2人専用チルワールドからの脱出",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "2人専用チルワールドからの脱出。 身内向けの報告ワールドに一部変更を加えたものです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "JP_アラン",
 			"Worlds": [
 				{
@@ -1707,6 +1739,22 @@
 			]
 		},
 		{
+			"Category": "りうむ（rium）",
+			"Worlds": [
+				{
+					"ID": "wrld_3f068a13-118b-4295-b6e5-b556f9c94c16",
+					"Name": "［謎解き］おかしの家からの脱出（SweetsEscape）",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "カリンちゃんと一緒におかしの家から脱出しよう！ジャンル：謎解き脱出ゲーム／プレイ時間：20分～1時間／難易度：簡単（ヒントあり）／推奨人数：1～5人（あまり広くないので）／注意：ギミックはローカルです。NPCシステムの表記が壊れることがあります。壊れた際にはお手数ですが、リジョインをお願いします。＃VRC_SweetsEscape",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "れみりあ_",
 			"Worlds": [
 				{
@@ -1959,6 +2007,17 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "一枚謎解き「ミニマル」シリーズの解説ワールド「ミニマルソリューション」。ネタバレ注意！Riddle 「MINIMAL SOLUTION」․ ＃VRC_MINIMARUPUZZLE",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_cfcfb36d-d9ac-4bff-97cc-7e5cffdb75bb",
+					"Name": "謎解きワールド「Untitled Puzzle 1」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "謎解きワールド「Untitled Puzzle 1」。日本語話者向き。＃VRC_UntitledPuzzle1",
 					"Platform": {
 						"PC": true,
 						"Android": false

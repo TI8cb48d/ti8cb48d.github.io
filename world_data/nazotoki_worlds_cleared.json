@@ -313,6 +313,22 @@
 			]
 		},
 		{
+			"Category": "Nanakapie",
+			"Worlds": [
+				{
+					"ID": "wrld_34d6fb3f-0e20-49c4-9f60-b0b0ff95cd40",
+					"Name": "謎解きぼっち",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ぼっち謎解きワールドです。複数人で挑んでも構いません QvPen以外Localです。30〜60分想定",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "P0TA0",
 			"Worlds": [
 				{

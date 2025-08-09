@@ -6,6 +6,17 @@
 			"Category": "2025/08",
 			"Worlds": [
 				{
+					"ID": "wrld_215b63f6-a0c2-4b20-b294-899269a11929",
+					"Name": "謎解き×パズルワールド「SYMBOLS」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "記号と模様をテーマにした複数の謎解きが分裂して混ざってしまいました。バラバラになったパーツから最終問題の答えを導きましょう。 VR推奨です。想定クリア時間˸1h~2h30m 難易度˸むずかしい 1h30m経過で追加ヒントあります。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_8b674df7-1f47-4dce-8fec-af8bc1ed68dc",
 					"Name": "謎解きワールド 謎解きが嫌いなんです",
 					"RecommendedCapacity": 16,

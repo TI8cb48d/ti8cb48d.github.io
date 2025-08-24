@@ -6,6 +6,94 @@
 			"Category": "2025/08",
 			"Worlds": [
 				{
+					"ID": "wrld_9a4f2c55-6560-4223-b7e8-4aa1d34874b2",
+					"Name": "謎解き星間通信 -The Celestial Communication-",
+					"RecommendedCapacity": 5,
+					"Capacity": 16,
+					"Description": "「星間通信」。遠く離れた惑星どうしの間でやりとりできるチャットサービス。 あなたは祖父のことを知るために、かつて「星間通信」で頻繫にやりとりしていたという、 R1-D2LE という惑星の住人に連絡を送るのでした。 難易度：とても難しい 想定時間： 1h ~ 3h 知識：高校レベルの英語",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_124d07bd-0fff-411f-a889-333e9fe191ab",
+					"Name": "謎解きワールド「SevenRiddles」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "7つの謎の正体を暴け。想定クリア時間：30分、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a4b0e1fc-f674-41bf-9811-5c4c96ef9c16",
+					"Name": "パズルクイズ謎解きワールド「八方美神」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "パズル能力も知識も発想も必要。そんなワールドです。検索必須ではないと思っていましたが検索したほうがいいかもしれません。予想平均時間 15～150 min․ （2025⁄08⁄23 02˸20） 解説をわかりやすく更新しました",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_dfddf114-994b-4087-89a2-283e6861d625",
+					"Name": "little riddle 「I」",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "全5問のちょっとした謎解きワールドです Playtime：10min~",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f1a345ba-4c14-4cf0-bbf1-385ba924812b",
+					"Name": "question_mark",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "?",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_2adc0c92-e7a4-4bc1-b1b5-d366dc4c27a3",
+					"Name": "謎解きワールド『BAD IDEA』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。ボタンやハンドルを操作し、謎を解き明かしてください。 動作はグローバルです。難易度は難しめ、多少知識を必要とします。＃VRC_BADIDEA",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_eb34e9c7-8fbd-4154-a51c-e15bb52ece1f",
+					"Name": "可惜夜からの脱出 -After Party-",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "2025⁄8⁄12の誕生日を記念して、好きな物に関するちょっとした謎解きワールドを作りました。今年の誕生日も最高の一日でした。いつもありがとうございます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e74b7347-750a-42e1-b208-618077e81f88",
+					"Name": "謎解きワールド『Scan The Barcode』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "バーコードスキャンを使った謎解きです。＃VRC_STB 8/16 一部修正",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_215b63f6-a0c2-4b20-b294-899269a11929",
 					"Name": "謎解き×パズルワールド「SYMBOLS」",
 					"RecommendedCapacity": 16,

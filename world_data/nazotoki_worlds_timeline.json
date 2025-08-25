@@ -6,6 +6,39 @@
 			"Category": "2025/08",
 			"Worlds": [
 				{
+					"ID": "wrld_a5d14459-1af4-4f33-8279-6a248840fe4d",
+					"Name": "謎解きワールド VRChatとそのアバターについて・Summer 2025",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "シンプルな謎解きです。Windows専用です。プレイ時間30分～1時間程度。＃VRC_avanazo",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_367129cf-bf81-4b01-a554-c638a5dc842c",
+					"Name": "＃VRChatで1番 【簡単】な脱出ゲーム - VRC No․1 EASY ESCAPE․",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "＃VRChatで1番 【簡単】な脱出ゲーム - VRC No․1 EASY ESCAPE․ ／想定プレイ時間 30分～1時間、脱出方法は【10パターン】、脱出が【ゲームクリア】とは限りません。一部に【ローカルギミック】を含みます。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_402521f6-3a26-40b7-9d11-cc5918b5c299",
+					"Name": "謎解きワールド「Untitled Puzzle 2」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "謎解きワールド「Untitled Puzzle 2」。＃VRC_UntitledPuzzle2",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_9a4f2c55-6560-4223-b7e8-4aa1d34874b2",
 					"Name": "謎解き星間通信 -The Celestial Communication-",
 					"RecommendedCapacity": 5,

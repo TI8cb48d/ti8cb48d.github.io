@@ -6,6 +6,28 @@
 			"Category": "2025/08",
 			"Worlds": [
 				{
+					"ID": "wrld_557cf461-decf-4cf9-b753-48f00a88800d",
+					"Name": "脱出ゲーム「大豪邸からの脱出」",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "制限時間なし ⁄ 途中参加可能 ⁄ 難易度˸人による ⁄ エリア制限はあまり無いためチルワールドとしてもご利用いただけます ⁄ QvPen ⁄ iwaSync3 ⁄ RBS SleepKit 2",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5501a8bb-9e57-42f4-ae06-dc2a90060783",
+					"Name": "Riddle in Toybox",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "日本語謎解きワールドです 想定クリアタイム˸ 30分～1時間 ＃VRC_RiddleInToybox",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_a5d14459-1af4-4f33-8279-6a248840fe4d",
 					"Name": "謎解きワールド VRChatとそのアバターについて・Summer 2025",
 					"RecommendedCapacity": 16,

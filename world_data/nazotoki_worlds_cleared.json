@@ -1116,6 +1116,22 @@
 			]
 		},
 		{
+			"Category": "rekko108",
+			"Worlds": [
+				{
+					"ID": "wrld_124d07bd-0fff-411f-a889-333e9fe191ab",
+					"Name": "謎解きワールド「SevenRiddles」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "7つの謎の正体を暴け。想定クリア時間：30分、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "shiracal",
 			"Worlds": [
 				{
@@ -1891,6 +1907,22 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "コモタ_",
+			"Worlds": [
+				{
+					"ID": "wrld_d1792364-d019-4b27-9ee3-5452f9697be2",
+					"Name": "謎解きワールド プリンを食べたのは誰だ？",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "推理力が試される謎解きワールドです．プリンを食べた犯人を探しましょう． このワールドは以下のアセットをそのまま使用しています 「モダンホーム 5 Modern Home 5 https˸⁄⁄badluckluka․booth․pm⁄items⁄3715475」バグ報告や質問などお問い合わせは X（Twitter）˸ ＠Komota_category にお願いします． ご感想は ＃VRC_MeitanteiS をつけてポストいただけるととても嬉しいです！",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]

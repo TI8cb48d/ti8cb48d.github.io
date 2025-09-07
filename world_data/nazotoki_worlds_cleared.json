@@ -601,6 +601,18 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_30392c95-44b4-44cb-b8a2-f017d8947fb1",
+					"Name": "謎解きワールド：Leonids",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Trimally生誕祭2025で遊べた謎解きの、謎解き部分だけをリメイクしたワールドになります。想定クリア時間：60分～120分 このワールドをpublishする予定はありません。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},

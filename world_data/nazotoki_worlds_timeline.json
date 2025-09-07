@@ -6,6 +6,17 @@
 			"Category": "2025/09",
 			"Worlds": [
 				{
+					"ID": "wrld_a5145949-c1b0-4df7-9900-acb4c3248fa6",
+					"Name": "謎解きワールド「CollectXXXX」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "研究にご協力ください。想定クリア時間：30分～1時間、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_ae6a3563-70e9-4730-b6f4-9b0ffa041aa1",
 					"Name": "High and Lowからの脱出",
 					"RecommendedCapacity": 4,

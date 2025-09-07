@@ -26,6 +26,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_c431efa0-a6a7-40a2-ab7c-49d4ab027c30",
+					"Name": "わたしのなつやすみ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "なつやすみのおもいでをなぞときにしました。なぞのえともじもがんばってかきました。いちぶざつがくてきなちしきがひつようです。がんばってください。 ＃VRC_WSV",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},

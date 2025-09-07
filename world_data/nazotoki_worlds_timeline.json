@@ -3,6 +3,22 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2025/09",
+			"Worlds": [
+				{
+					"ID": "wrld_ae6a3563-70e9-4730-b6f4-9b0ffa041aa1",
+					"Name": "High and Lowからの脱出",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "トランプのHigh and Lowが遊べるワールドです。 めっちゃ暇な人は脱出もしてみてください。 想定プレイ時間：約30分～1時間程度",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "2025/08",
 			"Worlds": [
 				{

@@ -2930,6 +2930,17 @@
 					}
 				},
 				{
+					"ID": "wrld_9d365d2f-4d4f-45b2-8ce2-236beeb2a31c",
+					"Name": "Riddle of Sound",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "4問目の誤植を直しました ⁄ ワールド制作、UdonSharpを使ったギミックの作成に慣れるために作った簡素な謎解きワールドです。問題を解くには音に関する知識がある程度必要です。検索エンジンの積極的な使用を推奨します。∗ You need Japanese skills to some extents for solving a couple of problems․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_e3315d81-42c9-4a43-9717-42a666473dbf",
 					"Name": "Simplex Escape Room 99",
 					"RecommendedCapacity": 16,

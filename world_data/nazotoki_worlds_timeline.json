@@ -6,6 +6,28 @@
 			"Category": "2025/09",
 			"Worlds": [
 				{
+					"ID": "wrld_87c29f0c-a78c-4bcc-98fd-35b695a01346",
+					"Name": "Dormiveglia",
+					"RecommendedCapacity": 3,
+					"Capacity": 3,
+					"Description": "夢うつつの狭間に漂う、ひとときの旅。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6ae8f53b-eec7-4a3b-ac13-0b264fbd096a",
+					"Name": "Q․あの日の君を求めよ。",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "記憶から消えてしまった【君】を探すために日記と謎を紐解いていくチルワ 兼 ストーリー付きの日本語話者向け謎解きワールドです。《推定プレイ時間：２時間～⁄全１４問》《難易度：難しめだがヒントあり》《一部グローバル》《クリア報酬あり》＃Q_あの君",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_a5145949-c1b0-4df7-9900-acb4c3248fa6",
 					"Name": "謎解きワールド「CollectXXXX」",
 					"RecommendedCapacity": 8,
@@ -14,17 +36,6 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_ae6a3563-70e9-4730-b6f4-9b0ffa041aa1",
-					"Name": "High and Lowからの脱出",
-					"RecommendedCapacity": 4,
-					"Capacity": 8,
-					"Description": "トランプのHigh and Lowが遊べるワールドです。 めっちゃ暇な人は脱出もしてみてください。 想定プレイ時間：約30分～1時間程度",
-					"Platform": {
-						"PC": true,
-						"Android": false
 					}
 				},
 				{

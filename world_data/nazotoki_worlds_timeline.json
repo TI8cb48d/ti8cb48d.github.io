@@ -6,6 +6,39 @@
 			"Category": "2025/09",
 			"Worlds": [
 				{
+					"ID": "wrld_86d0c67f-f9c1-4dfa-99b7-a77cf4827be1",
+					"Name": "Word Sculpture Museum -ANNEX- 単語彫刻美術館 別館 ［Puzzle⁄Riddle］",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Openworld puzzling sculpture museum․ Your purpose is to guess its title․ English supported․ 5＋ hours of gameplay with progress saves․ Playable in VR ＆ Desktop․ オープンワールドなパズル美術館․ 各彫刻のタイトルを当ててください․ 日本語対応․ 配信OK․ 想定5時間以上（セーブ可）․ VR ⁄ Desktop両対応․ ＃VRC_WSMPuzzle2",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e7fee982-812b-4feb-be34-9369215ca782",
+					"Name": "謎解き×パズルワールド「SYMBOLS -NIGHTMARE-」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "記号と模様をテーマにした謎解きが分裂、混ざってしまったワールド「SYMBOLS」の超強化版です。 想定クリア時間˸ 5h~1week 難易度˸激ムズ 動作˸ペン以外ローカル VR＆大人数推奨です。 v1․1˸パーツ2個修正",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_64383591-dec2-408d-82e8-1dca1e106206",
+					"Name": "Understand Universe of Uno Ultimatter Unit Union",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "宇宙謎です。動作はグローバルです。想定時間˸ （ヒントなしで）3 hours․ ヒント1‚ 2‚ 3を追加しました",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_87c29f0c-a78c-4bcc-98fd-35b695a01346",
 					"Name": "Dormiveglia",
 					"RecommendedCapacity": 3,

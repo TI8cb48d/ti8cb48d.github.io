@@ -6,6 +6,28 @@
 			"Category": "2025/09",
 			"Worlds": [
 				{
+					"ID": "wrld_f40a2041-c711-468b-9752-43aa839c8ad3",
+					"Name": "謎解きワールド「FlashLight」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎を照らせ。想定クリア時間：30分～１時間＋α、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6d3be9ca-40ed-4685-b517-a90b6b6235a7",
+					"Name": "謎解きワールド七不思議-怪事件クラスター-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［JP Only］謎解きワールドで発生する怪現象のウワサを調査せよ！動作：ローカル 想定プレイ時間：30分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_86d0c67f-f9c1-4dfa-99b7-a77cf4827be1",
 					"Name": "Word Sculpture Museum -ANNEX- 単語彫刻美術館 別館 ［Puzzle⁄Riddle］",
 					"RecommendedCapacity": 16,

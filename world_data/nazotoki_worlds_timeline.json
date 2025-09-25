@@ -6,6 +6,17 @@
 			"Category": "2025/09",
 			"Worlds": [
 				{
+					"ID": "wrld_b415cb9d-022f-45f2-922a-910440074525",
+					"Name": "彼女のうしろ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "シンプルな謎解きワールドです。全10問＋EX。 想定時間30min - 1h ＃Behind_Her",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_f40a2041-c711-468b-9752-43aa839c8ad3",
 					"Name": "謎解きワールド「FlashLight」",
 					"RecommendedCapacity": 16,

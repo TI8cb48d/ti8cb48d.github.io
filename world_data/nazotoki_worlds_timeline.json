@@ -6,6 +6,17 @@
 			"Category": "2025/09",
 			"Worlds": [
 				{
+					"ID": "wrld_7e391b6c-a4a9-4d83-bc26-2760ca5d9fdd",
+					"Name": "謎解きワールド『Stair MUSEUM』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "展示されている作品のタイトルを当ててください。 動作はローカルです。特殊な知識や技術は必要ありません。Guess the titles of the exhibited works․ No special knowledge or skills are required․＃VRC_Stair",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_b415cb9d-022f-45f2-922a-910440074525",
 					"Name": "彼女のうしろ",
 					"RecommendedCapacity": 16,

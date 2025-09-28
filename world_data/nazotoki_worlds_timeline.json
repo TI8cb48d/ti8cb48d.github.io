@@ -6,6 +6,28 @@
 			"Category": "2025/09",
 			"Worlds": [
 				{
+					"ID": "wrld_c8105298-e499-4dff-8070-bae50faff4e0",
+					"Name": "謎解きワールド『10²謎』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "いっぱい謎解きがある謎解きワールドです。＃VRC_百",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2eb718c0-638e-495c-bb68-b8328cd976e9",
+					"Name": "［Riddle］ Tabula Rasa",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Riddle world․ ［Estimate Time］30min - 2h ＃VRC_Riddle_TabulaRasa",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_7e391b6c-a4a9-4d83-bc26-2760ca5d9fdd",
 					"Name": "謎解きワールド『Stair MUSEUM』",
 					"RecommendedCapacity": 16,

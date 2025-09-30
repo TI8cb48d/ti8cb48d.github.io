@@ -6,6 +6,17 @@
 			"Category": "2025/09",
 			"Worlds": [
 				{
+					"ID": "wrld_dcff79b1-46a4-4e0a-9f2e-53c1bad316c5",
+					"Name": "魔女の館（テナント）からの脱出",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "街の一角のテナントにある魔女の館。魔法を教えてくれるというチラシを真に受けたあなたたちは、無事に魔法の力を得ることができるのでしょうか。推奨人数4人程度、動作はグローバルで、途中入場はできません。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_c8105298-e499-4dff-8070-bae50faff4e0",
 					"Name": "謎解きワールド『10²謎』",
 					"RecommendedCapacity": 16,

@@ -6,6 +6,17 @@
 			"Category": "2025/09",
 			"Worlds": [
 				{
+					"ID": "wrld_9c7a4b9e-21cd-49c1-88ad-a3d902e6a0ec",
+					"Name": "謎解きワールド「パワー」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRChat謎解きワールド「パワー」 想定クリア時間６０分 不具合などは作者DMまで",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_dcff79b1-46a4-4e0a-9f2e-53c1bad316c5",
 					"Name": "魔女の館（テナント）からの脱出",
 					"RecommendedCapacity": 4,

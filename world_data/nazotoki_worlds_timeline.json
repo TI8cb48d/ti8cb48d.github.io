@@ -4115,6 +4115,17 @@
 			"Category": "2021/04",
 			"Worlds": [
 				{
+					"ID": "wrld_ff4238e0-880d-4712-b939-71107518dd02",
+					"Name": "7 NUMBER RIDDLES 3",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "（sdk3updated）［EN＆JP］only 4 digits number answers․ no story‚ no horror․ 答えは4桁数字․ ストーリー無し․ ホラー無し․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_3413ba14-0934-4a5c-87ff-becc7daefd08",
 					"Name": "瞬間謎解きワールド「RIDDLE DRILL」",
 					"RecommendedCapacity": 8,
@@ -4123,6 +4134,33 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_8ce7ee2e-6e95-42ed-8492-9e8e9e20d782",
+					"Name": "7 NUMBER RIDDLES 2",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "（sdk3updated）［EN＆JP］only 4 digits number answers․ no story‚ no horror․ this world requires more calculations than my other world․ 答えは4桁数字。ストーリー無し。ホラー無し。このワールドは私の他のワールドに比べて計算多目となります。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "2021/03",
+			"Worlds": [
+				{
+					"ID": "wrld_78675dc5-6500-4bb4-97a2-0de5ececc815",
+					"Name": "7 NUMBER RIDDLES",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "（sdk3updated）［EN＆JP］only 4 digits number answers․ no story‚ no horror․ 答えは4桁数字․ ストーリー無し․ ホラー無し․",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]

@@ -100,6 +100,22 @@
 			]
 		},
 		{
+			"Category": "FistyLH",
+			"Worlds": [
+				{
+					"ID": "wrld_5501a8bb-9e57-42f4-ae06-dc2a90060783",
+					"Name": "Riddle in Toybox",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "日本語謎解きワールドです 想定クリアタイム˸ 30分～1時間 ＃VRC_RiddleInToybox",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "Fozyjp",
 			"Worlds": [
 				{
@@ -228,6 +244,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_e74b7347-750a-42e1-b208-618077e81f88",
+					"Name": "謎解きワールド『Scan The Barcode』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "バーコードスキャンを使った謎解きです。＃VRC_STB 8/16 一部修正",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -345,6 +372,22 @@
 			]
 		},
 		{
+			"Category": "Senritz",
+			"Worlds": [
+				{
+					"ID": "wrld_78675dc5-6500-4bb4-97a2-0de5ececc815",
+					"Name": "7 NUMBER RIDDLES",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "（sdk3updated）［EN＆JP］only 4 digits number answers․ no story‚ no horror․ 答えは4桁数字․ ストーリー無し․ ホラー無し․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "Shirogane Crimm",
 			"Worlds": [
 				{
@@ -356,6 +399,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a5d14459-1af4-4f33-8279-6a248840fe4d",
+					"Name": "謎解きワールド VRChatとそのアバターについて・Summer 2025",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "シンプルな謎解きです。Windows専用です。プレイ時間30分～1時間程度。＃VRC_avanazo",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -1140,6 +1194,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_a5145949-c1b0-4df7-9900-acb4c3248fa6",
+					"Name": "謎解きワールド「CollectXXXX」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "研究にご協力ください。想定クリア時間：30分～1時間、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1920,6 +1985,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_6d3be9ca-40ed-4685-b517-a90b6b6235a7",
+					"Name": "謎解きワールド七不思議-怪事件クラスター-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［JP Only］謎解きワールドで発生する怪現象のウワサを調査せよ！動作：ローカル 想定プレイ時間：30分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1986,6 +2062,17 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 18,
 					"Description": "またしてもかえってきた王道。 仕掛けが作動する前に、謎を解いて部屋から脱出しましょう。 今回は本当に時間がありません。 生き延びるためには、答えること。それだけです。 難易度：難しい 問題数：大きく4問、小さく9問？ 制限時間：10分？ 動作：基本的にグローバル 注意事項： 本ワールドはゲーム開始後の合流を想定していません。 そのため、ゲームを開始する前に全員がそろっていること、およびそれ以上人が入ることはないことを確認してからプレイするようにお願いします。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9a4f2c55-6560-4223-b7e8-4aa1d34874b2",
+					"Name": "謎解き星間通信 -The Celestial Communication-",
+					"RecommendedCapacity": 5,
+					"Capacity": 16,
+					"Description": "「星間通信」。遠く離れた惑星どうしの間でやりとりできるチャットサービス。 あなたは祖父のことを知るために、かつて「星間通信」で頻繫にやりとりしていたという、 R1-D2LE という惑星の住人に連絡を送るのでした。 難易度：とても難しい 想定時間： 1h ~ 3h 知識：高校レベルの英語",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -2089,6 +2176,17 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "謎解きワールド「Untitled Puzzle 1」。日本語話者向き。＃VRC_UntitledPuzzle1",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_402521f6-3a26-40b7-9d11-cc5918b5c299",
+					"Name": "謎解きワールド「Untitled Puzzle 2」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "謎解きワールド「Untitled Puzzle 2」。＃VRC_UntitledPuzzle2",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -2251,6 +2349,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7e391b6c-a4a9-4d83-bc26-2760ca5d9fdd",
+					"Name": "謎解きワールド『Stair MUSEUM』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "展示されている作品のタイトルを当ててください。 動作はローカルです。特殊な知識や技術は必要ありません。Guess the titles of the exhibited works․ No special knowledge or skills are required․＃VRC_Stair",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]

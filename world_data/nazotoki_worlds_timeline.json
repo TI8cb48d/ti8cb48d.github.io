@@ -6,10 +6,21 @@
 			"Category": "2025/10",
 			"Worlds": [
 				{
+					"ID": "wrld_af50492e-9c00-4f83-8a76-9d4b82aed10c",
+					"Name": "Lv․2ぐらいの謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "作者が難易度Lv․2ぐらいだろうなと思う謎解きを作りました。全5問、一枚謎のみ。 難易度˸ 簡単（主観） 想定クリア時間˸ 5~15min 動作˸ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_e5dbf472-46f1-469d-b3f3-e08eb979bedd",
 					"Name": "謎解きワールド「SEEK in BOX」",
 					"RecommendedCapacity": 16,
-					"Capacity": 8,
+					"Capacity": 32,
 					"Description": "見えない答えを探せ。想定クリア時間：30分＋α、ワールド動作：ローカル",
 					"Platform": {
 						"PC": true,

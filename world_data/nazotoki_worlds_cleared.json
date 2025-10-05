@@ -112,6 +112,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_2eb718c0-638e-495c-bb68-b8328cd976e9",
+					"Name": "［Riddle］ Tabula Rasa",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Riddle world․ ［Estimate Time］30min - 2h ＃VRC_Riddle_TabulaRasa",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -124,6 +135,22 @@
 					"RecommendedCapacity": 2,
 					"Capacity": 2,
 					"Description": "2人専用チルワールドからの脱出。 身内向けの報告ワールドに一部変更を加えたものです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "Izanaくん",
+			"Worlds": [
+				{
+					"ID": "wrld_6ae8f53b-eec7-4a3b-ac13-0b264fbd096a",
+					"Name": "Q․あの日の君を求めよ。",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "記憶から消えてしまった【君】を探すために日記と謎を紐解いていくチルワ 兼 ストーリー付きの日本語話者向け謎解きワールドです。《推定プレイ時間：２時間～⁄全１４問》《難易度：難しめだがヒントあり》《一部グローバル》《クリア報酬あり》＃Q_あの君",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -2062,6 +2089,17 @@
 					"RecommendedCapacity": 5,
 					"Capacity": 16,
 					"Description": "ザ・王道ふたたび 日本語を前提とした謎解きワールドです 前作『THE ORTHODOX』をプレイしておられずとも楽しめます 細長い部屋からの脱出を目指しましょう ․․․․․․え？ ぜんぜん細長くないって？ まあまあ、それはともかく․․․․․․ 身体を動かす仕掛けがいくつかあります 少々広いスペースでの挑戦をおすすめします 想定時間： 1 ~ 3 時間 難易度：難しい",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_2d2623b5-e00b-4937-bff4-ffa8f89541e1",
+					"Name": "謎解きワールド『THE ORTHODOX3 -矢印だらけの部屋からの脱出-』",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "かえってきた王道。 仕掛けが作動する前に、謎を解いて部屋から脱出しましょう。 脱出のためのアドバイスをするのならば、ひとつだけ。 それぞれの矢印には、一貫した法則が存在します。 それを、お忘れなきよう。 難易度：難しい 問題数：大きく4問、小さく30問以上 制限時間：90分 動作：基本的にグローバル 注意事項： 本ワールドはゲーム開始後の合流を想定していません。 そのため、ゲームを開始する前に全員がそろっていること、およびそれ以上人が入ることはないことを確認してからプレイするようにお願いします。",
 					"Platform": {
 						"PC": true,
 						"Android": true

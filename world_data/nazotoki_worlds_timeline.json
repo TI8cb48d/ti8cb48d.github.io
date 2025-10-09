@@ -6,6 +6,17 @@
 			"Category": "2025/10",
 			"Worlds": [
 				{
+					"ID": "wrld_16e13fcb-d046-4dff-949f-5248d73a9dbb",
+					"Name": "謎解きワールド「HixxSchool」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あの夏、たった一つの。 難易度˸ Vlam",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_af50492e-9c00-4f83-8a76-9d4b82aed10c",
 					"Name": "Lv․2ぐらいの謎解き",
 					"RecommendedCapacity": 16,

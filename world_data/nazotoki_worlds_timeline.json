@@ -6,6 +6,17 @@
 			"Category": "2025/10",
 			"Worlds": [
 				{
+					"ID": "wrld_181a13de-7061-4dce-8a48-2392a047bc70",
+					"Name": "escape the lodge",
+					"RecommendedCapacity": 3,
+					"Capacity": 10,
+					"Description": "あの夏、たった一つの。 難易度˸ Vlam",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_16e13fcb-d046-4dff-949f-5248d73a9dbb",
 					"Name": "謎解きワールド「HixxSchool」",
 					"RecommendedCapacity": 16,

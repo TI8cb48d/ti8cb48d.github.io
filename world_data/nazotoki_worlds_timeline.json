@@ -6,11 +6,22 @@
 			"Category": "2025/10",
 			"Worlds": [
 				{
+					"ID": "wrld_a5e032bb-b225-493d-8e46-ca5e572df142",
+					"Name": "謎解きワールド「LOST ANSWER」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "オーブの謎を解き明かせ。想定クリア時間：30分～1時間、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_181a13de-7061-4dce-8a48-2392a047bc70",
 					"Name": "escape the lodge",
 					"RecommendedCapacity": 3,
 					"Capacity": 10,
-					"Description": "あの夏、たった一つの。 難易度˸ Vlam",
+					"Description": "脱出ゲームの練習用に作ったワールドです。",
 					"Platform": {
 						"PC": true,
 						"Android": false

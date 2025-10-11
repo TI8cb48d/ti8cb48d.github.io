@@ -6,6 +6,17 @@
 			"Category": "2025/10",
 			"Worlds": [
 				{
+					"ID": "wrld_c2949ac8-0933-4791-b1d1-a37e50eb4589",
+					"Name": "謎解き実験 エルトアール",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "LとRから始まる4つのキーワードをもとに進める謎解き実験です。ヒントから答えまであり。想定時間：30分～ ⁄想定人数：1～10人 ＃VRC_LtoR",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_309b1e29-13e5-451d-92e2-cfe01502d730",
 					"Name": "EgoisticPerspective_rebORN",
 					"RecommendedCapacity": 16,

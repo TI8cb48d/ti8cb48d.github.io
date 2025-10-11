@@ -6,6 +6,17 @@
 			"Category": "2025/10",
 			"Worlds": [
 				{
+					"ID": "wrld_309b1e29-13e5-451d-92e2-cfe01502d730",
+					"Name": "EgoisticPerspective_rebORN",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2025⁄10⁄11公開、おそらくこれが最後のエゴイスティックです。たぶんデスクトップ非対応",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_a5e032bb-b225-493d-8e46-ca5e572df142",
 					"Name": "謎解きワールド「LOST ANSWER」",
 					"RecommendedCapacity": 16,

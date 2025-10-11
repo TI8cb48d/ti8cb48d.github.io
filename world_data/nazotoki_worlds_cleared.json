@@ -19,6 +19,22 @@
 			]
 		},
 		{
+			"Category": "_なつめ",
+			"Worlds": [
+				{
+					"ID": "wrld_9c7a4b9e-21cd-49c1-88ad-a3d902e6a0ec",
+					"Name": "謎解きワールド「パワー」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRChat謎解きワールド「パワー」 想定クリア時間６０分 不具合などは作者DMまで",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "32Ryo",
 			"Worlds": [
 				{
@@ -55,6 +71,17 @@
 					}
 				},
 				{
+					"ID": "wrld_7e17deb5-7818-48e9-8bf6-a6f3fabaaf8d",
+					"Name": "謎解きワールド「四角と矢印」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "四角と矢印を使った謎を解き明かそう。 初ワールド＆初謎解き作成なのでクオリティは大目に見てくれるとありがたいです˸） v1․2˸ 画像が想定と異なる不具合を修正",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_61d35d58-1694-4c66-bcc9-b670e4976e61",
 					"Name": "謎解きワールド 「四角と矢印2」",
 					"RecommendedCapacity": 16,
@@ -63,6 +90,16 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},{
+					"ID": "wrld_af50492e-9c00-4f83-8a76-9d4b82aed10c",
+					"Name": "Lv․2ぐらいの謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "作者が難易度Lv․2ぐらいだろうなと思う謎解きを作りました。全5問、一枚謎のみ。 難易度˸ 簡単（主観） 想定クリア時間˸ 5~15min 動作˸ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
@@ -1228,6 +1265,17 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "研究にご協力ください。想定クリア時間：30分～1時間、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f40a2041-c711-468b-9752-43aa839c8ad3",
+					"Name": "謎解きワールド「FlashLight」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎を照らせ。想定クリア時間：30分～１時間＋α、ワールド動作：ローカル",
 					"Platform": {
 						"PC": true,
 						"Android": true

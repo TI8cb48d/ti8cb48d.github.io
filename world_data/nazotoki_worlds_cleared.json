@@ -319,6 +319,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_c8105298-e499-4dff-8070-bae50faff4e0",
+					"Name": "謎解きワールド『10²謎』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "いっぱい謎解きがある謎解きワールドです。＃VRC_百",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -881,6 +892,22 @@
 			]
 		},
 		{
+			"Category": "chak_chak127",
+			"Worlds": [
+				{
+					"ID": "wrld_b415cb9d-022f-45f2-922a-910440074525",
+					"Name": "彼女のうしろ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "シンプルな謎解きワールドです。全10問＋EX。 想定時間30min - 1h ＃Behind_Her",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "conceal88",
 			"Worlds": [
 				{
@@ -960,6 +987,17 @@
 					"RecommendedCapacity": 4,
 					"Capacity": 8,
 					"Description": "『ねぇ、知ってる？ この空の向こうには神様がいて、僕らを見守ってくれているんだ』 1~4人想定の謎解きワールドです。動作はグローバルで途中参加も可能です。謎解きのクリア状況は共有され、セーブされます。 このワールドはたけすぴおん（＠takespeon_VRC）さん企画の＃DUELECTにて『空×虹』のテーマで製作したワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_dcff79b1-46a4-4e0a-9f2e-53c1bad316c5",
+					"Name": "魔女の館（テナント）からの脱出",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "街の一角のテナントにある魔女の館。魔法を教えてくれるというチラシを真に受けたあなたたちは、無事に魔法の力を得ることができるのでしょうか。推奨人数4人程度、動作はグローバルで、途中入場はできません。",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -1840,6 +1878,17 @@
 					"RecommendedCapacity": 5,
 					"Capacity": 15,
 					"Description": "いじわる星人から探偵おうしゃま宛てに送られてきた挑戦状に挑む助手のあなた。いじわるな謎たちをあなたは解くことができるのか！？難易度4段階あり、ヒントから答えまであり。想定時間：30分～ ⁄想定人数：1～5人",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c2949ac8-0933-4791-b1d1-a37e50eb4589",
+					"Name": "謎解き実験 エルトアール",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "LとRから始まる4つのキーワードをもとに進める謎解き実験です。ヒントから答えまであり。想定時間：30分～ ⁄想定人数：1～10人 ＃VRC_LtoR",
 					"Platform": {
 						"PC": true,
 						"Android": true

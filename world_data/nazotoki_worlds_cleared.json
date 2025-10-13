@@ -818,6 +818,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_16e13fcb-d046-4dff-949f-5248d73a9dbb",
+					"Name": "謎解きワールド「HixxSchool」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あの夏、たった一つの。 難易度˸ Vlam",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1325,6 +1336,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 8,
 					"Description": "見えない答えを探せ。想定クリア時間：30分＋α、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a5e032bb-b225-493d-8e46-ca5e572df142",
+					"Name": "謎解きワールド「LOST ANSWER」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "オーブの謎を解き明かせ。想定クリア時間：30分～1時間、ワールド動作：グローバル",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -2507,6 +2529,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_2adc0c92-e7a4-4bc1-b1b5-d366dc4c27a3",
+					"Name": "謎解きワールド『BAD IDEA』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。ボタンやハンドルを操作し、謎を解き明かしてください。 動作はグローバルです。難易度は難しめ、多少知識を必要とします。＃VRC_BADIDEA",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -2715,6 +2748,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "フレンドのVtuberに向けて作ったものですが、どなたでも解けると思います。 想定クリア時間：１時間（一部検索推奨） ＃VRC_TVTC",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c431efa0-a6a7-40a2-ab7c-49d4ab027c30",
+					"Name": "わたしのなつやすみ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "なつやすみのおもいでをなぞときにしました。なぞのえともじもがんばってかきました。いちぶざつがくてきなちしきがひつようです。がんばってください。 ＃VRC_WSV",
 					"Platform": {
 						"PC": true,
 						"Android": false

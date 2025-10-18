@@ -6,6 +6,17 @@
 			"Category": "2025/10",
 			"Worlds": [
 				{
+					"ID": "wrld_ca5149a8-82f7-48a4-b548-897f72a5f4f4",
+					"Name": "謎解きワールド ウチの猫知りませんか？",
+					"RecommendedCapacity": 2,
+					"Capacity": 4,
+					"Description": "探索力が試される謎解きワールドです．迷子の猫を探しましょう．このワールドは以下のAssetを利用して作成されています 「昭和ビルモデルセットv2 05パック https˸⁄⁄modevbta․booth․pm⁄items⁄4933502」 バグ報告や質問などお問い合わせは X（Twitter）˸ ＠Komota_category にお願いします． ご感想は ＃VRC_MeitanteiS をつけてポストいただけるととても嬉しいです！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_fae8494e-53fe-4baf-91e5-3aa7bdd54b2f",
 					"Name": "口口口口口 口口口口口口",
 					"RecommendedCapacity": 10,

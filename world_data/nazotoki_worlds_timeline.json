@@ -6,6 +6,28 @@
 			"Category": "2025/10",
 			"Worlds": [
 				{
+					"ID": "wrld_9c597212-43d7-4642-ac5c-07e190078b8c",
+					"Name": "謎解きワールド「Correct to correcT」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "正解することで正解を目指す日本語話者向け謎解きワールド第五弾です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_42c38d88-bc35-491e-852b-aed4a58768f5",
+					"Name": "謎解き「ひらがな算II」",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "ひらがなをもっと計算します 全5ステージ 想定プレイ時間1時間弱",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_ca5149a8-82f7-48a4-b548-897f72a5f4f4",
 					"Name": "謎解きワールド ウチの猫知りませんか？",
 					"RecommendedCapacity": 2,

@@ -6,6 +6,39 @@
 			"Category": "2025/10",
 			"Worlds": [
 				{
+					"ID": "wrld_4fd52489-cb36-4a1b-881b-114aa884986d",
+					"Name": "謎解きワールド「CheckBoard」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "チェックマークを正しくつけろ。想定クリア時間：30分～1時間、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5c6ff5f1-4dc1-46a1-b94b-f0f90cbdec1c",
+					"Name": "アントラー誕生祭2025⁄完全なN択クイズ",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "2025年の誕生日会場です。クイズに最後まで答えると会場へ行けます！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a881c06a-534c-4ad8-9c17-f7a1613d298e",
+					"Name": "【謎解き⁄Riddle】 LAMBDA",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "［JP⁄EN］一枚謎が5枚あるだけの謎解きワールド。推定所要時間30分～。A riddle world with just 5 simple riddles․ Estimated time˸ 30min~ ＃VRC_RiddleLambda",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_9c597212-43d7-4642-ac5c-07e190078b8c",
 					"Name": "謎解きワールド「Correct to correcT」",
 					"RecommendedCapacity": 16,

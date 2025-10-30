@@ -6,6 +6,17 @@
 			"Category": "2025/10",
 			"Worlds": [
 				{
+					"ID": "wrld_ac937ebc-9db6-4a14-a97a-1611fe0b5a10",
+					"Name": "脱出ゲーム「DEADLOCK」",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "鍵を入手して部屋から脱出せよ！ただし、鍵は部屋の外にあります ⁄途中参加不可⁄制限時間60分 ＃VRC_DEADLOCK",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_7fb4efb3-6da2-443b-b530-6d5f4038258f",
 					"Name": "謎解きワールド『ぐるぐる謎』",
 					"RecommendedCapacity": 5,

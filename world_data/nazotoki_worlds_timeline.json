@@ -3,6 +3,57 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2025/11",
+			"Worlds": [
+				{
+					"ID": "wrld_b1fd4bed-d653-4ea8-9f86-d857a7580623",
+					"Name": "BossRiddleRush",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きにおけるボス、つまり「大謎」だけをワールドの状況から逆算して解こう！ 難易度˸ Keneq",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e86c913c-1d97-4236-ab40-cf62f62ca262",
+					"Name": "90点",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語の知識が必要な謎解きワールドです。 検索推奨です。 90点満点の謎解きワールド、60点以上でクリアです。 ヒントあります。推定クリア時間 30分～2時間 ＃VRC_QJ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_2852e5d6-5dde-44d6-911f-3e325dfe975c",
+					"Name": "謎解きワールド「StarLead」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "再び研究にご協力ください。想定クリア時間：30分～1時間、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_8da69130-d7aa-445d-8d17-ae005d074f05",
+					"Name": "いろとりどる",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールドです！頑張った！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "2025/10",
 			"Worlds": [
 				{
@@ -46,7 +97,8 @@
 					"Description": "チェックマークを正しくつけろ。想定クリア時間：30分～1時間、ワールド動作：ローカル",
 					"Platform": {
 						"PC": true,
-						"Android": true
+						"Android": true,
+						"iOS": true
 					}
 				},
 				{
@@ -145,7 +197,8 @@
 					"Description": "オーブの謎を解き明かせ。想定クリア時間：30分～1時間、ワールド動作：グローバル",
 					"Platform": {
 						"PC": true,
-						"Android": true
+						"Android": true,
+						"iOS": true
 					}
 				},
 				{
@@ -189,7 +242,8 @@
 					"Description": "見えない答えを探せ。想定クリア時間：30分＋α、ワールド動作：ローカル",
 					"Platform": {
 						"PC": true,
-						"Android": true
+						"Android": true,
+						"iOS": true
 					}
 				}
 			]
@@ -271,7 +325,8 @@
 					"Description": "謎を照らせ。想定クリア時間：30分～１時間＋α、ワールド動作：ローカル",
 					"Platform": {
 						"PC": true,
-						"Android": true
+						"Android": true,
+						"iOS": true
 					}
 				},
 				{
@@ -348,7 +403,8 @@
 					"Description": "研究にご協力ください。想定クリア時間：30分～1時間、ワールド動作：グローバル",
 					"Platform": {
 						"PC": true,
-						"Android": true
+						"Android": true,
+						"iOS": true
 					}
 				},
 				{
@@ -441,7 +497,8 @@
 					"Description": "7つの謎の正体を暴け。想定クリア時間：30分、ワールド動作：ローカル",
 					"Platform": {
 						"PC": true,
-						"Android": true
+						"Android": true,
+						"iOS": true
 					}
 				},
 				{

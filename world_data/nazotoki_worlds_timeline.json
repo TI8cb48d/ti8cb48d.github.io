@@ -4,7 +4,40 @@
 	"Categorys": [
 		{
 			"Category": "2025/11",
-			"Worlds": [
+			"Worlds": [				
+				{
+					"ID": "wrld_06e8655d-67b9-45a4-9327-45b6379ad67f",
+					"Name": "脱出試験「Panel Panic」",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "大叛逆のあと、ドールたちは今までの扱いを人間に返すかのように、人間たちに試練を与えていた。そしてまた、＂紫の維持＂ヴィシュヌの手によって、新たな生き残りをかけた試練が始まる。（ストーリーを知らなくても脱出ゲームは楽しめます） 難易度˸ Ekhi",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e370fcb6-a843-48fb-981c-c7c662a55fa8",
+					"Name": "鏡の国のアイリス ~What's my color?~",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "貴方の色を、私に分けてくれますか？ 鏡に映る場所へ飛び移って進むパズルアクションゲームです。 セーブあり、ローカル動作です。アクションの要求は低めですが、酔いやすいので注意。 ＃VRC鏡の国",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_614d1e2b-d953-4180-b0f2-8e62916b198d",
+					"Name": "謎解きワールド『ハロウィン謎』",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "お化けにいたずらされた謎を解くワールドです。＃VRC_イタズラ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
 				{
 					"ID": "wrld_b1fd4bed-d653-4ea8-9f86-d857a7580623",
 					"Name": "BossRiddleRush",

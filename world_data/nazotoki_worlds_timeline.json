@@ -4,7 +4,19 @@
 	"Categorys": [
 		{
 			"Category": "2025/11",
-			"Worlds": [				
+			"Worlds": [		
+				{
+					"ID": "wrld_0d0bdf2c-3d8e-472c-a968-9b99a453d391",
+					"Name": "謎解きワールド「UnCommonRiddle」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "よくある謎？を解け。想定クリア時間：30分～1時間、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},		
 				{
 					"ID": "wrld_06e8655d-67b9-45a4-9327-45b6379ad67f",
 					"Name": "脱出試験「Panel Panic」",

@@ -4,7 +4,18 @@
 	"Categorys": [
 		{
 			"Category": "2025/11",
-			"Worlds": [		
+			"Worlds": [	
+				{
+					"ID": "wrld_c041b8fd-58ad-4a15-92b9-57a10c362880",
+					"Name": "謎解きワールド『雨降る幽霊公園』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。物の記憶を読み取る能力を持ったあなた。幽霊（？）の声に導かれて公園を探索しましょう。 動作はローカルです。難易度は簡単。＃VRC_GhostPark",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},	
 				{
 					"ID": "wrld_0d0bdf2c-3d8e-472c-a968-9b99a453d391",
 					"Name": "謎解きワールド「UnCommonRiddle」",

@@ -15,6 +15,18 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_5b1513bc-a10b-4f2e-87b9-06f823991ea8",
+					"Name": "謎解きワールド「いたずら謎」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "問題にいたずらされちゃった！元の問題を推測して解こう！【難易度：ちょいむず】【所要時間：３０分～】【ローカル動作】 ＃VRC_ITZR謎",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -91,12 +103,67 @@
 						"PC": true,
 						"Android": false
 					}
-				},{
+				},
+				{
+					"ID": "wrld_3bd55e6a-4219-4ea3-9b18-5573b05bc6ea",
+					"Name": "謎解きワールド「四角と矢印3」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "四角と矢印のみで構成された高難易度謎解き第3弾。ネタが尽きたのでおそらくシリーズ最終作です。 想定クリア時間˸2h30m~数日 動作˸ペン以外全てローカル 不具合等は作者まで。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_af50492e-9c00-4f83-8a76-9d4b82aed10c",
 					"Name": "Lv․2ぐらいの謎解き",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "作者が難易度Lv․2ぐらいだろうなと思う謎解きを作りました。全5問、一枚謎のみ。 難易度˸ 簡単（主観） 想定クリア時間˸ 5~15min 動作˸ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_215b63f6-a0c2-4b20-b294-899269a11929",
+					"Name": "謎解き×パズルワールド「SYMBOLS」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "記号と模様をテーマにした複数の謎解きが分裂して混ざってしまいました。バラバラになったパーツから最終問題の答えを導きましょう。 VR推奨です。想定クリア時間˸1h~2h30m 難易度˸むずかしい 1h30m経過で追加ヒントあります。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "Aior7c",
+			"Worlds": [
+				{
+					"ID": "wrld_050fa969-6781-43e9-8ead-991d1b942bcf",
+					"Name": "謎解き「ひらがな算」",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "ひらがなを計算します 全5ステージ 想定プレイ時間1時間弱",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "Ayasiki_gerahu",
+			"Worlds": [
+				{
+					"ID": "wrld_a881c06a-534c-4ad8-9c17-f7a1613d298e",
+					"Name": "【謎解き⁄Riddle】 LAMBDA",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "［JP⁄EN］一枚謎が5枚あるだけの謎解きワールド。推定所要時間30分～。A riddle world with just 5 simple riddles․ Estimated time˸ 30min~ ＃VRC_RiddleLambda",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -326,6 +393,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "いっぱい謎解きがある謎解きワールドです。＃VRC_百",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7fb4efb3-6da2-443b-b530-6d5f4038258f",
+					"Name": "謎解きワールド『ぐるぐる謎』",
+					"RecommendedCapacity": 5,
+					"Capacity": 15,
+					"Description": "なにかがぐるぐる回っている謎解きです。＃VRC_回",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -829,6 +907,39 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_fae8494e-53fe-4baf-91e5-3aa7bdd54b2f",
+					"Name": "口口口口口 口口口口口口",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "Difficulty˸ Ekhi",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ca0f3876-c217-44eb-9ffb-641f82c2e867",
+					"Name": "画像の通りです",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "タイトルの通りです",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b1fd4bed-d653-4ea8-9f86-d857a7580623",
+					"Name": "BossRiddleRush",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きにおけるボス、つまり「大謎」だけをワールドの状況から逆算して解こう！ 難易度˸ Keneq",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -1009,6 +1120,22 @@
 					"RecommendedCapacity": 4,
 					"Capacity": 8,
 					"Description": "街の一角のテナントにある魔女の館。魔法を教えてくれるというチラシを真に受けたあなたたちは、無事に魔法の力を得ることができるのでしょうか。推奨人数4人程度、動作はグローバルで、途中入場はできません。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "hayamame",
+			"Worlds": [
+				{
+					"ID": "wrld_dfddf114-994b-4087-89a2-283e6861d625",
+					"Name": "little riddle 「I」",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "全5問のちょっとした謎解きワールドです Playtime：10min~",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -1351,6 +1478,30 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_4fd52489-cb36-4a1b-881b-114aa884986d",
+					"Name": "謎解きワールド「CheckBoard」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "チェックマークを正しくつけろ。想定クリア時間：30分～1時間、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_2852e5d6-5dde-44d6-911f-3e325dfe975c",
+					"Name": "謎解きワールド「StarLead」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "再び研究にご協力ください。想定クリア時間：30分～1時間、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -1555,6 +1706,33 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a6b28fbe-e895-4eac-97e4-59a47282b654",
+					"Name": "不思議なパズル『わたし＝に＝わたし』",
+					"RecommendedCapacity": 8,
+					"Capacity": 20,
+					"Description": "とってもやさしいパズル系謎解きワールド。 たくさんの自分と協力して、良い明日をむかえよう。 想定プレイ時間：10分～30分。＃VRC_Watashi",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "えぬぴーしー",
+			"Worlds": [
+				{
+					"ID": "wrld_8da69130-d7aa-445d-8d17-ae005d074f05",
+					"Name": "いろとりどる",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールドです！頑張った！",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
@@ -2153,6 +2331,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_5c6ff5f1-4dc1-46a1-b94b-f0f90cbdec1c",
+					"Name": "アントラー誕生祭2025⁄完全なN択クイズ",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "2025年の誕生日会場です。クイズに最後まで答えると会場へ行けます！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -2358,6 +2547,22 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "ムシコロリ",
+			"Worlds": [
+				{
+					"ID": "wrld_ebbb5364-43ef-4dc8-9413-86a3167210c",
+					"Name": "mushioriddle",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "答えはすべて4文字のアルファベットです",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]

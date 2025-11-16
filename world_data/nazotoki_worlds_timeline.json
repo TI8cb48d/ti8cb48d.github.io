@@ -119,6 +119,18 @@
 					}
 				},
 				{
+					"ID": "wrld_5b1513bc-a10b-4f2e-87b9-06f823991ea8",
+					"Name": "謎解きワールド「いたずら謎」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "問題にいたずらされちゃった！元の問題を推測して解こう！【難易度：ちょいむず】【所要時間：３０分～】【ローカル動作】 ＃VRC_ITZR謎",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_5f6dfb59-4291-41c5-8f38-ca8ed8592427",
 					"Name": "おかしななぞとき",
 					"RecommendedCapacity": 16,

@@ -385,6 +385,17 @@
 					}
 				},
 				{
+					"ID": "wrld_050fa969-6781-43e9-8ead-991d1b942bcf",
+					"Name": "謎解き「ひらがな算」",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "ひらがなを計算します 全5ステージ 想定プレイ時間1時間弱",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_b415cb9d-022f-45f2-922a-910440074525",
 					"Name": "彼女のうしろ",
 					"RecommendedCapacity": 16,
@@ -4479,6 +4490,17 @@
 		{
 			"Category": "2021/02",
 			"Worlds": [
+				{
+					"ID": "wrld_ebbb5364-43ef-4dc8-9413-86a3167210c",
+					"Name": "mushioriddle",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "答えはすべて4文字のアルファベットです",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
 				{
 					"ID": "wrld_acf4a9ce-867b-4e1d-8c11-bd3a713da648",
 					"Name": "NINETHRULE【JPENG】",

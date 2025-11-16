@@ -6,6 +6,17 @@
 			"Category": "2025/11",
 			"Worlds": [	
 				{
+					"ID": "wrld_5daa016a-7b4a-481e-bf21-3fefad9a04c8",
+					"Name": "謎解きワールド『Million Keys』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "鍵を使って謎を解け。鍵は100万種類ある。［グローバル動作・制限時間60分］",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_c041b8fd-58ad-4a15-92b9-57a10c362880",
 					"Name": "謎解きワールド『雨降る幽霊公園』",
 					"RecommendedCapacity": 16,

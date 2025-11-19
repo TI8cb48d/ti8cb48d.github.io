@@ -4,7 +4,40 @@
 	"Categorys": [
 		{
 			"Category": "2025/11",
-			"Worlds": [	
+			"Worlds": [
+				{
+					"ID": "wrld_7c495d6f-50ae-4fd1-a5c6-7e0d7c2d6cf2",
+					"Name": "ROOM˸6 ［Riddle］",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "Use cubes in specific order․ Time˸45-90 min; Progress˸Local‚ QvPen˸Global․ 特定の言語知識を必要としません。（No specific language knowledge is needed to complete this world․）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_63095eb6-d6fc-4224-a892-b75e1e40e60c",
+					"Name": "わらしべ長者の謎解きワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解き慣れてない人向けに作ってましたが最後の問題で詰まるかも！慣れてる人はサクッと楽しんで！！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4cfe05ca-4c6c-475e-8da7-8d3cccf52e6f",
+					"Name": "謎解きワールド 知識謎",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "知識問題のみの謎解きワールドです 推定クリア時間：ヒントをしっかり使って1時間～ ＃VRC_CSK",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
 				{
 					"ID": "wrld_5daa016a-7b4a-481e-bf21-3fefad9a04c8",
 					"Name": "謎解きワールド『Million Keys』",

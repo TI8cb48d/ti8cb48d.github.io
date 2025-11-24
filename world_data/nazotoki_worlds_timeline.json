@@ -6,6 +6,17 @@
 			"Category": "2025/11",
 			"Worlds": [
 				{
+					"ID": "wrld_52e653b5-cf58-4d9b-a7f2-cba983794d81",
+					"Name": "定期的に謎が出てくるチルワールド",
+					"RecommendedCapacity": 4,
+					"Capacity": 15,
+					"Description": "30分ごとに謎が出現されるチルワールドです。 OXゲームや、早押し機が置いてあります。 全問正解報酬˸なし",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_7c495d6f-50ae-4fd1-a5c6-7e0d7c2d6cf2",
 					"Name": "ROOM˸6 ［Riddle］",
 					"RecommendedCapacity": 4,
@@ -4767,6 +4778,17 @@
 					"RecommendedCapacity": 40,
 					"Capacity": 80,
 					"Description": "［JP⁄EN］Let's Just NAZOTOKIǃ ハッシュタグ＃お気軽謎解き",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4215eeac-7227-442b-9b85-945b77c514ba",
+					"Name": "普遍謎解き～Universal Puzzle World～",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "いたって普通の普遍的な謎解きワールドです。クリア目指して頑張ってください。Sorry‚Japanese language Only․",
 					"Platform": {
 						"PC": true,
 						"Android": false

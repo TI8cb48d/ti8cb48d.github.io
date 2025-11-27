@@ -6,6 +6,17 @@
 			"Category": "2025/11",
 			"Worlds": [
 				{
+					"ID": "wrld_dd10a47d-9ad0-4d41-ac05-c786729ead0e",
+					"Name": "【謎解き】Ability【パズル】",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "このワールドを、全ての『_______』へ捧げます。 想定クリア時間：個人差大の為不明",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_52e653b5-cf58-4d9b-a7f2-cba983794d81",
 					"Name": "定期的に謎が出てくるチルワールド",
 					"RecommendedCapacity": 4,

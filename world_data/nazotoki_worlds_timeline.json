@@ -6,6 +6,17 @@
 			"Category": "2025/11",
 			"Worlds": [
 				{
+					"ID": "wrld_7a62f6b2-fdf8-48b6-bbeb-aedc652621ef",
+					"Name": "具現化謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "問題の答えが現れたり消えたりする世界。ギミックは全てローカル。想定プレイ時間30~90分。途中参加可",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_dd10a47d-9ad0-4d41-ac05-c786729ead0e",
 					"Name": "【謎解き】Ability【パズル】",
 					"RecommendedCapacity": 8,

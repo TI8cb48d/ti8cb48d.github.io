@@ -6,6 +6,28 @@
 			"Category": "2025/11",
 			"Worlds": [
 				{
+					"ID": "wrld_658033c5-e550-4a13-ba67-b8ef586e1c34",
+					"Name": "謎解きワールド『封じられし言ノ葉の迷宮』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎の人物により、迷宮に封印されてしまったあなた。全ての謎を解き明かし、脱出することはできるのか？ ⁄ 難易度：ふつう ⁄ 想定クリア時間：60～90分 ⁄ 動作：ローカル ⁄ ＃VRC_Words_Labyrinth",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ee0ce9ba-7892-49d4-8979-4689fa59e206",
+					"Name": "和同怪珎",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "和同開珎クイズ風の謎解きワールドです！力技で回答されるのが目に浮かぶ․․․ VRC_わどうかいちん",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_7a62f6b2-fdf8-48b6-bbeb-aedc652621ef",
 					"Name": "具現化謎解き",
 					"RecommendedCapacity": 16,

@@ -3,6 +3,22 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2025/12",
+			"Worlds": [
+				{
+					"ID": "wrld_810ac86c-552b-49f9-b587-c6c58c30fe4d",
+					"Name": "謎解きワールド『ミノタウロスの球体』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。球体を回転させて道を作り、反対側の足場に辿り着きましょう。動作はローカルです。難易度は普通。＃VRC_M_Sphere",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "2025/11",
 			"Worlds": [
 				{

@@ -6,6 +6,17 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_7176d53c-8e1b-4813-a0aa-6beed5c77336",
+					"Name": "謎解きワールド「ColorlessOrb」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "世界の色を取り戻せ。想定クリア時間：15分～30分、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_810ac86c-552b-49f9-b587-c6c58c30fe4d",
 					"Name": "謎解きワールド『ミノタウロスの球体』",
 					"RecommendedCapacity": 16,

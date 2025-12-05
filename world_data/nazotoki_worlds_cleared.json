@@ -408,6 +408,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_614d1e2b-d953-4180-b0f2-8e62916b198d",
+					"Name": "謎解きワールド『ハロウィン謎』",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "お化けにいたずらされた謎を解くワールドです。＃VRC_イタズラ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -1418,6 +1429,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_ac937ebc-9db6-4a14-a97a-1611fe0b5a10",
+					"Name": "脱出ゲーム「DEADLOCK」",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "鍵を入手して部屋から脱出せよ！ただし、鍵は部屋の外にあります ⁄途中参加不可⁄制限時間60分 ＃VRC_DEADLOCK",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -1497,6 +1519,18 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "再び研究にご協力ください。想定クリア時間：30分～1時間、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_0d0bdf2c-3d8e-472c-a968-9b99a453d391",
+					"Name": "謎解きワールド「UnCommonRiddle」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "よくある謎？を解け。想定クリア時間：30分～1時間、ワールド動作：ローカル",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -1595,6 +1629,33 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "4つの方法で解答する謎解きワールドです！ 挙動は全ローカルです。推定プレイ時間30-90 min․ This world is a Japanese riddle world․ You need Japanese skills․ワールドタグ＃VRC_AKAN",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "wildkumamon",
+			"Worlds": [
+				{
+					"ID": "wrld_94377591-e006-4421-b190-a90b51db0f0d",
+					"Name": "謎解きワールド original",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語話者向けの謎解きワールドです⁄推定クリア時間 ヒントをしっかり使って1時間～⁄初めてのワールドなのでどうか温かい目でお願いします",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4cfe05ca-4c6c-475e-8da7-8d3cccf52e6f",
+					"Name": "謎解きワールド 知識謎",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "知識問題のみの謎解きワールドです 推定クリア時間：ヒントをしっかり使って1時間～ ＃VRC_CSK",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -1730,6 +1791,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "謎解きワールドです！頑張った！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_63095eb6-d6fc-4224-a892-b75e1e40e60c",
+					"Name": "わらしべ長者の謎解きワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解き慣れてない人向けに作ってましたが最後の問題で詰まるかも！慣れてる人はサクッと楽しんで！！",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -2173,6 +2245,18 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e86c913c-1d97-4236-ab40-cf62f62ca262",
+					"Name": "90点",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語の知識が必要な謎解きワールドです。 検索推奨です。 90点満点の謎解きワールド、60点以上でクリアです。 ヒントあります。推定クリア時間 30分～2時間 ＃VRC_QJ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
 					}
 				}
 			]
@@ -2745,6 +2829,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_c041b8fd-58ad-4a15-92b9-57a10c362880",
+					"Name": "謎解きワールド『雨降る幽霊公園』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。物の記憶を読み取る能力を持ったあなた。幽霊（？）の声に導かれて公園を探索しましょう。 動作はローカルです。難易度は簡単。＃VRC_GhostPark",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -2968,6 +3063,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_5f6dfb59-4291-41c5-8f38-ca8ed8592427",
+					"Name": "おかしななぞとき",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "イタズラに負けず謎を解き明かしてください。 ＃VRC_WSR",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -3016,6 +3122,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9c597212-43d7-4642-ac5c-07e190078b8c",
+					"Name": "謎解きワールド「Correct to correcT」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "正解することで正解を目指す日本語話者向け謎解きワールド第五弾です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]

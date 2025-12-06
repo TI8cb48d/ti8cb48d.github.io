@@ -6,6 +6,29 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_655f77e2-e5e0-4f24-b13b-5ce693285274",
+					"Name": "謎解きワールド「聖夜の謎解き」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "一枚謎が全6問あります。Extra等はありません。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_aa1c0b96-4c10-47ec-b0af-ea491a82d479",
+					"Name": "小麦粉生地にあんこを入れて焼いた和菓子の謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短め、低難易度の謎解きワールドです。（～30分） ヒントあります。 謎解き初制作なのでお手柔らかにお願いします。 ＃VRC_ARE",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_7176d53c-8e1b-4813-a0aa-6beed5c77336",
 					"Name": "謎解きワールド「ColorlessOrb」",
 					"RecommendedCapacity": 8,
@@ -855,6 +878,17 @@
 					"RecommendedCapacity": 2,
 					"Capacity": 2,
 					"Description": "2人専用チルワールドからの脱出。 身内向けの報告ワールドに一部変更を加えたものです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6cf98f32-7e85-431c-a45b-f4e234e50bf5",
+					"Name": "PuzzleStorage",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "作者が、作った問題を気ままに置いていってるワールドです。 一部の問題は解けなくはないですがVRモード推奨です。",
 					"Platform": {
 						"PC": true,
 						"Android": false

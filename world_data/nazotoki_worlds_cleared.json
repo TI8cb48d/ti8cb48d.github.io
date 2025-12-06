@@ -1536,6 +1536,17 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_7176d53c-8e1b-4813-a0aa-6beed5c77336",
+					"Name": "謎解きワールド「ColorlessOrb」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "世界の色を取り戻せ。想定クリア時間：15分～30分、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -1802,6 +1813,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "謎解き慣れてない人向けに作ってましたが最後の問題で詰まるかも！慣れてる人はサクッと楽しんで！！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ee0ce9ba-7892-49d4-8979-4689fa59e206",
+					"Name": "和同怪珎",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "和同開珎クイズ風の謎解きワールドです！力技で回答されるのが目に浮かぶ․․․ VRC_わどうかいちん",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -2454,6 +2476,28 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "数学的思考をテーマとした謎解き（パズル）ワールドです。 推定クリア時間：20～40分。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6cf98f32-7e85-431c-a45b-f4e234e50bf5",
+					"Name": "PuzzleStorage",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "作者が、作った問題を気ままに置いていってるワールドです。 一部の問題は解けなくはないですがVRモード推奨です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_dd10a47d-9ad0-4d41-ac05-c786729ead0e",
+					"Name": "【謎解き】Ability【パズル】",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "このワールドを、全ての『_______』へ捧げます。 想定クリア時間：個人差大の為不明",
 					"Platform": {
 						"PC": true,
 						"Android": false

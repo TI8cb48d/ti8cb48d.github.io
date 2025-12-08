@@ -6,6 +6,17 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_96fb9c78-914c-4a64-ad8e-c988697c7478",
+					"Name": "ふるーつなぞとき",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "誰でも楽しめる謎解きをめざして｜想定時間：10~30分程度｜物足りない方用に難しい謎も用意してます！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_655f77e2-e5e0-4f24-b13b-5ce693285274",
 					"Name": "謎解きワールド「聖夜の謎解き」",
 					"RecommendedCapacity": 16,

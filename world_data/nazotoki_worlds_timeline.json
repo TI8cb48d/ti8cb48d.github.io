@@ -6,6 +6,18 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_3a801415-1faa-460d-af47-3ec39a6644fa",
+					"Name": "？？？？？？？？？からの脱出",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "難易度˸ Keneq",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_96fb9c78-914c-4a64-ad8e-c988697c7478",
 					"Name": "ふるーつなぞとき",
 					"RecommendedCapacity": 4,

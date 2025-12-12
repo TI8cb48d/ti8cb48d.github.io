@@ -6,6 +6,29 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_9f48652f-374e-4b7e-92f5-1c61dcc4a200",
+					"Name": "謎解きワールド「CUTBOX」",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "箱の謎を解け。想定クリア時間：15分～45分、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_ceb2fd54-ddab-43d7-87ac-e2bd21254d2e",
+					"Name": "【謎解き】偏愛cafe 1st Anniversary",
+					"RecommendedCapacity": 23,
+					"Capacity": 23,
+					"Description": "【謎解き】偏愛cafe 1st Anniversary",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_3a801415-1faa-460d-af47-3ec39a6644fa",
 					"Name": "？？？？？？？？？からの脱出",
 					"RecommendedCapacity": 16,

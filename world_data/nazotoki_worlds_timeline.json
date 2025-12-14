@@ -6,6 +6,17 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_b79e3b47-50b5-40f5-966d-de679982a501",
+					"Name": "謎解きワールド「四角と矢印4」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "四角と矢印のみで構成された高難易度謎解き第4弾ですが、今回はトンでもなギミックが仕込まれたようです。難易度˸1~3よりは簡単 動作˸ペン以外ローカル 想定クリア時間˸1h~2days 経過時間のみ自動セーブ有 v1․1˸ 想定クリア時間と難易度表記を修正",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_9f48652f-374e-4b7e-92f5-1c61dcc4a200",
 					"Name": "謎解きワールド「CUTBOX」",
 					"RecommendedCapacity": 4,

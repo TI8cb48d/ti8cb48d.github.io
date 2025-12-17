@@ -6,6 +6,18 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_6a24ddee-15f6-45bb-bb0e-a23fd2542bbb",
+					"Name": "境界消失謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRChatの積みアセットの亡霊のせいで謎解きから何かしらの境界が消失してしまったらしい！このワールドは東方Projectの二次創作です。 難易度˸Keneq or Ekhi ＃VRC_TH_Borderiddle",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_b79e3b47-50b5-40f5-966d-de679982a501",
 					"Name": "謎解きワールド「四角と矢印4」",
 					"RecommendedCapacity": 16,

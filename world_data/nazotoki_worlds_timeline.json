@@ -6,6 +6,28 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_d09b940b-d0c6-4401-acb1-41f8e94095dd",
+					"Name": "三人でつくったなぞとき",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語話者向け謎解きワールド 想定クリア時間60分以上 ＃VRC_さんなぞ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2c14bce5-386a-4e2d-bd4c-2aa1fb5e03e9",
+					"Name": "しかくなぞ",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "入門的なしかくなぞです。 ＃VRC_しかくなぞ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_6a24ddee-15f6-45bb-bb0e-a23fd2542bbb",
 					"Name": "境界消失謎解き",
 					"RecommendedCapacity": 16,

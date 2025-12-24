@@ -6,6 +6,28 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_c45b9a6d-0cf7-464c-b13c-eaa7fd8730e0",
+					"Name": "謎解きワールド「Perfect」",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "大量に配置された1枚謎を解き明かし、エンディングにたどり着け。VR必須ではありません。 Persistence対応。（リセットしたい場合は「ユーザーデータをリセット」してください。）想定時間 ˸ 不明 This world is a Japanese riddle game world․ You must have very high level Japanese language skill․ World tag ˸ ＃VRC_PT",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a2fef88e-d889-44d9-84a5-418b6400d353",
+					"Name": "謎解きワールド『1⁄28』",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "28の謎から、たった１つを探し出せ。難易度˸難⁄推奨人数1~4人⁄想定クリア時間20分~⁄想定コンプリート時間90分~180分⁄一部検索謎あり",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_d09b940b-d0c6-4401-acb1-41f8e94095dd",
 					"Name": "三人でつくったなぞとき",
 					"RecommendedCapacity": 16,

@@ -6,6 +6,17 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_ff0dda09-e330-4dbf-bce7-1ffff6dbda3f",
+					"Name": "謎解きワールド『君の贈り物』",
+					"RecommendedCapacity": 7,
+					"Capacity": 15,
+					"Description": "謎を解き、プレゼントを置きましょう。 一緒にサンタさんになろう！＃VRC_1225",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_d3bbbe83-4e83-4320-8eba-93134fc9ca8f",
 					"Name": "謎解きワールド「GIFT」",
 					"RecommendedCapacity": 16,

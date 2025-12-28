@@ -6,6 +6,28 @@
 			"Category": "2025/12",
 			"Worlds": [
 				{
+					"ID": "wrld_27e21cc8-8bca-4e66-b69e-f14f193da181",
+					"Name": "謎解きワールド【おきてやぶり】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "常識を覆せ！ルールを破れ！提示されたルールを破って進める謎解きワールドです。【想定クリア時間：2～3h】【ギミック：ローカル（謎解きに関係ない部分はグローバルあり）】【＃VRC_Ru_Le】",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9dd40159-416a-441a-a445-79f2f96814f0",
+					"Name": "ゴミ謎解きワールド Notベタ",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "初投稿からゴミの謎解きワールドです。イライラ耐性強い人にオススメです。クリア時間目安1時間～ ＃VRC_Notベタ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_ff0dda09-e330-4dbf-bce7-1ffff6dbda3f",
 					"Name": "謎解きワールド『君の贈り物』",
 					"RecommendedCapacity": 7,

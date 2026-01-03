@@ -3,6 +3,33 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2026/01",
+			"Worlds": [
+				{
+					"ID": "wrld_a7eb56d7-a03c-41ea-b81a-7dccb6116ef9",
+					"Name": "謎解きワールド『HORSE RIDDLE』",
+					"RecommendedCapacity": 4,
+					"Capacity": 12,
+					"Description": "2026年は午年なので、馬が出てくる謎を作りました！ ＃VRC_2026",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4d9919ff-5bfe-4e93-8549-e42a84e79e9b",
+					"Name": "Lv․1ぐらいの謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "1月1日なので作者がLv․1だと思う謎解きを作りました。 想定クリア時間˸1~10min․ v1․4˸Q1を易化",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "2025/12",
 			"Worlds": [
 				{

@@ -6,6 +6,17 @@
 			"Category": "2026/01",
 			"Worlds": [
 				{
+					"ID": "wrld_2c1873c0-4cef-48a9-9dfc-16c158543a9f",
+					"Name": "可変謎",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語の知識などが必要な謎解きワールドです。⁄EXTRAクリアもあります⁄注意˸謎解きにある程度慣れた人向け、何が起きても許せる人向けです。⁄想定クリア時間5分から数週間⁄＃VRC_change",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_a7eb56d7-a03c-41ea-b81a-7dccb6116ef9",
 					"Name": "謎解きワールド『HORSE RIDDLE』",
 					"RecommendedCapacity": 4,

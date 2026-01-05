@@ -6,6 +6,18 @@
 			"Category": "2026/01",
 			"Worlds": [
 				{
+					"ID": "wrld_436ba70c-ada9-4561-8438-b7d941dc9075",
+					"Name": "謎解きワールド「Repeat 4 Minutes」",
+					"RecommendedCapacity": 3,
+					"Capacity": 4,
+					"Description": "繰り返される「4分間」から抜け出せ。想定クリア時間：15分～45分、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_2c1873c0-4cef-48a9-9dfc-16c158543a9f",
 					"Name": "可変謎",
 					"RecommendedCapacity": 16,

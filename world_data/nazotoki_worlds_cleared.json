@@ -136,6 +136,28 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_b79e3b47-50b5-40f5-966d-de679982a501",
+					"Name": "謎解きワールド「四角と矢印4」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "四角と矢印のみで構成された高難易度謎解き第4弾ですが、今回はトンでもなギミックが仕込まれたようです。難易度˸1~3よりは簡単 動作˸ペン以外ローカル 想定クリア時間˸1h~2days 経過時間のみ自動セーブ有 v1․1˸ 想定クリア時間と難易度表記を修正",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4d9919ff-5bfe-4e93-8549-e42a84e79e9b",
+					"Name": "Lv․1ぐらいの謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "1月1日なので作者がLv․1だと思う謎解きを作りました。 想定クリア時間˸1~10min․ v1․4˸Q1を易化",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -415,6 +437,28 @@
 					"RecommendedCapacity": 10,
 					"Capacity": 20,
 					"Description": "お化けにいたずらされた謎を解くワールドです。＃VRC_イタズラ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ff0dda09-e330-4dbf-bce7-1ffff6dbda3f",
+					"Name": "謎解きワールド『君の贈り物』",
+					"RecommendedCapacity": 7,
+					"Capacity": 15,
+					"Description": "謎を解き、プレゼントを置きましょう。 一緒にサンタさんになろう！＃VRC_1225",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a7eb56d7-a03c-41ea-b81a-7dccb6116ef9",
+					"Name": "謎解きワールド『HORSE RIDDLE』",
+					"RecommendedCapacity": 4,
+					"Capacity": 12,
+					"Description": "2026年は午年なので、馬が出てくる謎を作りました！ ＃VRC_2026",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -951,6 +995,41 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_06e8655d-67b9-45a4-9327-45b6379ad67f",
+					"Name": "脱出試験「Panel Panic」",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "大叛逆のあと、ドールたちは今までの扱いを人間に返すかのように、人間たちに試練を与えていた。そしてまた、＂紫の維持＂ヴィシュヌの手によって、新たな生き残りをかけた試練が始まる。（ストーリーを知らなくても脱出ゲームは楽しめます） 難易度˸ Ekhi",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3a801415-1faa-460d-af47-3ec39a6644fa",
+					"Name": "？？？？？？？？？からの脱出",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "難易度˸ Keneq",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_6a24ddee-15f6-45bb-bb0e-a23fd2542bbb",
+					"Name": "境界消失謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRChatの積みアセットの亡霊のせいで謎解きから何かしらの境界が消失してしまったらしい！このワールドは東方Projectの二次創作です。 難易度˸Keneq or Ekhi ＃VRC_TH_Borderiddle",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -1227,6 +1306,22 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 48,
 					"Description": "k․izumiの生誕祭用ワールドです 謎を若干解きやすくしました",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "powa_0x0_",
+			"Worlds": [
+				{
+					"ID": "wrld_658033c5-e550-4a13-ba67-b8ef586e1c34",
+					"Name": "謎解きワールド『封じられし言ノ葉の迷宮』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎の人物により、迷宮に封印されてしまったあなた。全ての謎を解き明かし、脱出することはできるのか？ ⁄ 難易度：ふつう ⁄ 想定クリア時間：60～90分 ⁄ 動作：ローカル ⁄ ＃VRC_Words_Labyrinth",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -1546,6 +1641,18 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9f48652f-374e-4b7e-92f5-1c61dcc4a200",
+					"Name": "謎解きワールド「CUTBOX」",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "箱の謎を解け。想定クリア時間：15分～45分、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
 					}
 				}
 			]
@@ -2127,6 +2234,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_2c14bce5-386a-4e2d-bd4c-2aa1fb5e03e9",
+					"Name": "しかくなぞ",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "入門的なしかくなぞです。 ＃VRC_しかくなぞ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -2240,6 +2358,23 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "ひえー（hierv5）",
+			"Worlds": [
+				{
+					"ID": "wrld_655f77e2-e5e0-4f24-b13b-5ce693285274",
+					"Name": "謎解きワールド「聖夜の謎解き」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "一枚謎が全6問あります。Extra等はありません。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
 					}
 				}
 			]
@@ -2880,6 +3015,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "日本人向けの謎解きワールドです。物の記憶を読み取る能力を持ったあなた。幽霊（？）の声に導かれて公園を探索しましょう。 動作はローカルです。難易度は簡単。＃VRC_GhostPark",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_810ac86c-552b-49f9-b587-c6c58c30fe4d",
+					"Name": "謎解きワールド『ミノタウロスの球体』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。球体を回転させて道を作り、反対側の足場に辿り着きましょう。動作はローカルです。難易度は普通。＃VRC_M_Sphere",
 					"Platform": {
 						"PC": true,
 						"Android": true

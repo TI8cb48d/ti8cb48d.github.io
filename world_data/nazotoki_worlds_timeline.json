@@ -6,6 +6,28 @@
 			"Category": "2026/01",
 			"Worlds": [
 				{
+					"ID": "wrld_f90f7d28-7c20-4e74-8c8d-2b2667f62372",
+					"Name": "謎解きワールド「玄」",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "高難度。４つの謎を解きましょう。【難易度：とてもむずかしい】【所要時間：１時間半～】【ローカル動作】 ＃VRC_玄",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c9b1166e-7b15-4400-b23f-c76cff2ba336",
+					"Name": "脱出ゲーム「人生逆転クルーズからの脱出」",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "あなたは、余興「人生逆転クルーズ」をクリアし、残りの人生を遊んで過ごすことができるのか！？⁄ 制限時間60分 ⁄ グローバル動作 ⁄ 途中参加不可 ＃VRC_人生逆転",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_436ba70c-ada9-4561-8438-b7d941dc9075",
 					"Name": "謎解きワールド「Repeat 4 Minutes」",
 					"RecommendedCapacity": 3,

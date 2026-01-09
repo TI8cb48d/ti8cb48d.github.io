@@ -6,6 +6,17 @@
 			"Category": "2026/01",
 			"Worlds": [
 				{
+					"ID": "wrld_bc1be647-729f-4187-b284-463f7d55f274",
+					"Name": "謎解きワールド『Solution』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "～解決策を見つけてください～魔法の杖で空に浮かぶ球体を動かし、答えにたどり着きましょう。全6問。動作はグローバルです。途中参加可能。＃VRC_Solution",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_f90f7d28-7c20-4e74-8c8d-2b2667f62372",
 					"Name": "謎解きワールド「玄」",
 					"RecommendedCapacity": 12,

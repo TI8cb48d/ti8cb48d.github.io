@@ -6,6 +6,17 @@
 			"Category": "2026/01",
 			"Worlds": [
 				{
+					"ID": "wrld_a2ce1007-139e-4508-8250-eab157c8c2f3",
+					"Name": "謎解きワールド「魔法薬局メルラ」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "魔法の薬屋さんの謎を解く、ギミック系謎解きワールド⁄PCオンリー⁄2時間想定⁄推奨人数1～5人⁄Desktop可⁄一応途中参加可能⁄ホームワールドとして作成したので、ヒントがなく難しいかもしれません⁄このワールドにはVRC貴族部サロンの非公式コンテンツを含みます⁄ベルギアのポーション屋さん⁄不具合や感想は ＃VRC_魔法薬局 へ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_bc1be647-729f-4187-b284-463f7d55f274",
 					"Name": "謎解きワールド『Solution』",
 					"RecommendedCapacity": 16,

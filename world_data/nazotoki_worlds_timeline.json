@@ -6,6 +6,51 @@
 			"Category": "2026/01",
 			"Worlds": [
 				{
+					"ID": "wrld_173721c8-4cac-414d-9394-955a618aca27",
+					"Name": "謎解きワールド「StarRuins」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "星の示す答えを導け。想定クリア時間：5分～30分、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_6d7ed80c-a275-4f77-aad6-7a6bb665d372",
+					"Name": "謎解きワールド「Untitled Puzzle 3」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "謎解きワールド「Untitled Puzzle 3」。＃VRC_UntitledPuzzle3",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4aff03b2-7509-4a18-91cd-ea1e787c049b",
+					"Name": "謎解きAR",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "簡単な謎解きです！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_afd4cb69-9a90-4461-8826-49e0ee1f3d76",
+					"Name": "Data Center",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "データセンターでV睡してフレンドを怖がらせましょう！ ＃EscapeFromDataCenter",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_a2ce1007-139e-4508-8250-eab157c8c2f3",
 					"Name": "謎解きワールド「魔法薬局メルラ」",
 					"RecommendedCapacity": 16,

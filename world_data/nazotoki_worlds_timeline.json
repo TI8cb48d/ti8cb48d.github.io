@@ -40,6 +40,17 @@
 					}
 				},
 				{
+					"ID": "wrld_e709e340-7d0c-445a-bb00-2362cc1ee853/",
+					"Name": "Initial Change とある実験プロトコルからの脱出",
+					"RecommendedCapacity": 1,
+					"Capacity": 6,
+					"Description": "記憶を失った貴方が目を覚ますと、そこは謎の異空間だった。どうやら何かの実験に参加することになったらしい。そこで発現した「文字を入れ替える能力」によって事象を改変することで、異空間からの脱出を目指そう。ギミックはローカルで、シナリオは1人用です。＃InitialChange",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_afd4cb69-9a90-4461-8826-49e0ee1f3d76",
 					"Name": "Data Center",
 					"RecommendedCapacity": 6,

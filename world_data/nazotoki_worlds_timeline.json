@@ -6,6 +6,17 @@
 			"Category": "2026/01",
 			"Worlds": [
 				{
+					"ID": "wrld_37e03a38-49ae-404d-b15e-ae9f5df0dca1",
+					"Name": "【超初心者向け】謎解きで結構使う知識を結構使う謎解き",
+					"RecommendedCapacity": 4,
+					"Capacity": 64,
+					"Description": "超初心者向けの謎解きワールドです。 全部で27問です。結構長めです。追加問題アリ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_173721c8-4cac-414d-9394-955a618aca27",
 					"Name": "謎解きワールド「StarRuins」",
 					"RecommendedCapacity": 16,

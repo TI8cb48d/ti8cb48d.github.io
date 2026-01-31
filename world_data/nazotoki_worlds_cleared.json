@@ -27,6 +27,17 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_f90f7d28-7c20-4e74-8c8d-2b2667f62372",
+					"Name": "謎解きワールド「玄」",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "高難度。４つの謎を解きましょう。【難易度：とてもむずかしい】【所要時間：１時間半～】【ローカル動作】 ＃VRC_玄",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -559,6 +570,22 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "No_Open",
+			"Worlds": [
+				{
+					"ID": "wrld_9dd40159-416a-441a-a445-79f2f96814f0",
+					"Name": "ゴミ謎解きワールド Notベタ",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "初投稿からゴミの謎解きワールドです。イライラ耐性強い人にオススメです。クリア時間目安1時間～ ＃VRC_Notベタ",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
@@ -1250,6 +1277,22 @@
 			]
 		},
 		{
+			"Category": "hologr_a_phy",
+			"Worlds": [
+				{
+					"ID": "wrld_87ae80ae-4e9d-408c-8514-a926dc11aeba",
+					"Name": "黒の色見本",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "日本語話者向け謎解きワールド",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "huwa1234",
 			"Worlds": [
 				{
@@ -1261,6 +1304,22 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "isshii09",
+			"Worlds": [
+				{
+					"ID": "wrld_a2fef88e-d889-44d9-84a5-418b6400d353",
+					"Name": "謎解きワールド『1⁄28』",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "28の謎から、たった１つを探し出せ。難易度˸難⁄推奨人数1~4人⁄想定クリア時間20分~⁄想定コンプリート時間90分~180分⁄一部検索謎あり",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -1309,6 +1368,22 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "plum_sumomo",
+			"Worlds": [
+				{
+					"ID": "wrld_96fb9c78-914c-4a64-ad8e-c988697c7478",
+					"Name": "ふるーつなぞとき",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "誰でも楽しめる謎解きをめざして｜想定時間：10~30分程度｜物足りない方用に難しい謎も用意してます！",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
@@ -1654,6 +1729,42 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_436ba70c-ada9-4561-8438-b7d941dc9075",
+					"Name": "謎解きワールド「Repeat 4 Minutes」",
+					"RecommendedCapacity": 3,
+					"Capacity": 4,
+					"Description": "繰り返される「4分間」から抜け出せ。想定クリア時間：15分～45分、ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_d3bbbe83-4e83-4320-8eba-93134fc9ca8f",
+					"Name": "謎解きワールド「GIFT」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "聖夜の贈り物は祝福か、それとも絶望か。想定クリア時間：15分以上、ワールド動作；ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_173721c8-4cac-414d-9394-955a618aca27",
+					"Name": "謎解きワールド「StarRuins」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "星の示す答えを導け。想定クリア時間：5分～30分、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -1963,6 +2074,22 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "［jp Only］ 【難易度】そこそこ~しっかり 【回答ギミック】ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "たぁわ",
+			"Worlds": [
+				{
+					"ID": "wrld_bcf7a6d5-c72a-4916-8ade-f06adb26280f",
+					"Name": "謎解きワールド『CLOCK Box』",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "【SDK2使用・Unity2018使用のため、ワールドに不具合が生じる可能性があります。 プレイする際は自己責任でお願いします。（このワールドに関するお問い合わせは受け付けません）】 時計や時間にまつわる問題を取り揃えた謎解きワールドです。 ローカル動作 ⁄ VR推奨",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -2811,6 +2938,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_6d7ed80c-a275-4f77-aad6-7a6bb665d372",
+					"Name": "謎解きワールド「Untitled Puzzle 3」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "謎解きワールド「Untitled Puzzle 3」。＃VRC_UntitledPuzzle3",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -3222,6 +3360,22 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "想定時間：10秒～2時間 推奨人数：特になし VR⁄デスクトップ問わず Quest対応",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "天瀬らん",
+			"Worlds": [
+				{
+					"ID": "wrld_4aff03b2-7509-4a18-91cd-ea1e787c049b",
+					"Name": "謎解きAR",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "簡単な謎解きです！",
 					"Platform": {
 						"PC": true,
 						"Android": true

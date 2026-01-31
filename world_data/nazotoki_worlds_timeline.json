@@ -28,6 +28,17 @@
 					}
 				},
 				{
+					"ID": "wrld_87ae80ae-4e9d-408c-8514-a926dc11aeba",
+					"Name": "黒の色見本",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "日本語話者向け謎解きワールド",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_173721c8-4cac-414d-9394-955a618aca27",
 					"Name": "謎解きワールド「StarRuins」",
 					"RecommendedCapacity": 16,
@@ -4288,7 +4299,7 @@
 					"Name": "CLOCK BACK",
 					"RecommendedCapacity": 6,
 					"Capacity": 12,
-					"Description": "本語話者向けの脱出ワールドです。時を戻す時計を使って謎を解き進めましょう。制限時間６０分／１～４人推奨",
+					"Description": "日本語話者向けの脱出ワールドです。時を戻す時計を使って謎を解き進めましょう。制限時間６０分／１～４人推奨",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -4446,6 +4457,17 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "［JP Only］ 日本人向けのやさしめな謎解きワールドです。想定プレイ時間は5分～20分程度。ワールド動作がグローバルなため、自力で解きたい人は個別にインスタンスを立てることを推奨します。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_bcf7a6d5-c72a-4916-8ade-f06adb26280f",
+					"Name": "謎解きワールド『CLOCK Box』",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "【SDK2使用・Unity2018使用のため、ワールドに不具合が生じる可能性があります。 プレイする際は自己責任でお願いします。（このワールドに関するお問い合わせは受け付けません）】 時計や時間にまつわる問題を取り揃えた謎解きワールドです。 ローカル動作 ⁄ VR推奨",
 					"Platform": {
 						"PC": true,
 						"Android": false

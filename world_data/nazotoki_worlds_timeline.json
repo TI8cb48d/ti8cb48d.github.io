@@ -6,6 +6,17 @@
 			"Category": "2026/01",
 			"Worlds": [
 				{
+					"ID": "wrld_c3e69f3b-2dfe-482f-91a2-2cdc27e913f2",
+					"Name": "ふらわーなぞとき",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "もっと楽しめる謎解きをめざして｜想定時間：30分~1時間程度｜物足りない方用に難しい謎も用意してます！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_37e03a38-49ae-404d-b15e-ae9f5df0dca1",
 					"Name": "【超初心者向け】謎解きで結構使う知識を結構使う謎解き",
 					"RecommendedCapacity": 4,

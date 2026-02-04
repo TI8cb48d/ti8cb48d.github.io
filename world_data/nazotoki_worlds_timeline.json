@@ -3,8 +3,30 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
-			"Category": "2026/01",
+			"Category": "2026/02",
 			"Worlds": [
+				{
+					"ID": "wrld_d9b04f56-6075-4f27-828d-38806ac9c0d6",
+					"Name": "謎解き脱出ゲーム『最終選考』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "株式会社テイ・アイ・シイの研修拠点をフォトグラメトリで再現した空間からの脱出ゲームです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_180f141e-e488-448e-9587-a555c02f825c",
+					"Name": "謎解きワールド『Eccentric』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。部屋に配置された液晶パネル。試行を重ね、その裏にある法則を読み解き「エキセントリック」を表示させましょう。 動作はグローバル。途中入場可能です。＃VRC_Eccentric",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
 				{
 					"ID": "wrld_c3e69f3b-2dfe-482f-91a2-2cdc27e913f2",
 					"Name": "ふらわーなぞとき",
@@ -15,7 +37,12 @@
 						"PC": true,
 						"Android": true
 					}
-				},
+				}
+			]
+		},
+		{
+			"Category": "2026/01",
+			"Worlds": [
 				{
 					"ID": "wrld_37e03a38-49ae-404d-b15e-ae9f5df0dca1",
 					"Name": "【超初心者向け】謎解きで結構使う知識を結構使う謎解き",
@@ -25,6 +52,18 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_dc2d2b2e-d7bb-4e1b-905f-b60ec9658e77",
+					"Name": "数学＋脑筋急转弯＝？",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "v1․0․0",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
 					}
 				},
 				{
@@ -625,6 +664,17 @@
 		{
 			"Category": "2025/10",
 			"Worlds": [
+				{
+					"ID": "wrld_50660602-8eee-4a15-82fa-4934c2d26204",
+					"Name": "たびだちのばしょ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ホームワールド兼ポータルワールド兼ナゾトキワールドです。オリジナルギミック多数。驚くような仕掛けを用意しているのでぜひ最後まで探してみてください。 QvPen ⁄ VideoPlayer ⁄ ImagePad ⁄ Mirror",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
 				{
 					"ID": "wrld_ac937ebc-9db6-4a14-a97a-1611fe0b5a10",
 					"Name": "脱出ゲーム「DEADLOCK」",
@@ -4728,6 +4778,17 @@
 					"RecommendedCapacity": 6,
 					"Capacity": 12,
 					"Description": "Room N's No․1 ＝ G․ ［JP⁄EN］ 暗号・仕掛け主体の謎解きワールド。Cipher and gimmick riddles․ 1 hour ~ several days․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3482db7c-4374-4a5c-bceb-f87788d01236",
+					"Name": "謎解き部屋",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "至らぬ点が多々あるかもですがそこは多めに見てやってください。大人数で行くと重いかもです",
 					"Platform": {
 						"PC": true,
 						"Android": true

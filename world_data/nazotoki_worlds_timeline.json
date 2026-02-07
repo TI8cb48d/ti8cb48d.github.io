@@ -6,6 +6,28 @@
 			"Category": "2026/02",
 			"Worlds": [
 				{
+					"ID": "wrld_402f82db-5cf9-4624-a33e-746f4b3c2a3b",
+					"Name": "【謎解きワールド】VRChat謎",
+					"RecommendedCapacity": 4,
+					"Capacity": 64,
+					"Description": "短めの謎解きワールドです。VRChatの知識を使います。全部で11問です。少しだけ難しいかも。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_747d6ed2-7f39-4689-81d5-31653a02884b",
+					"Name": "AliveGame",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "デスゲームって怖いですよね。なので、これはアライブゲームです。謎を解いて生き残ることを目指します。 失敗すると生きて帰れなくなります。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_d9b04f56-6075-4f27-828d-38806ac9c0d6",
 					"Name": "謎解き脱出ゲーム『最終選考』",
 					"RecommendedCapacity": 16,

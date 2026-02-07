@@ -6,6 +6,18 @@
 			"Category": "2026/02",
 			"Worlds": [
 				{
+					"ID": "wrld_47b758f7-96d6-4442-8bc6-589e0c563767",
+					"Name": "【謎解きワールド】｢す｣は｢すたあと｣の｢す｣",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "たくさんのナゾを解いて、最後のナゾのこたえを導き出してください。 難易度：すこし易しい⁄目安時間：60分⁄ギミック：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_402f82db-5cf9-4624-a33e-746f4b3c2a3b",
 					"Name": "【謎解きワールド】VRChat謎",
 					"RecommendedCapacity": 4,

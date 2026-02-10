@@ -6,6 +6,51 @@
 			"Category": "2026/02",
 			"Worlds": [
 				{
+					"ID": "wrld_a60364c1-2d23-4b79-a228-b759daa63726",
+					"Name": "謎解きワールド「無名果盗難事件」",
+					"RecommendedCapacity": 16,
+					"Capacity": 12,
+					"Description": "極秘研究中の果物、「アンネームドフルーツ」が盗まれてしまった！謎を解いて手がかりを出現させ、犯人を当てよう！動作はローカルです。想定時間˸ 1時間 ＃VRC_無名果 難易度˸ Keneq",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_53563a5f-5e61-404f-b940-796263afc9d3",
+					"Name": "謎解きワールド「見解」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「見解」を示せ。想定難易度：1、想定クリア時間：1分～15分、ワールド動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_4b62e493-d200-4484-9b37-1923fa11b7b3",
+					"Name": "謎解き『竹取物語』",
+					"RecommendedCapacity": 4,
+					"Capacity": 12,
+					"Description": "＃VRC謎解き竹取物語 ワールド制作者が超かぐや姫！にドはまりしたため竹取物語をモチーフとして謎解きワールドを制作しました。 超かぐや姫！本編のネタバレ等は一切ございません。 難易度：ふつう 想定プレイ時間：60分～120分程度 問題数：全8問 検索：あり 途中参加：あり",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4534a889-9a19-491d-8c96-c68817a20234",
+					"Name": "謎解きワールド Salvage",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "・謎を解いた回数が少ないほどスゴイ謎解きワールドです。 ・知識があるとスムーズですが、無くてもワールド内の情報でほぼ完結します。 ・問題数１～６問 ・想定所用時間５～５０分 ・前置き以外に日本語の知識必要無し。（No Japanese knowledge required beyond the introduction․） ＃VRC_Salvage",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_47b758f7-96d6-4442-8bc6-589e0c563767",
 					"Name": "【謎解きワールド】｢す｣は｢すたあと｣の｢す｣",
 					"RecommendedCapacity": 16,

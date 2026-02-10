@@ -6,6 +6,17 @@
 			"Category": "2026/02",
 			"Worlds": [
 				{
+					"ID": "wrld_5186852e-d8d5-41b7-af3a-aca33b8c7003",
+					"Name": "謎解きワールド Scarlet",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あなたは｜好きですか？［難易度］おおよそほとんどの人向け ［問題数］6＋ ［所要時間］5min~",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_a60364c1-2d23-4b79-a228-b759daa63726",
 					"Name": "謎解きワールド「無名果盗難事件」",
 					"RecommendedCapacity": 16,

@@ -6,6 +6,138 @@
 			"Category": "2026/02",
 			"Worlds": [
 				{
+					"ID": "wrld_e26ce800-cd60-4f35-8456-51a4974f7d89",
+					"Name": "Escape The Twin Rooms",
+					"RecommendedCapacity": 2,
+					"Capacity": 10,
+					"Description": "同期処理の練習用に作ったワールドです。クリアの目安は2時間くらいです。完全クリアも目指してみてね！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_45c8f259-8d26-4b1c-88f5-c1f46a1852da",
+					"Name": "謎解きワールド『遺伝子操作』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短編謎解きワールドです。ボタンを操作し『遺伝子操作』を完了させましょう。動作はローカルです。想定プレイ時間は5分～30分 ＃VRC_Gene",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f2d6c0ca-2018-449d-a4f1-77ebd8da136e",
+					"Name": "謎解きワールド「Click」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ボタンを押すだけの簡単な謎解き（風の何か）です。VRChat SDKの仕様を悪用するため、VRChatの更新によって予期せず動作しなくなる可能性があります。VRのみ（スタンドアロンも可）。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9490655d-5b44-4cfb-9f66-db8b8322971b",
+					"Name": "謎解きワールド「DECODE」",
+					"RecommendedCapacity": 8,
+					"Capacity": 32,
+					"Description": "三つの部屋に隠された謎を解き、脱出せよ！ 同期：完全ローカル 難易度：ふつう～難しい 推奨人数：一部屋３～６人 一部音を利用する部屋がございます。音量にご注意ください。 Respect for D",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7e24db22-3541-4900-a145-0dfcd2b45818",
+					"Name": "【謎解きワールド】まさか紅魔館が爆発するなんて",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎を解いて紅魔館を爆発させるワールドです。解かなくてもやがて爆発します。残っている時間でフレンドと競おう！紅魔館を爆発させるには東方Projectの知識はいりません。このワールドは東方Projectの二次創作です。難易度˸ Keneq（爆発） Ekhi（？？？？）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_690ee16f-efab-4008-8d12-d4c1e1cd83e2",
+					"Name": "【謎解き？】謎解きではないなにか",
+					"RecommendedCapacity": 4,
+					"Capacity": 64,
+					"Description": "クセしかない謎解きです。全部で9問あります。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_26ed29d8-ebf6-4979-90af-cea63d0f2fd2",
+					"Name": "難易度ロリコライダー謎解き2",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "4段階の難易度を選べる謎解きワールドです。全5問。EXはありません。いろんな人と来てもらえると嬉しいです。想定時間：30分～ ⁄想定人数：1～10人 ＃VRC_DifCoL2",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_fad92201-5cd5-4df4-b71b-75da42f1b190",
+					"Name": "謎解きワールドによく行く奴が初めて作った謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "表10問、裏10問の計20問です 表は推定30分から60分、裏は分かりません 温かい目でプレイしていただくと嬉しいです サムネは収まりませんでした ＃VRC_hajimete",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9fbffe9b-9e27-4b82-85c8-9d2d53ac70f3",
+					"Name": "謎解きワールド「フェリドル -Feliddle-」",
+					"RecommendedCapacity": 6,
+					"Capacity": 25,
+					"Description": "256フェリがいる部屋で謎を解いて、クリアを目指しましょう！ 【クリア時間目安：25 ～ 60 分】 ちなみに裏面もありますが、こちらは検索必至の難問となっておりますのでご注意を。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8da85ecc-6ccd-49e2-8bfe-b0e83b7c8ad0",
+					"Name": "謎解きワールド『ミノタウロスの壁』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短編謎解きワールドです。矢印が描かれた壁を動かし反対側の足場に辿り着きましょう。動作はローカルです。想定プレイ時間は5分～15分 ＃VRC_M_Wall",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_695e41e0-d7bd-4be7-8597-48684aa9ee0a",
+					"Name": "謎解きワールド continue",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "謎解きワールドcontinue「コンティニュー」 ＃VRC_コンティニュー 【プレイ時間】60分～【難易度】そこそこ〜しっかり 【人数】プレイヤーは4人まで⁄ほか観戦可能 ⁄ 「ぜひ、最後まで本気で挑んでください。」",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_36adbb92-32b6-4301-acc1-30483954e1a9",
+					"Name": "謎解きワールド「10の謎」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "全10問の謎解きワールド、難易度˸やさしい、想定クリア時間5分～ ＃VRC_10riddles",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_5186852e-d8d5-41b7-af3a-aca33b8c7003",
 					"Name": "謎解きワールド Scarlet",
 					"RecommendedCapacity": 16,

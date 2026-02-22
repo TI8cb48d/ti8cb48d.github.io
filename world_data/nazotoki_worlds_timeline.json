@@ -6,6 +6,51 @@
 			"Category": "2026/02",
 			"Worlds": [
 				{
+					"ID": "wrld_84376c1c-f9b5-49f8-88e7-86f0e1fdce0d",
+					"Name": "【謎解きワールド】FIRST",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRCや謎ワが初めてな人でも楽しめる謎解きワールドです。ヒントあり。 難易度：易しい⁄目安時間：15～30分⁄ギミック：ローカル⁄＃VRC_FI_ST",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS":true
+					}
+				},
+				{
+					"ID": "wrld_c1ed8601-e5b6-4d7e-98d8-6df21b1ec205",
+					"Name": "【言語解読謎解き】Waiventsen Tot",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "未知の言語を解読するワールドです。作った後に思ったけど、これそんなに謎解き要素ないな? 人数˸1~（複数人協力推奨）、推定プレイ時間˸3時間~、難易度˸非常に難解（ヒント追加しました）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_24957e90-3fe4-44e9-b618-ca5767a98e4a",
+					"Name": "プチ謎解きワールド「超激ムズ鬼畜難易度破壊理不尽クソ謎解き」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "かかってこいや！な日本語話者向け謎解きワールド第5․5弾です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_baacc331-ac55-4a49-829e-eb4d34877ea7",
+					"Name": "謎解きワールドANCHOR",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "初制作謎解きワールド 全21＋7問を解き明かしクリアしよう！！！ 想定プレイ時間1時間~ ＃ANCHOR_VRC",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_e26ce800-cd60-4f35-8456-51a4974f7d89",
 					"Name": "Escape The Twin Rooms",
 					"RecommendedCapacity": 2,

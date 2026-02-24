@@ -6,6 +6,17 @@
 			"Category": "2026/02",
 			"Worlds": [
 				{
+					"ID": "wrld_6694451d-55c8-4571-b52c-4f808207bb59",
+					"Name": "謎ワールド EAR",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎のワールドです。英語の知識がいります。Hear‚ by your ear․ ＃VRC_EAR 難易度˸ Dark",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_84376c1c-f9b5-49f8-88e7-86f0e1fdce0d",
 					"Name": "【謎解きワールド】FIRST",
 					"RecommendedCapacity": 16,

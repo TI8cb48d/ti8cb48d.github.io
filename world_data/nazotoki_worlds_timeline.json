@@ -6,6 +6,17 @@
 			"Category": "2026/02",
 			"Worlds": [
 				{
+					"ID": "wrld_d8353d19-51e1-45d6-b742-f41b5985618d",
+					"Name": "謎解き脱出ノベルADV『メタゴンクエスト』⁄MetagonQuest",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "記憶喪失と密室。謎のアプリの真相を求めて冒険する、脱出ゲーム×ノベルADV⁄日本語話者向け謎解きワールド⁄動作はほぼグローバル⁄想定プレイ時間2時間～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_6694451d-55c8-4571-b52c-4f808207bb59",
 					"Name": "謎ワールド EAR",
 					"RecommendedCapacity": 16,

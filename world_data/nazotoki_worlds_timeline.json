@@ -3,6 +3,23 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2026/03",
+			"Worlds": [
+				{
+					"ID": "wrld_9223341a-ee46-4c3d-a4a8-68e97af2f0c1",
+					"Name": "謎解きワールド：Twelve Panels",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "元の謎を想像して謎を解こう！。全12問（おまけ謎1問あり）。想定プレー時間：60分。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "2026/02",
 			"Worlds": [
 				{

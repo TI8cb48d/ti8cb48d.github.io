@@ -6,6 +6,39 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_f3a946a9-63d1-42ea-880b-92ce25e64c31",
+					"Name": "【謎解きワールド】直感で答えると間違えてしまう数学クイズPart2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "直感で答えるとうっかり引っかかってしまう数学（算数）クイズを集めてみました。 計算すれば解けるはずなのに、なぜか脳が騙される。自分の直感がどれだけ正確か、ぜひ試してみてください！ ・全10問 1〜7問目：整数で答えてください。 8問目：小数で答えてください。 9～10問目：分数で答えてください ・所要時間は30分～1時間程度",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_11aa282e-2e40-4d39-8963-d18f80de7fed",
+					"Name": "VRC謎解きワールド『七色』",
+					"RecommendedCapacity": 2,
+					"Capacity": 16,
+					"Description": "七色の謎を解き明かせ。難易度˸中⁄推奨人数1~4人⁄想定クリア時間10分~60分⁄QVペン以外ローカル⁄ヒントあり⁄検索は必要に応じて",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_836f1274-4ec0-44b8-8365-488ae516eeed",
+					"Name": "迷宮ワールド『ミノタウロスの螺旋』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "少し意地悪な迷宮のミノタウロスシリーズ。今回は謎解きのようで謎解きではない何かかもしれません。階段を回転させて、迷宮の出口へ辿り着きましょう。動作はローカル。想定プレイ時間は5分～60分 ＃VRC_M_Spiral",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_9223341a-ee46-4c3d-a4a8-68e97af2f0c1",
 					"Name": "謎解きワールド：Twelve Panels",
 					"RecommendedCapacity": 16,

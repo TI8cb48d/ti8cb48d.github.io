@@ -6,6 +6,17 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_b25edca8-ba83-4a0a-8c61-67d9a6b618b1",
+					"Name": "謎解きワールド 間違い謎",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語話者向けの謎解きワールドです⁄推定クリア時間 ヒントをしっかり使って1時間～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_f3a946a9-63d1-42ea-880b-92ce25e64c31",
 					"Name": "【謎解きワールド】直感で答えると間違えてしまう数学クイズPart2",
 					"RecommendedCapacity": 16,

@@ -6,6 +6,29 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_3424605f-a425-4da6-82c2-afb44024ef2d",
+					"Name": "謎解きワールド「BlockR2」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "区画「R2」にたどり着け。想定難易度：4、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：15分～45分",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_17913eb9-0f53-4bd8-9ed1-ee37e92c37dc",
+					"Name": "Escape The Free Time",
+					"RecommendedCapacity": 3,
+					"Capacity": 10,
+					"Description": "UIの練習用に作ったワールドです。クリアの目安は1時間くらいです。完全クリアも目指してみてね！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_b25edca8-ba83-4a0a-8c61-67d9a6b618b1",
 					"Name": "謎解きワールド 間違い謎",
 					"RecommendedCapacity": 16,

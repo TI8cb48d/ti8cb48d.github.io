@@ -902,6 +902,29 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_7c495d6f-50ae-4fd1-a5c6-7e0d7c2d6cf2",
+					"Name": "ROOM˸6 ［Riddle］",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "Use cubes in specific order․ Time˸45-90 min; Progress˸Local‚ QvPen˸Global․ 特定の言語知識を必要としません。（No specific language knowledge is needed to complete this world․）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9223341a-ee46-4c3d-a4a8-68e97af2f0c1",
+					"Name": "謎解きワールド：Twelve Panels",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "元の謎を想像して謎を解こう！。全12問（おまけ謎1問あり）。想定プレー時間：60分。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -1057,6 +1080,17 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_6694451d-55c8-4571-b52c-4f808207bb59",
+					"Name": "謎ワールド EAR",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎のワールドです。英語の知識がいります。Hear‚ by your ear․ ＃VRC_EAR 難易度˸ Dark",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -1091,6 +1125,22 @@
 					"RecommendedCapacity": 64,
 					"Capacity": 64,
 					"Description": "想定攻略時間30分、全てローカル動作。途中Join可能。Quest⁄Desktop可。答えを含め撮影・共有ご自由にどうぞ。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "YouTピア",
+			"Worlds": [
+				{
+					"ID": "wrld_4534a889-9a19-491d-8c96-c68817a20234",
+					"Name": "謎解きワールド Salvage",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "・謎を解いた回数が少ないほどスゴイ謎解きワールドです。 ・知識があるとスムーズですが、無くてもワールド内の情報でほぼ完結します。 ・問題数１～６問 ・想定所用時間５～５０分 ・前置き以外に日本語の知識必要無し。（No Japanese knowledge required beyond the introduction․） ＃VRC_Salvage",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -1277,6 +1327,35 @@
 			]
 		},
 		{
+			"Category": "hiyiki_solver",
+			"Worlds": [
+				{
+					"ID": "wrld_84376c1c-f9b5-49f8-88e7-86f0e1fdce0d",
+					"Name": "【謎解きワールド】FIRST",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRCや謎ワが初めてな人でも楽しめる謎解きワールドです。ヒントあり。 難易度：易しい⁄目安時間：15～30分⁄ギミック：ローカル⁄＃VRC_FI_ST",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS":true
+					}
+				},
+				{
+					"ID": "wrld_47b758f7-96d6-4442-8bc6-589e0c563767",
+					"Name": "【謎解きワールド】｢す｣は｢すたあと｣の｢す｣",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "たくさんのナゾを解いて、最後のナゾのこたえを導き出してください。 難易度：すこし易しい⁄目安時間：60分⁄ギミック：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "hologr_a_phy",
 			"Worlds": [
 				{
@@ -1317,6 +1396,17 @@
 					"RecommendedCapacity": 4,
 					"Capacity": 16,
 					"Description": "28の謎から、たった１つを探し出せ。難易度˸難⁄推奨人数1~4人⁄想定クリア時間20分~⁄想定コンプリート時間90分~180分⁄一部検索謎あり",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_11aa282e-2e40-4d39-8963-d18f80de7fed",
+					"Name": "VRC謎解きワールド『七色』",
+					"RecommendedCapacity": 2,
+					"Capacity": 16,
+					"Description": "七色の謎を解き明かせ。難易度˸中⁄推奨人数1~4人⁄想定クリア時間10分~60分⁄QVペン以外ローカル⁄ヒントあり⁄検索は必要に応じて",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -1769,6 +1859,22 @@
 			]
 		},
 		{
+			"Category": "sakunagi8753",
+			"Worlds": [
+				{
+					"ID": "wrld_27e21cc8-8bca-4e66-b69e-f14f193da181",
+					"Name": "謎解きワールド【おきてやぶり】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "常識を覆せ！ルールを破れ！提示されたルールを破って進める謎解きワールドです。【想定クリア時間：2～3h】【ギミック：ローカル（謎解きに関係ない部分はグローバルあり）】【＃VRC_Ru_Le】",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "shiracal",
 			"Worlds": [
 				{
@@ -2050,6 +2156,22 @@
 			]
 		},
 		{
+			"Category": "かげ くらど",
+			"Worlds": [
+				{
+					"ID": "wrld_5186852e-d8d5-41b7-af3a-aca33b8c7003",
+					"Name": "謎解きワールド Scarlet",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あなたは｜好きですか？［難易度］おおよそほとんどの人向け ［問題数］6＋ ［所要時間］5min~",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "かりとうろく",
 			"Worlds": [
 				{
@@ -2058,6 +2180,22 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 8,
 					"Description": "［JP⁄EN］ Solve the 8 questions․ All gimmicks are local․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "くろす1031",
+			"Worlds": [
+				{
+					"ID": "wrld_36adbb92-32b6-4301-acc1-30483954e1a9",
+					"Name": "謎解きワールド「10の謎」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "全10問の謎解きワールド、難易度˸やさしい、想定クリア時間5分～ ＃VRC_10riddles",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -3168,6 +3306,50 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_836f1274-4ec0-44b8-8365-488ae516eeed",
+					"Name": "迷宮ワールド『ミノタウロスの螺旋』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "少し意地悪な迷宮のミノタウロスシリーズ。今回は謎解きのようで謎解きではない何かかもしれません。階段を回転させて、迷宮の出口へ辿り着きましょう。動作はローカル。想定プレイ時間は5分～60分 ＃VRC_M_Spiral",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8da85ecc-6ccd-49e2-8bfe-b0e83b7c8ad0",
+					"Name": "謎解きワールド『ミノタウロスの壁』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短編謎解きワールドです。矢印が描かれた壁を動かし反対側の足場に辿り着きましょう。動作はローカルです。想定プレイ時間は5分～15分 ＃VRC_M_Wall",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_bc1be647-729f-4187-b284-463f7d55f274",
+					"Name": "謎解きワールド『Solution』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "～解決策を見つけてください～魔法の杖で空に浮かぶ球体を動かし、答えにたどり着きましょう。全6問。動作はグローバルです。途中参加可能。＃VRC_Solution",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_180f141e-e488-448e-9587-a555c02f825c",
+					"Name": "謎解きワールド『Eccentric』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本人向けの謎解きワールドです。部屋に配置された液晶パネル。試行を重ね、その裏にある法則を読み解き「エキセントリック」を表示させましょう。 動作はグローバル。途中入場可能です。＃VRC_Eccentric",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -3293,6 +3475,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b1b42c88-961a-43a5-92ac-79e388d84e23",
+					"Name": "超理不尽謎解きワールド「Nightmare Riddles」",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "＃超理不尽謎解き⁄クリアさせる気のない超高難度謎解きワールド。解けない前提で挑め。",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]

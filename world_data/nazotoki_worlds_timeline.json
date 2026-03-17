@@ -6,6 +6,51 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_25297401-e592-4973-bbdb-3fa3ee6a11a9",
+					"Name": "【謎解きワールド】謎解き試験「Blink」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ルールを３回くらい音読してから開始することを推奨します。ローカルです。一応多人数で受験できますが、ソロ受験推奨です。想定時間˸ 30分以内 難易度˸ Keneq",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_ca0b1345-90bb-4377-be70-d3440d4e8a6f",
+					"Name": "謎解きワールド Oyster",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "海の幸を求めて［難易度］かんたん（通常クリア） ［問題数］3＋＋ ［所要時間］5分~α ＃VRC_Oyster",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_34775c60-75c7-4979-9cee-434f646b6773",
+					"Name": "［謎解き］OPERATION HeRVEST",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "さまざまな謎解きをしながらストーリーが進行していく謎解きアドベンチャー。想定プレイ時間30～60分。ギミックは全てローカル。セーブ機能無し。SNS投稿・配信OK。（ネタバレを含む場合はその旨表記するなど配慮をお願いします） ⁄ A puzzle adventure where the story unfolds as you solve a variety of mysteries․ Estimated playtime˸ 30 to 60 minutes․ All gameplay mechanics are handled locally․ There is no save feature․ Posting on social media and streaming are allowed․ If your content includes spoilers‚ please be considerate and make that clear․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_54a2e5e2-f90e-4230-a8e3-4c64f64ccbb3",
+					"Name": "不変謎",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "謎解きです⁄全3問です⁄注意˸環境にはよっては解けなくなります。想定時間 5分 - 諦めるまで ⁄＃VRC_unchange",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_3424605f-a425-4da6-82c2-afb44024ef2d",
 					"Name": "謎解きワールド「BlockR2」",
 					"RecommendedCapacity": 16,
@@ -56,6 +101,17 @@
 					"RecommendedCapacity": 2,
 					"Capacity": 16,
 					"Description": "七色の謎を解き明かせ。難易度˸中⁄推奨人数1~4人⁄想定クリア時間10分~60分⁄QVペン以外ローカル⁄ヒントあり⁄検索は必要に応じて",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c503fa88-10a8-48d5-a1b8-bc5319ad1aec",
+					"Name": "Sort - S社実験記録2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ようこそ、被験者。このワールドでは基本的な、ボタンとドアを使った知能検査を行います。 動作˸ ローカル 想定時間˸ 2 min ~ 5 min ＃VRC_S社2 難易度˸Vlam",
 					"Platform": {
 						"PC": true,
 						"Android": false

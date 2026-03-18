@@ -6,6 +6,17 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_50ebf631-b328-41ff-9162-8b29f49f6cd1",
+					"Name": "謎解きワールド『優美なる幾千の金字塔』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "妖しい人物により、金色の塔に封印されてしまったあなた。全てのフロアを踏破し、脱出することはできるのか？ ⁄ 難易度：ふつう ⁄ 想定クリア時間：60～90分 ⁄ 動作：ローカル ⁄ ＃VRC_Thousands_Pyramid",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_a6f3f3d3-9ed5-4370-99ee-420557b695ea",
 					"Name": "謎解きワールド 酔月迷花",
 					"RecommendedCapacity": 5,

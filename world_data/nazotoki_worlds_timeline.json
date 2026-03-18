@@ -6,6 +6,17 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_a6f3f3d3-9ed5-4370-99ee-420557b695ea",
+					"Name": "謎解きワールド 酔月迷花",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "【注意：クリアは可能ですが、細かい部分で未完成のところがあります】日本語話者向け謎解きワールド。漢字にまつわる謎を解いて、全てのパネルを正しい台座に当てはめよ。中学レベルの知識を要す（ワールド内にも必要情報あり）。推定所要時間：1時間 ＃VRC_Suigetsu",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_25297401-e592-4973-bbdb-3fa3ee6a11a9",
 					"Name": "【謎解きワールド】謎解き試験「Blink」",
 					"RecommendedCapacity": 16,

@@ -6,6 +6,28 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_103474b3-01e4-4d74-a445-caf2a48726f5",
+					"Name": "謎解き脱出ゲーム 『一点凸破』",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "怪盗ミセビラカシーの盗んだ黄金を取り返すため、脱出ゲームに挑むことになったあなたたち。果たして黄金を取り返すことができるのか！難易度：そこそこ 制限時間：30分 ⁄ 40分 ⁄ 50分 ⁄ 60分 ⁄ なし ハッシュタグ：＃VRC_凹Gone",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_edfa7e33-001a-4de5-9f8f-5a3e44eca76d",
+					"Name": "ESCAPE 行動（脱出ゲーム）",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "謎解き脱出ゲーム、全4問。 解答は行動によって示してください！ リスポーン可／ソロプレイ可／時間5分～ VR推奨（一部デスクトップ優位） ギミックはローカル ＃VRC_行動",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_50ebf631-b328-41ff-9162-8b29f49f6cd1",
 					"Name": "謎解きワールド『優美なる幾千の金字塔』",
 					"RecommendedCapacity": 16,

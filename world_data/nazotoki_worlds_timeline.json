@@ -6,6 +6,17 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_e07e2e16-60ba-4201-b600-4ba2312466bf",
+					"Name": "謎解きワールド『10th FLOOR』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短編謎解きワールドです。通路を進み、10階を目指しましょう。動作はローカルです。想定プレイ時間は5分～30分 ＃VRC_10thFLOOR",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_103474b3-01e4-4d74-a445-caf2a48726f5",
 					"Name": "謎解き脱出ゲーム 『一点凸破』",
 					"RecommendedCapacity": 4,

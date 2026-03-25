@@ -6,6 +6,17 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_d859e7da-ed07-4146-aba2-cf0ada07042a",
+					"Name": "謎解きワールド「日本の美」",
+					"RecommendedCapacity": 3,
+					"Capacity": 6,
+					"Description": "小謎の力を借りて大謎を復元し、日本の美を取り戻そう。難易度：簡単 想定時間：30秒～ ＃VRC_JB",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_e07e2e16-60ba-4201-b600-4ba2312466bf",
 					"Name": "謎解きワールド『10th FLOOR』",
 					"RecommendedCapacity": 16,

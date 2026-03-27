@@ -6,6 +6,17 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_fdf18729-0888-4af6-846f-3b3abbfb1cfc",
+					"Name": "謎解き_四方向謎",
+					"RecommendedCapacity": 3,
+					"Capacity": 6,
+					"Description": "エンディングは全4つ⁄基本的にはヒントあり（一部例外あり）⁄想定プレイ時間˸トゥルーエンドまで80～120分＋おまけ30～60分 ⁄難易度˸ふつう～やや難しい（ヒントを見れば簡単）⁄BGM˸「GHOST_02․LIFE of VIRTUAL」ハサキトオル様（＠27hasaki）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_d859e7da-ed07-4146-aba2-cf0ada07042a",
 					"Name": "謎解きワールド「日本の美」",
 					"RecommendedCapacity": 3,

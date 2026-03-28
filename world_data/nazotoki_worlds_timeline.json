@@ -6,6 +6,17 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_1aa605f0-ef90-441d-903c-61a2ce070e0c",
+					"Name": "11‚17‚29‚23（riddle）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "前作を目の前で5-10分で解かれたので15分以上かかるであろう物を作りました。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_fdf18729-0888-4af6-846f-3b3abbfb1cfc",
 					"Name": "謎解き_四方向謎",
 					"RecommendedCapacity": 3,
@@ -100,6 +111,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "海の幸を求めて［難易度］かんたん（通常クリア） ［問題数］3＋＋ ［所要時間］5分~α ＃VRC_Oyster",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_84a4028a-5ecc-40d0-b81b-31de9458639a",
+					"Name": "riddle",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "一問だけの謎解きです。クリア時間10分～",
 					"Platform": {
 						"PC": true,
 						"Android": true

@@ -6,6 +6,18 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_fefbedeb-4d86-4783-bec2-395e05a0e715",
+					"Name": "山白まどかの一日",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "謎多き異変観測技研の調査を依頼されたあなたは、山白まどかの一日取材に行くことになったが․․․․․․。 推奨人数1～4人⁄想定プレイ時間1～2時間 謎解き脱出ワールドです。ホラー要素はありません 【クリア時は明確にクリアと分かるようになっています】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_1aa605f0-ef90-441d-903c-61a2ce070e0c",
 					"Name": "11‚17‚29‚23（riddle）",
 					"RecommendedCapacity": 16,
@@ -320,6 +332,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d17edd92-9eb9-44d8-ac24-6d8fec4e338e",
+					"Name": "謎解きワールド 『Decipher Dice』",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "Q․部屋を解読し、矢印の先を読め 【難易度˸難しい／想定クリア時間˸90分～180分】 ＃VRC_DDice",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				},
 				{

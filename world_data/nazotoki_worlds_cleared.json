@@ -173,6 +173,22 @@
 			]
 		},
 		{
+			"Category": "4mino_アミノ",
+			"Worlds": [
+				{
+					"ID": "wrld_9fbffe9b-9e27-4b82-85c8-9d2d53ac70f3",
+					"Name": "謎解きワールド「フェリドル -Feliddle-」",
+					"RecommendedCapacity": 6,
+					"Capacity": 25,
+					"Description": "256フェリがいる部屋で謎を解いて、クリアを目指しましょう！ 【クリア時間目安：25 ～ 60 分】 ちなみに裏面もありますが、こちらは検索必至の難問となっておりますのでご注意を。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "Aior7c",
 			"Worlds": [
 				{
@@ -535,6 +551,22 @@
 					"RecommendedCapacity": 6,
 					"Capacity": 8,
 					"Description": "日本語話者向けの脱出ワールドです。ワールドのロードを繰り返し、脱出を目指しましょう。 ＃VRC_Reloader／制限時間：75分／人数：1~6人推奨／機器：Desktop、VR両方プレイ可能／ギミック：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "Masateo",
+			"Worlds": [
+				{
+					"ID": "wrld_d17edd92-9eb9-44d8-ac24-6d8fec4e338e",
+					"Name": "謎解きワールド 『Decipher Dice』",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "Q․部屋を解読し、矢印の先を読め 【難易度˸難しい／想定クリア時間˸90分～180分】 ＃VRC_DDice",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -1101,6 +1133,18 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_25297401-e592-4973-bbdb-3fa3ee6a11a9",
+					"Name": "【謎解きワールド】謎解き試験「Blink」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ルールを３回くらい音読してから開始することを推奨します。ローカルです。一応多人数で受験できますが、ソロ受験推奨です。想定時間˸ 30分以内 難易度˸ Keneq",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
 					}
 				}
 			]
@@ -2620,6 +2664,22 @@
 			]
 		},
 		{
+			"Category": "はちがよ",
+			"Worlds": [
+				{
+					"ID": "wrld_f2d6c0ca-2018-449d-a4f1-77ebd8da136e",
+					"Name": "謎解きワールド「Click」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ボタンを押すだけの簡単な謎解き（風の何か）です。VRChat SDKの仕様を悪用するため、VRChatの更新によって予期せず動作しなくなる可能性があります。VRのみ（スタンドアロンも可）。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "はやおうどん（´・ω・`）",
 			"Worlds": [
 				{
@@ -3738,6 +3798,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_24957e90-3fe4-44e9-b618-ca5767a98e4a",
+					"Name": "プチ謎解きワールド「超激ムズ鬼畜難易度破壊理不尽クソ謎解き」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "かかってこいや！な日本語話者向け謎解きワールド第5․5弾です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]

@@ -6,6 +6,18 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_9d1d83d3-1f28-4ae5-94d2-4aacf9ad0107",
+					"Name": "4・1の謎",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "4・1の謎は通常の問題4問、最終問題1問で構成されるぷち謎解きワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_fefbedeb-4d86-4783-bec2-395e05a0e715",
 					"Name": "山白まどかの一日",
 					"RecommendedCapacity": 4,

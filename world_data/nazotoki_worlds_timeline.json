@@ -6,6 +6,18 @@
 			"Category": "2026/03",
 			"Worlds": [
 				{
+					"ID": "wrld_65355ba9-b251-4783-9d3f-73a5d8705877",
+					"Name": "【探索系謎解き】錬金術師の助手の散歩 Alchemy Assistant's Stroll",
+					"RecommendedCapacity": 18,
+					"Capacity": 18,
+					"Description": "On my day off‚ when I went to the island for a visit‚ a crow spirit brought me a letter and a coin from my master․／Every once in a while‚ take your time and try solving a riddle․ ․⁄ 休みの日、島に遊びに行ったら、師匠からの手紙とコインをカラスの精霊が運んできた。／たまにはのんびり島を散策してみませんか？／探索系謎解きワールドです。＃錬金術師とカラスの精霊_VRC",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_9d1d83d3-1f28-4ae5-94d2-4aacf9ad0107",
 					"Name": "4・1の謎",
 					"RecommendedCapacity": 16,

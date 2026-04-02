@@ -6,6 +6,17 @@
 			"Category": "2026/04",
 			"Worlds": [
 				{
+					"ID": "wrld_a6121302-675d-42ce-8b45-5813596f7983",
+					"Name": "脱出 Enter the code",
+					"RecommendedCapacity": 1,
+					"Capacity": 32,
+					"Description": "簡単な脱出ワールドです。 部屋に隠された4桁の数字を探し出し、 端末に入力して脱出してください。 This is a simple escape game․ Find the hidden 4-digit code and enter it into the terminal to escape․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_3a17dee3-8db9-4754-a389-d4a25d327a7d",
 					"Name": "全部嘘?の謎解き",
 					"RecommendedCapacity": 16,

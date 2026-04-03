@@ -6,6 +6,17 @@
 			"Category": "2026/04",
 			"Worlds": [
 				{
+					"ID": "wrld_22944c37-4f81-4610-9a76-8eaafb313c9b",
+					"Name": "ぼくの謎解きワールド（仮）",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "ぼくが初めて作った謎解きワールドのテストプレイをしてください！［初心者向け謎解きワールド⁄2人以上⁄グローバル⁄ヒント・解答あり⁄配信可能］ ＃VRC_bokunazo",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_a6121302-675d-42ce-8b45-5813596f7983",
 					"Name": "脱出 Enter the code",
 					"RecommendedCapacity": 1,

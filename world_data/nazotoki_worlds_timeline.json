@@ -102,7 +102,7 @@
 					"Capacity": 32,
 					"Description": "宝玉と羅針盤が示すのは絶望か。想定難易度：ARCANE、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：30分以上",
 					"Platform": {
-						"PC": false,
+						"PC": true,
 						"Android": true,
 						"iOS": true
 					}

@@ -6,6 +6,28 @@
 			"Category": "2026/04",
 			"Worlds": [
 				{
+					"ID": "wrld_ef0212f8-f84b-4b19-9702-53ee17754c6e",
+					"Name": "言語解読ワールド「dɑremiŋ mæi」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "異世界「レルム」で使用されている人工言語「人形語」を解読するワールドです。謎解きというよりかは結構ガチ目の言語解読です。「æ」は「AE」と打って変換すると多分出ます。ペン以外はローカルです。難易度˸ Ekhi スペシャルサンクス：ねおぽん ＃VRC_mæi",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_48291bea-4fd5-4115-ba2f-9644ba2d06c5",
+					"Name": "WHITE SPACE｜",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "That doesn't belong here․ Neither do you․ __あれはここにあるべきじゃない。君も同様にね。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_22944c37-4f81-4610-9a76-8eaafb313c9b",
 					"Name": "ぼくの謎解きワールド（仮）",
 					"RecommendedCapacity": 4,

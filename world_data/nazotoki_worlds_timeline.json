@@ -6,6 +6,18 @@
 			"Category": "2026/04",
 			"Worlds": [
 				{
+					"ID": "wrld_e91f253f-15c9-46af-b182-1f036febbf6a",
+					"Name": "謎解きワールド「FlashLight2」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "再び、謎を照らせ。想定難易度：2、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：5分～20分",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_ef0212f8-f84b-4b19-9702-53ee17754c6e",
 					"Name": "言語解読ワールド「dɑremiŋ mæi」",
 					"RecommendedCapacity": 16,

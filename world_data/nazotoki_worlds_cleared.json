@@ -619,6 +619,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_d859e7da-ed07-4146-aba2-cf0ada07042a",
+					"Name": "謎解きワールド「日本の美」",
+					"RecommendedCapacity": 3,
+					"Capacity": 6,
+					"Description": "小謎の力を借りて大謎を復元し、日本の美を取り戻そう。難易度：簡単 想定時間：30秒～ ＃VRC_JB",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1494,6 +1505,33 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "初めて謎解きワールド作りました！ よければ、やってみてくださいー！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "kaRu00",
+			"Worlds": [
+				{
+					"ID": "wrld_84a4028a-5ecc-40d0-b81b-31de9458639a",
+					"Name": "riddle",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "一問だけの謎解きです。クリア時間10分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1aa605f0-ef90-441d-903c-61a2ce070e0c",
+					"Name": "11‚17‚29‚23（riddle）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "前作を目の前で5-10分で解かれたので15分以上かかるであろう物を作りました。",
 					"Platform": {
 						"PC": true,
 						"Android": false

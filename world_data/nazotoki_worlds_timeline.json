@@ -3,6 +3,46 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2026/05",
+			"Worlds": [
+				{
+					"ID": "wrld_ebc53c81-6c31-4870-954e-ed6c222a96c6",
+					"Name": "謎解きワールド「LOST BOARD」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "失われた石板を想像せよ。想定難易度：７、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：15分以上",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_a9c33f58-735d-4429-950d-b4dd47604afd",
+					"Name": "謎解きワールド『登竜門』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短編謎解きワールドです。３つ並んだパネルの正しいボタンを押してください。動作はローカルです。想定プレイ時間は15分～30分 ＃VRC_登竜問",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_935d6b4c-6036-4eda-a6a5-b161f97faa1d",
+					"Name": "謎解きワールド Knowledge",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "特別な知識は必要ありません ［難易度］かんたん ～ふつう［問題数］9 ［所要時間］1分～10分 ＃VRC_Knowledge",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+
+			]
+		},
+		{
 			"Category": "2026/04",
 			"Worlds": [
 				{

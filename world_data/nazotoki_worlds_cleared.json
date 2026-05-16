@@ -1934,6 +1934,18 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_a0a6d6df-c077-4dc1-ac6b-ff3d9b60e450",
+					"Name": "謎解きワールド「UnplacedOrb」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "宝玉と羅針盤が示すのは絶望か。想定難易度：ARCANE、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：30分以上",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -2258,6 +2270,52 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_ca0b1345-90bb-4377-be70-d3440d4e8a6f",
+					"Name": "謎解きワールド Oyster",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "海の幸を求めて［難易度］かんたん（通常クリア） ［問題数］3＋＋ ［所要時間］5分~α ＃VRC_Oyster",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_535c3387-1657-457a-befc-5edff8718ed8",
+					"Name": "738129",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "738129",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_935d6b4c-6036-4eda-a6a5-b161f97faa1d",
+					"Name": "謎解きワールド Knowledge",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "特別な知識は必要ありません ［難易度］かんたん ～ふつう［問題数］9 ［所要時間］1分～10分 ＃VRC_Knowledge",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3ab3f910-5e11-476b-8544-7afa43d1d1e9",
+					"Name": "SOL",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "26-≻ 29-≻681 33-≻1834 36-≻3639 SOL",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					},
+					"ReleaseStatus": "private"
 				}
 			]
 		},
@@ -3474,6 +3532,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "短編謎解きワールドです。ボタンを操作し『遺伝子操作』を完了させましょう。動作はローカルです。想定プレイ時間は5分～30分 ＃VRC_Gene",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a9c33f58-735d-4429-950d-b4dd47604afd",
+					"Name": "謎解きワールド『登竜門』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短編謎解きワールドです。３つ並んだパネルの正しいボタンを押してください。動作はローカルです。想定プレイ時間は15分～30分 ＃VRC_登竜問",
 					"Platform": {
 						"PC": true,
 						"Android": true

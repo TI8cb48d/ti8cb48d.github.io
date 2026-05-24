@@ -1418,6 +1418,18 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_c5c9048c-20f1-4216-94a2-9cf0e6e77c14",
+					"Name": "【謎解きワールド】展覧解",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "展覧会に隠されたたった一つの問いに解答してください。5⁄3にヒントを追加しました。（0時よりヒントが増えています）⁄⁄難易度˸普通⁄想定時間˸10分~⁄ギミック˸ローカル⁄＃VRC_tenrankai",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -1979,6 +1991,18 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "宝玉と羅針盤が示すのは絶望か。想定難易度：ARCANE、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：30分以上",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_ebc53c81-6c31-4870-954e-ed6c222a96c6",
+					"Name": "謎解きワールド「LOST BOARD」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "失われた石板を想像せよ。想定難易度：７、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：15分以上",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -2752,6 +2776,17 @@
 					"RecommendedCapacity": 10,
 					"Capacity": 20,
 					"Description": "LとRから始まる4つのキーワードをもとに進める謎解き実験です。ヒントから答えまであり。想定時間：30分～ ⁄想定人数：1～10人 ＃VRC_LtoR",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_26ed29d8-ebf6-4979-90af-cea63d0f2fd2",
+					"Name": "難易度ロリコライダー謎解き2",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "4段階の難易度を選べる謎解きワールドです。全5問。EXはありません。いろんな人と来てもらえると嬉しいです。想定時間：30分～ ⁄想定人数：1～10人 ＃VRC_DifCoL2",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -3581,6 +3616,50 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "短編謎解きワールドです。３つ並んだパネルの正しいボタンを押してください。動作はローカルです。想定プレイ時間は15分～30分 ＃VRC_登竜問",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d03f6c25-6e41-45a2-a994-398fbe1bf143",
+					"Name": "謎解きワールド『青天の霹靂』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短編謎解きワールドです。雷を落として電流を操作し「せいてんのへきれき」を表示させてください。冷静かつ迅速な操作で謎を解き明かしましょう。動作はローカルです。クリア画面は説明の裏側のパネルに表示されます ＃VRC_Hekireki",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5864e00b-34f4-4bda-86e8-2d8ad3c359d3",
+					"Name": "謎解きワールド『因果』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短編謎解きワールドです。パネルを操作して「因果」を作ってください。動作はローカルです。＃VRC_因果",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e07e2e16-60ba-4201-b600-4ba2312466bf",
+					"Name": "謎解きワールド『10th FLOOR』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短編謎解きワールドです。通路を進み、10階を目指しましょう。動作はローカルです。想定プレイ時間は5分～30分 ＃VRC_10thFLOOR",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8434c2c3-5e97-460d-91d1-1c449bc03e8e",
+					"Name": "謎解きワールド『ミノタウロスの鏡』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "短編謎解きワールドです。鏡を動かして光線を反射させ、的に当てて迷宮を攻略しましょう。動作はローカルです。想定プレイ時間は5分～ ＃VRC_M_Mirror",
 					"Platform": {
 						"PC": true,
 						"Android": true

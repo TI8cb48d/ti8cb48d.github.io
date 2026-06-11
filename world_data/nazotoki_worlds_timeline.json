@@ -3,6 +3,23 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2026/06",
+			"Worlds": [
+				{
+					"ID": "wrld_e2246fd7-e146-4532-893e-e900c8005642",
+					"Name": "謎解きワールド「SparkleFloor」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「弾ける床の謎を解け。」想定難易度：５、ヒント有無：なし、ワールド動作：グローバル、想定クリア時間：20分～60分",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "2026/05",
 			"Worlds": [
 				{

@@ -490,6 +490,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_be175f6b-bbca-471e-99aa-4543adb6e190",
+					"Name": "謎解きワールド『10²謎II』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あの人気ワールドの第二弾！ 謎解きが100問あります。オートセーブ機能つき！＃VRC_百II",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -2032,6 +2043,18 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_e91f253f-15c9-46af-b182-1f036febbf6a",
+					"Name": "謎解きワールド「FlashLight2」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "再び、謎を照らせ。想定難易度：2、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：5分～20分",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -2819,6 +2842,22 @@
 			]
 		},
 		{
+			"Category": "ねこさんじょう",
+			"Worlds": [
+				{
+					"ID": "wrld_4b654a5b-ca6f-4ac1-8971-7a8969088fb2",
+					"Name": "【謎解きワールド】ねこさんじょうのおためし謎解きワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "おためし謎解きワールドです。謎解き初心者向けです。 クリアまでは大体15～30分くらい。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "はちがよ",
 			"Worlds": [
 				{
@@ -2953,6 +2992,22 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "［謎解き］ A Fake Room CLEAR想定30秒～ 動作はグローバル 2024⁄02⁄01開始 身長150 cm以上推奨",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "ゆりなしおん",
+			"Worlds": [
+				{
+					"ID": "wrld_445e40ba-3fa1-478e-aa92-c9bfd1067910",
+					"Name": "大型謎解きワールド『なぞときパーク』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "＊Have fun in NPǃ＊ 複数の一枚謎が遊べる謎解きワールドです。 一部、知識の必要な謎解きは検索推奨のマークがついています。 想定プレイ時間1時間〜 動作はすべてローカルです。公開日˸2026⁄06⁄20 ハッシュタグ˸ ＃VRC_Riddle_NP",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -3359,6 +3414,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_b1e701c3-e1bd-48b0-8bc8-00b5693ea914",
+					"Name": "謎解きワールド「Untitled Puzzle 4」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "謎解きワールド「Untitled Puzzle 4」。「JP⁄EN」＃VRC_UntitledPuzzle4",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e5d769e4-9570-46ad-ac4f-8dfd482653be",
+					"Name": "謎解きワールド「Untitled Puzzle 5」",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "謎解きワールド「Untitled Puzzle 5」。英語で解答入力してください。＃VRC_UntitledPuzzle5",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -3684,6 +3761,28 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "短編謎解きワールドです。鏡を動かして光線を反射させ、的に当てて迷宮を攻略しましょう。動作はローカルです。想定プレイ時間は5分～ ＃VRC_M_Mirror",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6f1a2ed1-da9b-44f7-baed-bd2d11642e16",
+					"Name": "３の倍数と３のつく数で奈落に落ちる階段",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "299の段までたどり着けますか？",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d3cce5f2-6814-4ec1-a69e-1664d38bfebd",
+					"Name": "この世界の名前は？",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "この世界の名前はなんでしょうか？＃VRC_この世界の名前は",
 					"Platform": {
 						"PC": true,
 						"Android": true

@@ -2425,6 +2425,29 @@
 						"Android": true
 					},
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_04da7968-ed89-446b-aaa8-55555747f94e",
+					"Name": "謎解きワールド なぞときなんもわからん",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "難しい謎ばかりで疲れたあなたに ［難易度］かんたん～ふつう［問題数］4＋［所要時間］5分～ ＃VRC_wakaran",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_cc0779c9-f3d6-46a6-b3c5-c16abd0bc1f5",
+					"Name": "（DOG）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "251126 251126-≻ （DOG） 26102217 -≻ ???????",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					},
+					"ReleaseStatus": "private"
 				}
 			]
 		},

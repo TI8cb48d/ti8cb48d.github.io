@@ -296,6 +296,22 @@
 			]
 		},
 		{
+			"Category": "Gutty_007",
+			"Worlds": [
+				{
+					"ID": "wrld_82f4e234-efb3-4161-8857-67af8a5b03d7",
+					"Name": "ソラのなぞとき VRC謎解きワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "3Dで触って楽しめる謎解きワールドです。想定プレイ時間˸30分 ＃VRC_ソラのなぞとき",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "Izanaくん",
 			"Worlds": [
 				{
@@ -637,6 +653,28 @@
 					"RecommendedCapacity": 3,
 					"Capacity": 6,
 					"Description": "小謎の力を借りて大謎を復元し、日本の美を取り戻そう。難易度：簡単 想定時間：30秒～ ＃VRC_JB",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9134b19a-1734-4e5e-b93d-2f7b4a20db72",
+					"Name": "【謎解き】 dotenjou -ドテンジョウ-",
+					"RecommendedCapacity": 2,
+					"Capacity": 6,
+					"Description": "答えは全て「点」か「上」を表す単語になります。 難易度：かんたん 所要時間：5分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9cd617c0-7926-420a-82cf-b2cc626c54be",
+					"Name": "謎解きワールドカップ",
+					"RecommendedCapacity": 4,
+					"Capacity": 10,
+					"Description": "謎解きワールドカップ、それは4年に1度行われるとか行われないとか․․․․․․。世界中の人が熱狂の渦に巻き込まれるとか込まれないとか․․․․․․․。今、開幕․․․․․․！！！！難易度：簡単 想定クリア時間：3分～",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -1496,6 +1534,17 @@
 					"RecommendedCapacity": 2,
 					"Capacity": 16,
 					"Description": "七色の謎を解き明かせ。難易度˸中⁄推奨人数1~4人⁄想定クリア時間10分~60分⁄QVペン以外ローカル⁄ヒントあり⁄検索は必要に応じて",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a9699a19-0d4c-41d7-81ad-24503d0d5374",
+					"Name": "VRC謎解きワールド『3x3』",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "3x3に組まれた謎。難易度˸簡単⁄推奨人数1人⁄想定クリア時間10分～30分⁄QVペン以外ローカル⁄検索なし",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -2975,6 +3024,18 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "一枚謎が全6問あります。Extra等はありません。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_cb0c28e3-5a7d-4023-a294-75aeda162fcc",
+					"Name": "無駄を削ぎ落としすぎた謎ワ",
+					"RecommendedCapacity": 1,
+					"Capacity": 32,
+					"Description": "謎を解いて完全クリアを目指そう！！！ 難易度：とんでもなくやさしい ＃VRC_MinRiddle",
 					"Platform": {
 						"PC": true,
 						"Android": true,

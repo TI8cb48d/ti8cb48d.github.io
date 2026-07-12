@@ -6,6 +6,28 @@
 			"Category": "2026/07",
 			"Worlds": [
 				{
+					"ID": "wrld_09f30c2a-472f-4559-84f7-14b78f35b52e",
+					"Name": "［Voyagers］ Argdella Rediscovered Vket 2026 S",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․11 through Jul․26ǃ Argdella Rediscovered - Voyagers is a creator exhibition venue of Vket2026 Summer․ 古代文明アーグデーラ-再巡- - Voyagers はVket2026 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_bc014be5-ea0d-49df-b955-ddbcaaad1aa1",
+					"Name": "［Memento］ Argdella Rediscovered Vket 2026 S",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․11 through Jul․26ǃ Argdella Rediscovered - Memento is a creator exhibition venue of Vket2026 Summer․ 古代文明アーグデーラ-再巡- - Memento はVket2026 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_04da7968-ed89-446b-aaa8-55555747f94e",
 					"Name": "謎解きワールド なぞときなんもわからん",
 					"RecommendedCapacity": 16,
@@ -14,6 +36,18 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e433b70a-1346-4179-974b-2d85db95528f",
+					"Name": "謎解きワールド「謎郵便」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールド「謎郵便」 郵便がテーマの謎解きワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
 					}
 				},
 				{
@@ -29,11 +63,100 @@
 					}
 				},
 				{
+					"ID": "wrld_24e935d8-24f6-4407-a8a6-50df5e9aab03",
+					"Name": "謎解きワールド【未練】",
+					"RecommendedCapacity": 6,
+					"Capacity": 10,
+					"Description": "一枚謎を解いていく謎解きワールドです。 四方の扉のうち、答えだと思う方向に入ってください。 正誤は最後に発表されます。 リスポーンすると回答がリセットされます。 過去の問題を参照する場合はカメラを下方向に飛ばしてください。 どうか、悔いのないように。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_412da0d3-7731-46c9-8179-28ef7c2d86aa",
+					"Name": "謎のあるチルワ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎を解くとプレイヤー等がある場所へいけます。謎は2つのみ。1問目は検索推奨。30分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_f21e40c7-131a-4744-ae60-5ac623976b29",
 					"Name": "［Riddle］Just A Button",
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "Make ＂CLEAR＂․ ［Difficulty］Normal ［Estimate Time］30min-1h ＃VRC_JustAButton",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9cd617c0-7926-420a-82cf-b2cc626c54be",
+					"Name": "謎解きワールドカップ",
+					"RecommendedCapacity": 4,
+					"Capacity": 10,
+					"Description": "謎解きワールドカップ、それは4年に1度行われるとか行われないとか․․․․․․。世界中の人が熱狂の渦に巻き込まれるとか込まれないとか․․․․․․․。今、開幕․․․․․․！！！！難易度：簡単 想定クリア時間：3分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_65aadda5-114e-4b10-a9b7-6af3056cf397",
+					"Name": "MALEVOLENCE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あの人やあの人の影響を受けて作られたワールド ＃VRC_MALEVOLENCE",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_27c61257-77bf-4a2c-af66-9bbca67d8cff",
+					"Name": "【推測型謎解きワールド】スミにまよえば",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "わずかな手がかりから解き明かせ。⁄難易度˸すこし難しい⁄想定時間˸20分～⁄ギミック˸ローカル⁄＃VRC_すみまよ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_05b642b9-78e8-4f4a-b65e-083bda51633e",
+					"Name": "あういあお たぬきなぞ 母音謎",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "初ワールド作成",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7fca2ddb-b34e-445f-a079-e35bcef20b61",
+					"Name": "なぞときワールド『ひとまとまり』",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "日本語をテーマにした日本人向け謎解きワールドです ⁄ 全問ヒントあり ⁄ プレイ時間15m~30m ⁄ 裏面あり",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1044f310-6942-46ca-832a-0e983410401e",
+					"Name": "しおり噺",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "某アニメを見て作りました。 ＃VRC_しおり噺",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -56,6 +179,50 @@
 			"Category": "2026/06",
 			"Worlds": [
 				{
+					"ID": "wrld_a9699a19-0d4c-41d7-81ad-24503d0d5374",
+					"Name": "VRC謎解きワールド『3x3』",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "3x3に組まれた謎。難易度˸簡単⁄推奨人数1人⁄想定クリア時間10分～30分⁄QVペン以外ローカル⁄検索なし",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_cb60feab-119d-45f9-bc4e-d87a7fb67185",
+					"Name": "謎解き「evolve」",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "十個の六角形の部屋に隠された謎を解き明かそう。⁄⁄動作はローカル⁄⁄パズル要素強め⁄⁄想定プレイ時間60-300分（高難易度） ＃VRC_EVOLVE",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1f715499-69d0-4e50-b3b4-bf4838d6f6e5",
+					"Name": "溶けるショゴスのいたって普通の謎解き",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "初めての謎ワ 30min～2hour",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9134b19a-1734-4e5e-b93d-2f7b4a20db72",
+					"Name": "【謎解き】 dotenjou -ドテンジョウ-",
+					"RecommendedCapacity": 2,
+					"Capacity": 6,
+					"Description": "答えは全て「点」か「上」を表す単語になります。 難易度：かんたん 所要時間：5分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_e5d769e4-9570-46ad-ac4f-8dfd482653be",
 					"Name": "謎解きワールド「Untitled Puzzle 5」",
 					"RecommendedCapacity": 4,
@@ -64,6 +231,28 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d5669806-037c-4199-a6e8-ca97e9273b29",
+					"Name": "謎解きワールド「Dungeon ＆ Particles」",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "想定クリア時間：20分程度、難易度：非常に簡単 パーティクルを使って、障害物を壊し、仕掛けを動かして謎を解け！ワールドに備え付けられた物は勿論、アバターのパーティクルでも仕掛けを動かすことができます！（要設定）性質上、どうしても同期ズレが起こってしまいます。その場合はリセットボタンを活用してください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5fffe938-b5b7-4a1f-bc09-7d62c725c623",
+					"Name": "救われた少女の話",
+					"RecommendedCapacity": 1,
+					"Capacity": 4,
+					"Description": "謎の装置を駆使して、生贄症候群と呼ばれる呪いに罹った少女を救ってください。推奨人数1人の謎解きワールドです。壁抜けをしたり、範囲外にカメラを飛ばすことは禁止されていません。＃救われた少女の話",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				},
 				{
@@ -100,6 +289,51 @@
 					}
 				},
 				{
+					"ID": "wrld_00cb1dbb-695c-4951-9827-50a14941179c",
+					"Name": "謎解き 数列迷宮からの脱出",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "初めて作ってみた謎解きワールドです。日本語話者向けで、想定クリア時間は60~90分です。動作はQVペン以外ローカルです。初めてでつたないところがあると思います。ご理解のほどお願いします。 参考元：ナゾトキラボ様 https˸⁄⁄www․youtube․com⁄watch?v＝RNpD9WNl1-0",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_00298abf-a662-4f2d-a925-4e99f10ffa19",
+					"Name": "謎解きワールド Wink",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "心の目で見ましょう ［難易度］ むずかしい ［問題数］ 5 ［所要時間］ 30分～ ＃VRC_Wink",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d666f7b0-c702-490d-9243-aba016f1f6e8",
+					"Name": "【謎解き】いろはに謎",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "公開日：2026⁄6⁄19 問題数：1問 難易度：やさしい～ふつう 所要時間：～15分程度 動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_55cd6b33-b9f9-41fb-9e80-92bce115f250",
+					"Name": "謎解きワールド プレイリスト",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "初めて作った謎解きワールドです。Clearを目指して頑張ってください 6․11 気が付いたらラボ抜けできていたのでちょっとだけアップデート ＃VRC_playlistを付けてXに投稿してくれたら嬉しいです",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_b1e701c3-e1bd-48b0-8bc8-00b5693ea914",
 					"Name": "謎解きワールド「Untitled Puzzle 4」",
 					"RecommendedCapacity": 8,
@@ -108,6 +342,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_82f4e234-efb3-4161-8857-67af8a5b03d7",
+					"Name": "ソラのなぞとき VRC謎解きワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "3Dで触って楽しめる謎解きワールドです。想定プレイ時間˸30分 ＃VRC_ソラのなぞとき",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				},
 				{
@@ -121,12 +366,56 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_91044af3-50d8-4041-94b2-7f7054ea44bf",
+					"Name": "謎解き「Re˸SEARCHER」",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "全ての謎を撃ち抜け。⁄⁄動作はローカル⁄⁄想定プレイ時間60-240分 ＃VRC_RESEARCHER",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_15d621ce-4e09-41c5-bb0e-6ed4b4f859d2",
+					"Name": "謎解きワールド『トリックカンパニー採用試験』",
+					"RecommendedCapacity": 5,
+					"Capacity": 16,
+					"Description": "すべての「仕掛」を「看破」せよ。【難易度˸ややむずかしい／想定プレイ時間˸45分～90分】 ＃VRC_トリックカンパニー",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7eae9ecf-5752-4459-b7dc-f8198e6dad1d",
+					"Name": "じゅえるなぞとき",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "ちゃんと楽しめる謎解きをめざして｜想定時間：60分程度｜おまけ謎あります",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
 		{
 			"Category": "2026/05",
 			"Worlds": [
+				{
+					"ID": "wrld_4b4d0845-d3c3-4d9b-acbf-f5659bc8856c",
+					"Name": "謎解きシューティング「謎撃」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Alien Shooting",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
 				{
 					"ID": "wrld_8434c2c3-5e97-460d-91d1-1c449bc03e8e",
 					"Name": "謎解きワールド『ミノタウロスの鏡』",
@@ -136,6 +425,18 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_cb0c28e3-5a7d-4023-a294-75aeda162fcc",
+					"Name": "無駄を削ぎ落としすぎた謎ワ",
+					"RecommendedCapacity": 1,
+					"Capacity": 32,
+					"Description": "謎を解いて完全クリアを目指そう！！！ 難易度：とんでもなくやさしい ＃VRC_MinRiddle",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
 					}
 				},
 				{
@@ -151,11 +452,123 @@
 					}
 				},
 				{
+					"ID": "wrld_f8ada032-0be7-46a7-a556-9e4624f67182",
+					"Name": "【謎解きワールド】MagicSquare",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "探索＋推理型謎解きワールドです。ワールドから全ての3x3魔方陣を見出そう！ちょっと英語の知識が必要です。 動作˸ローカル 難易度˸ Ekhi ＃VRC_MagicSquare",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_37f05874-1257-4aa1-a8d9-42caa443bf97",
+					"Name": "［JP⁄EN］ yourself -riddle world-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語・英語対応の謎解きワールド。想定プレイ時間約約2時間。難易度は中級者〜を想定しています。3人以上の多人数推奨。 Language˸ JP ⁄ EN - Cooperative Riddle World - Difficulty˸ Intermediate to Advanced - Estimated playtime˸ about 2~3 hours - Best played with a groupǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_a9c33f58-735d-4429-950d-b4dd47604afd",
 					"Name": "謎解きワールド『登竜門』",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "短編謎解きワールドです。３つ並んだパネルの正しいボタンを押してください。動作はローカルです。想定プレイ時間は15分～30分 ＃VRC_登竜問",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_09f27501-8051-4af4-9eff-e563e188b547",
+					"Name": "Authorがはじめて作成シタナゾ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "プレイ時間 10~20min 全5問 日本語話者向け、初心者想定謎解きです。タイトル通りで、作者が初めて作成した謎解きです。 ＃VRC_Authorはつナゾ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_29041cf6-a6c8-4141-8d2e-425045367cb0",
+					"Name": "SIGNAL0",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "注意：一般的な謎解きワールドではありません。「やばい」謎解きワールドを踏破してきた方の挑戦をお待ちしております。 ⁄ ＃VRC_SIGNAL0",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_66e9bf83-f98c-4b03-b0c0-6a314af268a8",
+					"Name": "AIが作った謎解きワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "AIと作成した謎解きワールドです。全部で１１問あります。想定時間：３０分",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e8423fc5-7941-4a12-aecc-7ce7d51f4f6b",
+					"Name": "謎解きワールド「Unravel」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "高難度。３つの謎解きワールドを巡って。【難易度：かなりむずかしい】【所要時間：３時間～】【ローカル動作】 ＃VRC_Unravel",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_be9affe6-11cc-4159-8b2e-af1bfe9e32aa",
+					"Name": "謎解き?探索?パズル?ワールド「Empty 2」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "空っぽの部屋からVRChatでできる行動を駆使してクリアを目指しましょう。1作目と同じく導線が無さすぎるのでメタ読み大推奨です。 Difficulty˸5i 動作˸ペン以外ローカル 不具合は作者まで v1․2˸ヒント追加、Credits修正",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8234179d-c1ed-4a0a-890a-fd3ea6186208",
+					"Name": "謎解きワールド「ももひろいチャレンジ」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［JP Only］短時間でプレイできる謎解きワールドです。頻出の謎を解いて正しいエリアに移動しましょう。 プレイ人数：1人 プレイ時間：5分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_aaf7ed87-73a6-4475-8902-a7300e51aa05",
+					"Name": "謎解きワールド「魔法少女失格」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "魔法少女に協力して、謎怪人を倒そう！というシンプルなワールドです。 動作˸ ローカル 世の中には、知らなくて良いことがあります。世の中には、解かなくて良い謎もあります。目覚めを悪くしたくなければ。 難易度˸ Keneq‚ Ekhi‚ Ekhi‚ Amida",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2deda7eb-c7c5-47cc-82d8-4b096009e582",
+					"Name": "謎解きワールド 「一語一会」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語話者向け謎解きワールドです。 想定難易度：そこそこ 想定クリア時間：20～60分",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -204,12 +617,45 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_94cd1e29-ea05-4705-ac20-5251a1f2ebe7",
+					"Name": "【謎解き】冷笑魔王、討伐",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "魔王を討伐しよう。あなたは勇者なのだから。難易度：そこそこ～難しい 所要時間：15分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_342a9b07-d25c-4fa0-84f1-5f8ddac801b0",
+					"Name": "【謎解き】これであなたも多言語マスター",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "全5問 ｜ 想定時間 45分 ｜ 日本語話者想定 ｜ ペン以外はローカル動作 ｜ヒントあり ｜｜｜｜ 色々な言語で作られた（?）謎を解いて、あなたも多言語マスターを目指しましょう！ ＃VRC_LangRiddle",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
 		{
 			"Category": "2026/04",
 			"Worlds": [
+				{
+					"ID": "wrld_cb5701d6-d128-453a-9d79-22e138d35273",
+					"Name": "？？？ワールド「REDEMPTION」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "私は好きにした、君らも好きにしろ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
 				{
 					"ID": "wrld_c5c9048c-20f1-4216-94a2-9cf0e6e77c14",
 					"Name": "【謎解きワールド】展覧解",
@@ -220,6 +666,39 @@
 						"PC": true,
 						"Android": true,
 						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_8beefed4-bd3f-4895-9a44-c89d446b6a8c",
+					"Name": "Dripping【Riddle】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語話者向けの高難易度謎解きワールドです。 解答はアルファベットかひらがなです。検索は推奨しています。 Desktopでもプレイはできますが、ペンをもって部屋間の移動ができないため推奨していません。 動作はペン以外ローカルです。 ＃VRC_Dripping",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_49baced5-46d4-4956-ac45-4124dd82c6c1",
+					"Name": "謎解きワールド ハニカム",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールド ハニカム ⁄ 日本語話者向けの謎解きワールドです 問題数˸10問 ヒント有り 想定クリア時間1~時間 ＃VRC_Honeycomb",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_00b09beb-7ae2-40a8-a21e-43c4cf5d55de",
+					"Name": "はじめての謎ワ！",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "かげ くらど さんのnoteをガン見しながらほぼはじめてワールド制作をしました！ここからゆっくりワールド更新していくので大目に見てください․․․ 今現在更新はしていますが問題はまだ増えていません！ 2026 5⁄1 三問追加！",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				},
 				{
@@ -246,6 +725,17 @@
 					}
 				},
 				{
+					"ID": "wrld_29bd4c35-6834-45d2-a4ee-b07b2094709e",
+					"Name": "謎解きワールド「- CUBE -」",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "元々ホームワールドに設置していた謎解きを分離させたものです。 Qvペンあり。 推定プレイ時間：15 分～2 時間。 すべてのギミックはローカルで動作します。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_ef0212f8-f84b-4b19-9702-53ee17754c6e",
 					"Name": "言語解読ワールド「dɑremiŋ mæi」",
 					"RecommendedCapacity": 16,
@@ -265,6 +755,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_afb572c2-1957-4d32-a8b4-a37ddd9dd564",
+					"Name": "【謎解き】お前もカレーにならないか？",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "カレーは何を混ぜてもカレーらしい。カレーへの華麗なる転身。難易度：超簡単～そこそこ 所要時間：1分～ BGM：魔王魂 ＃VRC_Curry",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				},
 				{
@@ -441,6 +942,18 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e74be9a8-dee9-46cc-83fe-f7f21064fe72",
+					"Name": "［JP⁄EN Puzzle］ Glucose",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ホワイトデーに思いを馳せて․․․ ⁄ Just Sweet Puzzle ⁄⁄ Diff˸2（max˸4） ⁄ Time Average˸ 30min ⁄ Gimmick˸ Local ⁄ ＃VRC_Glucose ⁄ 3⁄17 Update˸ Hint Added․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
 					}
 				},
 				{
@@ -5707,6 +6220,16 @@
 					"Capacity": 32,
 					"Description": "［JP Only］ 日本人向け謎解きワールドです。想定プレイ時間は30分～60分程度。いくつかの問題では、ヒント、解答・解説を見ることもできます",
 					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d94fea54-1d35-40f3-b820-b19862d3880a",
+					"Name": "The Great Inventor Escape",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "A tribute to Nikola Tesla․ （V18․016 - Triangle puzzle is now skip-able after certain period of time）Powered by CyanTrigger․",					"Platform": {
 						"PC": true,
 						"Android": false
 					}

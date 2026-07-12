@@ -2794,6 +2794,22 @@
 			]
 		},
 		{
+			"Category": "にもち！",
+			"Worlds": [
+				{
+					"ID": "wrld_d666f7b0-c702-490d-9243-aba016f1f6e8",
+					"Name": "【謎解き】いろはに謎",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "公開日：2026⁄6⁄19 問題数：1問 難易度：やさしい～ふつう 所要時間：～15分程度 動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "ねおぽん",
 			"Worlds": [
 				{
@@ -4157,6 +4173,22 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "溶けるショゴス",
+			"Worlds": [
+				{
+					"ID": "wrld_1f715499-69d0-4e50-b3b4-bf4838d6f6e5",
+					"Name": "溶けるショゴスのいたって普通の謎解き",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "初めての謎ワ 30min～2hour",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]

@@ -58,6 +58,22 @@
 			]
 		},
 		{
+			"Category": "_ゆづき_",
+			"Worlds": [
+				{
+					"ID": "wrld_7fca2ddb-b34e-445f-a079-e35bcef20b61",
+					"Name": "なぞときワールド『ひとまとまり』",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "日本語をテーマにした日本人向け謎解きワールドです ⁄ 全問ヒントあり ⁄ プレイ時間15m~30m ⁄ 裏面あり",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "32Ryo",
 			"Worlds": [
 				{
@@ -675,6 +691,28 @@
 					"RecommendedCapacity": 4,
 					"Capacity": 10,
 					"Description": "謎解きワールドカップ、それは4年に1度行われるとか行われないとか․․․․․․。世界中の人が熱狂の渦に巻き込まれるとか込まれないとか․․․․․․․。今、開幕․․․․․․！！！！難易度：簡単 想定クリア時間：3分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+								{
+					"ID": "wrld_afb572c2-1957-4d32-a8b4-a37ddd9dd564",
+					"Name": "【謎解き】お前もカレーにならないか？",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "カレーは何を混ぜてもカレーらしい。カレーへの華麗なる転身。難易度：超簡単～そこそこ 所要時間：1分～ BGM：魔王魂 ＃VRC_Curry",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_94cd1e29-ea05-4705-ac20-5251a1f2ebe7",
+					"Name": "【謎解き】冷笑魔王、討伐",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "魔王を討伐しよう。あなたは勇者なのだから。難易度：そこそこ～難しい 所要時間：15分～",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -1406,6 +1444,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_24e935d8-24f6-4407-a8a6-50df5e9aab03",
+					"Name": "謎解きワールド【未練】",
+					"RecommendedCapacity": 6,
+					"Capacity": 10,
+					"Description": "一枚謎を解いていく謎解きワールドです。 四方の扉のうち、答えだと思う方向に入ってください。 正誤は最後に発表されます。 リスポーンすると回答がリセットされます。 過去の問題を参照する場合はカメラを下方向に飛ばしてください。 どうか、悔いのないように。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1474,6 +1523,18 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "展覧会に隠されたたった一つの問いに解答してください。5⁄3にヒントを追加しました。（0時よりヒントが増えています）⁄⁄難易度˸普通⁄想定時間˸10分~⁄ギミック˸ローカル⁄＃VRC_tenrankai",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_fecb3de8-7649-49ed-919a-2cc79f79b52a",
+					"Name": "【謎解きワールド】盤内戦術",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "突貫で作ったので普段よりギミック抑え目です。⁄⁄難易度˸少し難しい⁄目安時間˸30min~⁄ギミック˸ローカル⁄＃VRC_バンナイセン",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -1636,6 +1697,28 @@
 					"RecommendedCapacity": 4,
 					"Capacity": 8,
 					"Description": "誰でも楽しめる謎解きをめざして｜想定時間：10~30分程度｜物足りない方用に難しい謎も用意してます！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c3e69f3b-2dfe-482f-91a2-2cdc27e913f2",
+					"Name": "ふらわーなぞとき",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "もっと楽しめる謎解きをめざして｜想定時間：30分~1時間程度｜物足りない方用に難しい謎も用意してます！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7eae9ecf-5752-4459-b7dc-f8198e6dad1d",
+					"Name": "じゅえるなぞとき",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "ちゃんと楽しめる謎解きをめざして｜想定時間：60分程度｜おまけ謎あります",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -2099,6 +2182,18 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "再び、謎を照らせ。想定難易度：2、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：5分～20分",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_fe6db060-bf04-4336-92bf-267c577b1ba2",
+					"Name": "謎解きワールド「Erased」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "白く塗り潰された謎を解け。想定難易度：６、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：15分～60分、＃VRC_Erased",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -3100,6 +3195,22 @@
 			]
 		},
 		{
+			"Category": "ゆきみそら。",
+			"Worlds": [
+				{
+					"ID": "wrld_00b09beb-7ae2-40a8-a21e-43c4cf5d55de",
+					"Name": "はじめての謎ワ！",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "かげ くらど さんのnoteをガン見しながらほぼはじめてワールド制作をしました！ここからゆっくりワールド更新していくので大目に見てください․․․ 今現在更新はしていますが問題はまだ増えていません！ 2026 5⁄1 三問追加！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "ゆりなしおん",
 			"Worlds": [
 				{
@@ -4028,6 +4139,23 @@
 			]
 		},
 		{
+			"Category": "ユージフ（yugif0722）",
+			"Worlds": [
+				{
+					"ID": "wrld_09f27501-8051-4af4-9eff-e563e188b547",
+					"Name": "Authorがはじめて作成シタナゾ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "プレイ時間 10~20min 全5問 日本語話者向け、初心者想定謎解きです。タイトル通りで、作者が初めて作成した謎解きです。 ＃VRC_Authorはつナゾ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "リョコウ",
 			"Worlds": [
 				{
@@ -4106,6 +4234,22 @@
 					"RecommendedCapacity": 5,
 					"Capacity": 10,
 					"Description": "簡単な謎解きです！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "無礼's",
+			"Worlds": [
+				{
+					"ID": "wrld_2deda7eb-c7c5-47cc-82d8-4b096009e582",
+					"Name": "謎解きワールド 「一語一会」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語話者向け謎解きワールドです。 想定難易度：そこそこ 想定クリア時間：20～60分",
 					"Platform": {
 						"PC": true,
 						"Android": true

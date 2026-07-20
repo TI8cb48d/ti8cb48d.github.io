@@ -6,6 +6,83 @@
 			"Category": "2026/07",
 			"Worlds": [
 				{
+					"ID": "wrld_927e89b9-6b99-47a9-b358-1aa7570a45c5",
+					"Name": "謎解きワールド『謎解きスケルトンパズル -Revolution-』",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "謎解きスケルトンパズルが、進化して帰ってきた！⁄想定時間：30分～1時間⁄ 注意：途中参加はできません！ ＃VRC_革命",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a60d55ac-1162-4cb0-947e-dac23d5710ed",
+					"Name": "【謎解き】魔法少女ノ謎裁判【まのさば二次創作】",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "ゲーム『魔法少女ノ魔女裁判』をベースにした非公式の謎解きワールドです。原作をプレイしていなくても遊べます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f9b917ee-2e7a-4461-854d-f5dc76b42dab",
+					"Name": "パスコード謎 ～巨大な金庫からの脱出～ 【謎解きワールド】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "難易度：そこそこ プレイ時間： 20～180分 プレイ人数：何名でも可 プレイモード：何でも可",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_f9b917ee-2e7a-4461-854d-f5dc76b42dab",
+					"Name": "謎解きワールド「すぺーすなびげーと」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールド「すぺーすなびげーと」 ⁄ 想定クリア時間-１時間 ⁄ 想定難易度-やや難しい（ヒントアリだと簡単）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_58f6b508-b522-4845-ab0e-0bdf2121fed3",
+					"Name": "謎解きワールド「カラーコード」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "カラーコードをテーマにした謎解きワールドです。 難易度は謎解きにある程度なれた人を想定しています。 想定クリア時間は1時間～です。 工業高校出身の人が一人いると心強いかもしれません。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c025a90f-6695-4acf-beb9-2d5490e2a442",
+					"Name": "俺は母ちゃんの謎解きワールドじゃないっつーのǃǃǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ガキ大将の謎解きワールドです。ヒントを使わなければ、謎解きに慣れている人が30分くらいかかる想定の難易度です。最後まで解いて、安心して未来に帰れるようにしましょう。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a73461b0-e145-4d62-b7ec-23af56868af0",
+					"Name": "VOLTAGER ［EX-Volcano］ Vket 2026 S",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․11 through Jul․26ǃ VOLTAGER - EX-Volcano is a creator exhibition venue of Vket2026 Summer․ VOLTAGER - EX-Volcano はVket2026 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_09f30c2a-472f-4559-84f7-14b78f35b52e",
 					"Name": "［Voyagers］ Argdella Rediscovered Vket 2026 S",
 					"RecommendedCapacity": 40,

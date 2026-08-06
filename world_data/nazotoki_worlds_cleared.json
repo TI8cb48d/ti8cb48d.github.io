@@ -533,6 +533,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_927e89b9-6b99-47a9-b358-1aa7570a45c5",
+					"Name": "謎解きワールド『謎解きスケルトンパズル -Revolution-』",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "謎解きスケルトンパズルが、進化して帰ってきた！⁄想定時間：30分～1時間⁄ 注意：途中参加はできません！ ＃VRC_革命",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -642,6 +653,22 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "ぼっち謎解きワールドです。複数人で挑んでも構いません QvPen以外Localです。30〜60分想定",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "Negitoro0w0",
+			"Worlds": [
+				{
+					"ID": "wrld_49baced5-46d4-4956-ac45-4124dd82c6c1",
+					"Name": "謎解きワールド ハニカム",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールド ハニカム ⁄ 日本語話者向けの謎解きワールドです 問題数˸10問 ヒント有り 想定クリア時間1~時間 ＃VRC_Honeycomb",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -1243,6 +1270,17 @@
 						"PC": true,
 						"Android": true,
 						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_b2147464-609b-41bc-b97e-9474edccf012",
+					"Name": "最近難しい謎解きワールドが多いので簡単な問題をクリアして自尊心を回復させような謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "難易度˸ Dark ＃VRC_EasyPeasy",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -2612,6 +2650,23 @@
 			]
 		},
 		{
+			"Category": "くまた０９３０",
+			"Worlds": [
+				{
+					"ID": "wrld_00cb1dbb-695c-4951-9827-50a14941179c",
+					"Name": "謎解き 数列迷宮からの脱出",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "初めて作ってみた謎解きワールドです。日本語話者向けで、想定クリア時間は60~90分です。動作はQVペン以外ローカルです。初めてでつたないところがあると思います。ご理解のほどお願いします。 参考元：ナゾトキラボ様 https˸⁄⁄www․youtube․com⁄watch?v＝RNpD9WNl1-0",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "くろす1031",
 			"Worlds": [
 				{
@@ -3017,6 +3072,17 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "4段階の難易度を選べる謎解きワールドです。全5問。EXはありません。いろんな人と来てもらえると嬉しいです。想定時間：30分～ ⁄想定人数：1～10人 ＃VRC_DifCoL2",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ceb2fd54-ddab-43d7-87ac-e2bd21254d2e",
+					"Name": "【謎解き】偏愛cafe 1st Anniversary",
+					"RecommendedCapacity": 23,
+					"Capacity": 23,
+					"Description": "【謎解き】偏愛cafe 1st Anniversary",
 					"Platform": {
 						"PC": true,
 						"Android": true

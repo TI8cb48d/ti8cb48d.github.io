@@ -3,8 +3,126 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2026/08",
+			"Worlds": [
+				{
+					"ID": "wrld_2be3830f-90cc-4687-9696-b3f34f339b60",
+					"Name": "次世代生命科学研究所からの脱出",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "閉鎖予定の研究施設「次世代生命科学研究所」に関する奇妙な噂がネット上で拡散していた。 深夜に搬出される大型コンテナ。行方不明になった研究員。工事中のはずなのに稼働している設備。だが、施設側は一切の取材を拒否。 好奇心に背中を押されて、記者であるあなたは閉鎖当日、工事関係者に紛れて研究施設へと忍び込んだ。 進行に困ったら掲示物を見てください。こちらは架空の研究所であり、実在する企業・団体とは関係ありません。 クリア想定時間：30~ 推奨人数1~5",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_8adf3957-6dd4-4448-8aa0-61787e3e746a",
+					"Name": "謎解きワールド『混迷せし泡沫の方舟』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎の少年により、煙が充満した部屋に封印されてしまったあなた。全ての薬と謎を解き明かし、脱出することはできるのか？ ⁄ 難易度：ふつう ⁄ 想定クリア時間：60～90分 ⁄ 動作：ローカル ⁄ ＃VRC_Ephemeral_Express",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_1a2c8478-2c7f-4a29-a07d-73ffa4796b81",
+					"Name": "【謎解きワールド】和同開扉～十字の鍵と連なる部屋～",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "【謎解きワールド】和同開扉～十字の鍵と連なる部屋～ ＃VRC_Wadoukaihi",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "2026/07",
 			"Worlds": [
+				{
+					"ID": "wrld_71c16404-5ebb-42d3-b49e-d18edeb4bed2",
+					"Name": "【謎解きワールド】 The Hidden Room",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "隠し扉を開き、クリア部屋へ到達せよ。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b2147464-609b-41bc-b97e-9474edccf012",
+					"Name": "謎ワなんてこんくらいでいいんだよおじさん「謎ワなんてこんくらいでいいんだよ」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎ワなんてこんくらいでいいんだよ。そんなに難しくなくていいんだよ。ベタ問チックでいいんだよ。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b2147464-609b-41bc-b97e-9474edccf012",
+					"Name": "最近難しい謎解きワールドが多いので簡単な問題をクリアして自尊心を回復させような謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "難易度˸ Dark ＃VRC_EasyPeasy",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a914f2a4-38e3-422e-afa1-7c37a5603119",
+					"Name": "【謎解きワールド】UNKNOWN",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "いわゆる宇宙謎です。グローバル‚途中参加可 ⁄ Nonverbal Puzzle ⁄⁄Diff˸2⁄5‚ Time˸15min‚ Gimmick˸Global‚ Late-Join˸OK⁄ ＃VRC_Unknown",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_fd6c39c5-f361-4b36-a172-29c4e9b635aa",
+					"Name": "【謎解きワールド】怪字ン二一三六面相",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ある怪人（怪字ン）がテーマの謎解きワールドです。想定難易度「やさしい」、想定クリア時間「15~30分」 ヒントあり。 2026⁄07⁄26 追記：問題一部修正、謎解きガイド追加、一部軽量化対応",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_60045c1e-8d47-4037-9c35-992fd03184dc",
+					"Name": "謎解きワールド『あなたは〇です』",
+					"RecommendedCapacity": 1,
+					"Capacity": 4,
+					"Description": "勝利してください。⁄ プレイ時間5m~15m ⁄ EXあり",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0b851ad8-1b1f-4085-b3a5-4aa4aa4de118",
+					"Name": "Mini Puzzle 4 「四角と矢印α」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「Mini Puzzle」シリーズ4作目 - 四角と矢印のみで構成されたパズルです。 今回はかなり移動するのでVR酔い注意です。いつものように理解してからが本番。 Difficulty˸5（通常クリア）~6＋（Perfectクリア） 動作˸ローカル 不具合は作者まで。 v1․1˸クリア画像が縁取りされていない不具合を修正",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
 				{
 					"ID": "wrld_927e89b9-6b99-47a9-b358-1aa7570a45c5",
 					"Name": "謎解きワールド『謎解きスケルトンパズル -Revolution-』",
@@ -14,6 +132,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_23615e72-a436-44b7-8ef9-41e898588ae8",
+					"Name": "Noche",
+					"RecommendedCapacity": 4,
+					"Capacity": 10,
+					"Description": "だれかの願いが残る場所。3Dアバター「Uika」のワールドです。https˸⁄⁄ciroro․booth․pm⁄items⁄8423941 ワールド音量をあげて訪れてもらえると幸いです",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				},
 				{

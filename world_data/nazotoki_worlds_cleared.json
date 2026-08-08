@@ -1601,6 +1601,18 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_27c61257-77bf-4a2c-af66-9bbca67d8cff",
+					"Name": "【推測型謎解きワールド】スミにまよえば",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "わずかな手がかりから解き明かせ。⁄難易度˸すこし難しい⁄想定時間˸20分～⁄ギミック˸ローカル⁄＃VRC_すみまよ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -1745,6 +1757,22 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "moti608",
+			"Worlds": [
+				{
+					"ID": "wrld_c71c98f2-2911-4aea-8c96-873472b34f54",
+					"Name": "【謎解きワールド】ツギハギツギハグ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ツギハギツギハグ 想定時間˸1h~1․5h 問題数˸6＋6＋3 難易度˸ふつう（EXやや難） ヒント完備 プレイ人数˸1人～ 知識˸ほぼ不要（検索OK） ＃VRC_ツギハギツギハグ",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
@@ -4480,6 +4508,22 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "初めての謎ワ 30min～2hour",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "怠惰なタマゴ",
+			"Worlds": [
+				{
+					"ID": "wrld_412da0d3-7731-46c9-8179-28ef7c2d86aa",
+					"Name": "謎のあるチルワ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎を解くとプレイヤー等がある場所へいけます。謎は2つのみ。1問目は検索推奨。30分～",
 					"Platform": {
 						"PC": true,
 						"Android": true

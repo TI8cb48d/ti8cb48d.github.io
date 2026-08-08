@@ -6,6 +6,28 @@
 			"Category": "2026/08",
 			"Worlds": [
 				{
+					"ID": "wrld_c71c98f2-2911-4aea-8c96-873472b34f54",
+					"Name": "【謎解きワールド】ツギハギツギハグ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ツギハギツギハグ 想定時間˸1h~1․5h 問題数˸6＋6＋3 難易度˸ふつう（EXやや難） ヒント完備 プレイ人数˸1人～ 知識˸ほぼ不要（検索OK） ＃VRC_ツギハギツギハグ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_772ff88e-e89e-47ae-bf25-4447bc057715",
+					"Name": "めっちゃ万物（モドキ）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語話者向け。万物。全20問＋EX3問 ⁄ クリア時間想定˸1~3時間＋α",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_2be3830f-90cc-4687-9696-b3f34f339b60",
 					"Name": "次世代生命科学研究所からの脱出",
 					"RecommendedCapacity": 5,

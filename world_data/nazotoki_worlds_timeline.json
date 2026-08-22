@@ -6,6 +6,17 @@
 			"Category": "2026/08",
 			"Worlds": [
 				{
+					"ID": "wrld_6475d673-6522-4c93-9f2f-1dfe66d5d7b1",
+					"Name": "【謎解きワールド】portable",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "【謎解きワールド】portableです。謎解き中級者向けです。クリアまで大体60～90分くらい。ヒントやEXもあります。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_0ba9c037-6762-4220-872b-bf1f87204559",
 					"Name": "謎解きワールド「なつめなぞ」",
 					"RecommendedCapacity": 16,

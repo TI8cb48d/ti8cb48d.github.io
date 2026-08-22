@@ -264,6 +264,22 @@
 			]
 		},
 		{
+			"Category": "bon1019",
+			"Worlds": [
+				{
+					"ID": "wrld_772ff88e-e89e-47ae-bf25-4447bc057715",
+					"Name": "めっちゃ万物（モドキ）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語話者向け。万物。全20問＋EX3問 ⁄ クリア時間想定˸1~3時間＋α",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "Bru-Beri",
 			"Worlds": [
 				{
@@ -3760,6 +3776,17 @@
 					"RecommendedCapacity": 4,
 					"Capacity": 8,
 					"Description": "謎解きワールド「Untitled Puzzle 5」。英語で解答入力してください。＃VRC_UntitledPuzzle5",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a9d2b418-d120-4a04-8117-694ac95f863b",
+					"Name": "謎解きワールド「9dots」",
+					"RecommendedCapacity": 8,
+					"Capacity": 12,
+					"Description": "「JP⁄EN」謎解きシリーズ「タイトルナシパズル」６作目「9dots」。rance0y様の素晴らしい謎解き「81 Square」に着想を得た。想定時間１時間～。 Puzzle world 9dots․ This world is inspired by 81 Square from rance0y․ Estimated clear in 1h~․ ＃VRC_UntitledPuzzle6",
 					"Platform": {
 						"PC": true,
 						"Android": false

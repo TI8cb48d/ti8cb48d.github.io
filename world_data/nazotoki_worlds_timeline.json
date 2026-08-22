@@ -6,6 +6,106 @@
 			"Category": "2026/08",
 			"Worlds": [
 				{
+					"ID": "wrld_0ba9c037-6762-4220-872b-bf1f87204559",
+					"Name": "謎解きワールド「なつめなぞ」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRChat謎解きワールド「なつめなぞ」 ちょっと一枚謎があるだけです。おまけはありません。60～120分ぐらい",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_313d9e59-76f2-402d-8ebe-3e3b8b799b24",
+					"Name": "【謎解きワールド】名もなき君へ",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "日本語話者向けの謎解きワールドです。 プレイ人数：2人～ 想定クリア時間：6時間～？ ＃vrc_namonaki",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3d4ead1c-aed6-4494-802c-5ba7226bad8d",
+					"Name": "謎解きワールド『十五の重い』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "全15問の謎解きワールドです。難易度：やや難しい ヒント・EX等はありません。＃VRC_15",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8d44b0a8-93b8-40a8-b62d-a7ba07ff37ab",
+					"Name": "短編謎解きワールド【4】",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "４択問題を１問だけ解く。ただそれだけの謎解きワールドです。【難易度：やや簡単】【知識：ほぼ不要】【クリアタイム目安：3分～10分】【ギミック：グローバル】【 ＃VRC_4 】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_a9d2b418-d120-4a04-8117-694ac95f863b",
+					"Name": "謎解きワールド「9dots」",
+					"RecommendedCapacity": 8,
+					"Capacity": 12,
+					"Description": "「JP⁄EN」謎解きシリーズ「タイトルナシパズル」６作目「9dots」。rance0y様の素晴らしい謎解き「81 Square」に着想を得た。想定時間１時間～。 Puzzle world 9dots․ This world is inspired by 81 Square from rance0y․ Estimated clear in 1h~․ ＃VRC_UntitledPuzzle6",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a3b4878e-f4dc-43b5-a163-3047221d8a59",
+					"Name": "謎解きワールド ちりもつもれば",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎に「ちり」が積もっていくタイプの謎解きワールドです。 基本的な英単語の知識が必要になります。想定難易度「かんたん~ふつう」‚想定クリア時間15min~1h 26⁄8⁄16 クリア部屋に「ちり」のない謎画像を追加しましたǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_15def1bd-e45a-4a87-8ae3-5e9968ab11c3",
+					"Name": "謎解きワールド「White FOX」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "本ワールドは、ユアリカさん制作の謎解きワールド『UNION』（Puzzle World）の二次創作ワールドです。 タイルの色を変えてすべての条件を満たしましょう。 ワールド動作：グローバル",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_68110f9e-6abc-402d-93c1-7f2899605d88",
+					"Name": "謎解きワールド『UNION』（Puzzle World）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "色をつないで、解決策を導けますか？｜動作：ローカル｜想定プレイ時間：30分～｜ハッシュタグ：＃VRC_UNION ｜Puzzle world․ No Japanese language knowledge required․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b120cf93-3ffb-41a0-8d7f-ea662ab43c91",
+					"Name": "プチ高難易度謎解きワールド『幻想塔』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "プチ高難易度謎解きワールドです。検索推奨です。全10問。＃VRC_AranTower",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_c71c98f2-2911-4aea-8c96-873472b34f54",
 					"Name": "【謎解きワールド】ツギハギツギハグ",
 					"RecommendedCapacity": 16,
@@ -36,6 +136,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_cac8ca64-759d-4254-b56b-6f6106c47f9f",
+					"Name": "【推測系謎解きワールド】 4Buttons",
+					"RecommendedCapacity": 2,
+					"Capacity": 4,
+					"Description": "狭い部屋の中に置かれた4つのボタンを、ある法則に従って押すこと。 難易度：【難しい】 想定クリア時間：【30分～3時間】",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				},
 				{

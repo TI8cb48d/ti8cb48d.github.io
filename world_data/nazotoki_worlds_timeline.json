@@ -6,6 +6,42 @@
 			"Category": "2026/08",
 			"Worlds": [
 				{
+					"ID": "wrld_b3a7806d-3aa2-44e7-86b7-a64c6c707b2e",
+					"Name": "TenZeros",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ステップを踏んで10個の「0」を写真に収めよう！動作˸ ローカル 難易度˸ Ekhi クリアのためにワールドから離れたりワールドへ入り直す必要はありません",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_5753909d-3122-42ef-a545-64107d860b88",
+					"Name": "33⁄4",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Ferriteが初めて作った謎解きです。想定クリア時間˸60min~ 想定難易度˸Expart",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_26e03ac7-d62f-4934-ba28-ab0740f0cc02",
+					"Name": "【謎解きワールド】 PLAY to FAVORITE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "そこには４つのボタン。想定難易度：「むずかしい～？？？」‚ 想定クリア時間：「3h～」",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_6475d673-6522-4c93-9f2f-1dfe66d5d7b1",
 					"Name": "【謎解きワールド】portable",
 					"RecommendedCapacity": 16,

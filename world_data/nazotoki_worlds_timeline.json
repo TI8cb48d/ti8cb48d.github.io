@@ -3,8 +3,69 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2026/09",
+			"Worlds": [
+				{
+					"ID": "wrld_5e785c8e-af45-4eb0-aa0a-1091dd078345",
+					"Name": "謎解きワールド 百点満点",
+					"RecommendedCapacity": 8,
+					"Capacity": 12,
+					"Description": "百点満点をとろう ［難易度］かんたん ［問題数］1＋ ［所要時間］5分～ ＃VRC_Ten",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_183f0e8f-a50b-4ab6-b3c9-6044841ddab9",
+					"Name": "謎解きワールド『ガチャガチャ謎』",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "ガチャガチャを使った謎解きワールドです。全6問。 ＃VRC_ガチャ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "2026/08",
 			"Worlds": [
+				{
+					"ID": "wrld_6d141562-59a5-4d47-a222-c52de6e2f317",
+					"Name": "謎解きワールド「解答」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「解答」を示せ。想定難易度：2、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：5分～15分、＃VRC_解答",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_5c248348-d72f-4009-83b7-d1e4a8f98476",
+					"Name": "謎解き 「TRY」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "初めてでも、やってみよう。 難易度：普通～やや難 全８問 簡単な英語の知識を要します 想定クリア時間：30分～90分 不具合や問題の欠陥があれば作者まで。 ＃VRC_try",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_07040374-1160-45c4-85d9-325bcd183be9",
+					"Name": "謎解きワールド「夢のアオハル？学校生活」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "はじめて作った謎ワです、お手柔らかにお願いします！ 難易度：ふつう 想定クリア時間：1時間前後 わからない場合はヒントをご活用ください！ セリフの途中で部屋を進むと少しバグります（謎解きに影響はありません） ＃VRC_アオハル",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
 				{
 					"ID": "wrld_b3a7806d-3aa2-44e7-86b7-a64c6c707b2e",
 					"Name": "TenZeros",
@@ -120,6 +181,18 @@
 					}
 				},
 				{
+					"ID": "wrld_c827f453-7fef-44ca-b55e-a842ab5926bd",
+					"Name": "BOARD․IO",
+					"RecommendedCapacity": 13,
+					"Capacity": 26,
+					"Description": "量子コンピューターで開発された「トッポ・ロジック」を使いBOARDを示そう！ 難易度˸ Keneq ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
 					"ID": "wrld_15def1bd-e45a-4a87-8ae3-5e9968ab11c3",
 					"Name": "謎解きワールド「White FOX」",
 					"RecommendedCapacity": 16,
@@ -183,6 +256,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_70de838d-3223-4d17-9ff7-4a61b9cace09",
+					"Name": "【謎解き】井の中の君正解を知らず",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "漢字の「井」のような、記号の「＃」のような、そんな模様を使った謎解きが8つ。",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				},
 				{

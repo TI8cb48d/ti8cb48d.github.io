@@ -70,6 +70,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_60045c1e-8d47-4037-9c35-992fd03184dc",
+					"Name": "謎解きワールド『あなたは〇です』",
+					"RecommendedCapacity": 1,
+					"Capacity": 4,
+					"Description": "勝利してください。⁄ プレイ時間5m~15m ⁄ EXあり",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -571,6 +582,28 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_3d4ead1c-aed6-4494-802c-5ba7226bad8d",
+					"Name": "謎解きワールド『十五の重い』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "全15問の謎解きワールドです。難易度：やや難しい ヒント・EX等はありません。＃VRC_15",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_183f0e8f-a50b-4ab6-b3c9-6044841ddab9",
+					"Name": "謎解きワールド『ガチャガチャ謎』",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "ガチャガチャを使った謎解きワールドです。全6問。 ＃VRC_ガチャ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -963,6 +996,18 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_8d44b0a8-93b8-40a8-b62d-a7ba07ff37ab",
+					"Name": "短編謎解きワールド【4】",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "４択問題を１問だけ解く。ただそれだけの謎解きワールドです。【難易度：やや簡単】【知識：ほぼ不要】【クリアタイム目安：3分～10分】【ギミック：グローバル】【 ＃VRC_4 】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -1308,6 +1353,18 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b3a7806d-3aa2-44e7-86b7-a64c6c707b2e",
+					"Name": "TenZeros",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ステップを踏んで10個の「0」を写真に収めよう！動作˸ ローカル 難易度˸ Ekhi クリアのためにワールドから離れたりワールドへ入り直す必要はありません",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
 					}
 				}
 			]
@@ -2475,6 +2532,22 @@
 			]
 		},
 		{
+			"Category": "あるびれお",
+			"Worlds": [
+				{
+					"ID": "wrld_a3b4878e-f4dc-43b5-a163-3047221d8a59",
+					"Name": "謎解きワールド ちりもつもれば",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎に「ちり」が積もっていくタイプの謎解きワールドです。 基本的な英単語の知識が必要になります。想定難易度「かんたん~ふつう」‚想定クリア時間15min~1h 26⁄8⁄16 クリア部屋に「ちり」のない謎画像を追加しましたǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "いぬんちゅ",
 			"Worlds": [
 				{
@@ -2697,6 +2770,17 @@
 						"Android": false
 					},
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_5e785c8e-af45-4eb0-aa0a-1091dd078345",
+					"Name": "謎解きワールド 百点満点",
+					"RecommendedCapacity": 8,
+					"Capacity": 12,
+					"Description": "百点満点をとろう ［難易度］かんたん ［問題数］1＋ ［所要時間］5分～ ＃VRC_Ten",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -4138,6 +4222,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "この世界の名前はなんでしょうか？＃VRC_この世界の名前は",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_68110f9e-6abc-402d-93c1-7f2899605d88",
+					"Name": "謎解きワールド『UNION』（Puzzle World）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "色をつないで、解決策を導けますか？｜動作：ローカル｜想定プレイ時間：30分～｜ハッシュタグ：＃VRC_UNION ｜Puzzle world․ No Japanese language knowledge required․",
 					"Platform": {
 						"PC": true,
 						"Android": true

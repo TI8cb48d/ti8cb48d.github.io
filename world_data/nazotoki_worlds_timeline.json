@@ -6,6 +6,73 @@
 			"Category": "2026/09",
 			"Worlds": [
 				{
+					"ID": "wrld_efece4b1-d0a1-4abe-b4de-98598d047825",
+					"Name": "謎解き 「TRIED」",
+					"RecommendedCapacity": 4,
+					"Capacity": 10,
+					"Description": "記憶の通りにやってごらん 前作未プレイならかなり高難度 全4問 想定クリア時間：10分～ 前作の問題の法則を使いました。例示がないですが、解答不可にならないようある程度調整しています。 問題の欠陥、不具合等は作者まで。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_814c96fe-dbb0-4245-9011-e076adf750ec",
+					"Name": "謎解きワールド「APEX」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールド「APEX」 謎を解いて山頂を目指そう！全9問。 想定時間˸60分～ ＃VRC_Apex",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_86ca420c-cf1e-4589-a34a-37418bbb9a66",
+					"Name": "謎解きワールド「MAKE ANSWER」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「答え」を作れ。想定難易度：7、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：30分以上、＃VRC_MAKE_ANSWER",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_d96331f2-3985-455f-a737-5fe7726a76ad",
+					"Name": "humbger foes",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "このワールドに入って打つべき4文字を当てましょう⁄全1問 ＋ ヒントを出すための謎解きの構成です⁄EXはないです⁄普通の謎解きは相当違うアプローチが必要となります⁄クリア想定時間 10秒 ～ 点と点がつながるまで⁄ ＃はんふぉ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_77c487e8-7bbf-4993-92d8-64fd24908433",
+					"Name": "謎解きワールド「仕分け済 ガチャガチャ謎」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "このワールドは、JP_アランさん制作の謎解きワールド『ガチャガチャ謎』の二次創作ワールドです。 全6問を推測しながら解きましょう。高スコアには運も必要かも？ ワールド動作：ペン以外ローカル ＃VRC_しわけガチャ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_87e22a31-1c6e-4790-80f6-0681645038e7",
+					"Name": "NumPazzle_codeAAA",
+					"RecommendedCapacity": 1,
+					"Capacity": 30,
+					"Description": "Let's figure out the pattern and move forwardǃ Bring back the treasure at the very end to clear the stageǃ 法則を見つけて進みましょう！お宝を持ち帰ってくればクリアです！（難易度調整追加）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_5e785c8e-af45-4eb0-aa0a-1091dd078345",
 					"Name": "謎解きワールド 百点満点",
 					"RecommendedCapacity": 8,

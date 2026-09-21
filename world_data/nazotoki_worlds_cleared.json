@@ -42,22 +42,6 @@
 			]
 		},
 		{
-			"Category": "_なつめ",
-			"Worlds": [
-				{
-					"ID": "wrld_9c7a4b9e-21cd-49c1-88ad-a3d902e6a0ec",
-					"Name": "謎解きワールド「パワー」",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "VRChat謎解きワールド「パワー」 想定クリア時間６０分 不具合などは作者DMまで",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				}
-			]
-		},
-		{
 			"Category": "_ゆづき_",
 			"Worlds": [
 				{
@@ -334,6 +318,23 @@
 			]
 		},
 		{
+			"Category": "Ferrite_26",
+			"Worlds": [
+				{
+					"ID": "wrld_5753909d-3122-42ef-a545-64107d860b88",
+					"Name": "33⁄4",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Ferriteが初めて作った謎解きです。想定クリア時間˸60min~ 想定難易度˸Expart",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "Fozyjp",
 			"Worlds": [
 				{
@@ -603,6 +604,22 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "Karaage__",
+			"Worlds": [
+				{
+					"ID": "wrld_07040374-1160-45c4-85d9-325bcd183be9",
+					"Name": "謎解きワールド「夢のアオハル？学校生活」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "はじめて作った謎ワです、お手柔らかにお願いします！ 難易度：ふつう 想定クリア時間：1時間前後 わからない場合はヒントをご活用ください！ セリフの途中で部屋を進むと少しバグります（謎解きに影響はありません） ＃VRC_アオハル",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -1851,6 +1868,22 @@
 			]
 		},
 		{
+			"Category": "pairon1591",
+			"Worlds": [
+				{
+					"ID": "wrld_8beefed4-bd3f-4895-9a44-c89d446b6a8c",
+					"Name": "Dripping【Riddle】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語話者向けの高難易度謎解きワールドです。 解答はアルファベットかひらがなです。検索は推奨しています。 Desktopでもプレイはできますが、ペンをもって部屋間の移動ができないため推奨していません。 動作はペン以外ローカルです。 ＃VRC_Dripping",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "plum_sumomo",
 			"Worlds": [
 				{
@@ -2356,6 +2389,18 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "白く塗り潰された謎を解け。想定難易度：６、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：15分～60分、＃VRC_Erased",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_6d141562-59a5-4d47-a222-c52de6e2f317",
+					"Name": "謎解きワールド「解答」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「解答」を示せ。想定難易度：2、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：5分～15分、＃VRC_解答",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -3144,6 +3189,33 @@
 			]
 		},
 		{
+			"Category": "な つ め",
+			"Worlds": [
+				{
+					"ID": "wrld_9c7a4b9e-21cd-49c1-88ad-a3d902e6a0ec",
+					"Name": "謎解きワールド「パワー」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRChat謎解きワールド「パワー」 想定クリア時間６０分 不具合などは作者DMまで",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0ba9c037-6762-4220-872b-bf1f87204559",
+					"Name": "謎解きワールド「なつめなぞ」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRChat謎解きワールド「なつめなぞ」 ちょっと一枚謎があるだけです。おまけはありません。60～120分ぐらい",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "にもち！",
 			"Worlds": [
 				{
@@ -3392,6 +3464,17 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_d96331f2-3985-455f-a737-5fe7726a76ad",
+					"Name": "humbger foes",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "このワールドに入って打つべき4文字を当てましょう⁄全1問 ＋ ヒントを出すための謎解きの構成です⁄EXはないです⁄普通の謎解きは相当違うアプローチが必要となります⁄クリア想定時間 10秒 ～ 点と点がつながるまで⁄ ＃はんふぉ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -3599,6 +3682,33 @@
 					"RecommendedCapacity": 80,
 					"Capacity": 80,
 					"Description": "2025年の誕生日会場です。クイズに最後まで答えると会場へ行けます！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "エイヴ（AVE）",
+			"Worlds": [
+				{
+					"ID": "wrld_c025a90f-6695-4acf-beb9-2d5490e2a442",
+					"Name": "俺は母ちゃんの謎解きワールドじゃないっつーのǃǃǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ガキ大将の謎解きワールドです。ヒントを使わなければ、謎解きに慣れている人が30分くらいかかる想定の難易度です。最後まで解いて、安心して未来に帰れるようにしましょう。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_70de838d-3223-4d17-9ff7-4a61b9cace09",
+					"Name": "【謎解き】井の中の君正解を知らず",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "漢字の「井」のような、記号の「＃」のような、そんな模様を使った謎解きが8つ。",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -4391,6 +4501,18 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_37f05874-1257-4aa1-a8d9-42caa443bf97",
+					"Name": "［JP⁄EN］ yourself -riddle world-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本語・英語対応の謎解きワールド。想定プレイ時間約約2時間。難易度は中級者〜を想定しています。3人以上の多人数推奨。 Language˸ JP ⁄ EN - Cooperative Riddle World - Difficulty˸ Intermediate to Advanced - Estimated playtime˸ about 2~3 hours - Best played with a groupǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -4646,6 +4768,22 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "謎を解くとプレイヤー等がある場所へいけます。謎は2つのみ。1問目は検索推奨。30分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "八重堂 ろん",
+			"Worlds": [
+				{
+					"ID": "wrld_66e9bf83-f98c-4b03-b0c0-6a314af268a8",
+					"Name": "AIが作った謎解きワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "AIと作成した謎解きワールドです。全部で１１問あります。想定時間：３０分",
 					"Platform": {
 						"PC": true,
 						"Android": true

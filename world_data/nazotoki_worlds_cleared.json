@@ -2426,6 +2426,33 @@
 			]
 		},
 		{
+			"Category": "sen10kun",
+			"Worlds": [
+				{
+					"ID": "wrld_5c248348-d72f-4009-83b7-d1e4a8f98476",
+					"Name": "謎解き 「TRY」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "初めてでも、やってみよう。 難易度：普通～やや難 全８問 簡単な英語の知識を要します 想定クリア時間：30分～90分 不具合や問題の欠陥があれば作者まで。 ＃VRC_try",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_efece4b1-d0a1-4abe-b4de-98598d047825",
+					"Name": "謎解き 「TRIED」",
+					"RecommendedCapacity": 4,
+					"Capacity": 10,
+					"Description": "記憶の通りにやってごらん 前作未プレイならかなり高難度 全4問 想定クリア時間：10分～ 前作の問題の法則を使いました。例示がないですが、解答不可にならないようある程度調整しています。 問題の欠陥、不具合等は作者まで。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "shiracal",
 			"Worlds": [
 				{
@@ -3310,6 +3337,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_b2147464-609b-41bc-b97e-9474edccf012",
+					"Name": "謎ワなんてこんくらいでいいんだよおじさん「謎ワなんてこんくらいでいいんだよ」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎ワなんてこんくらいでいいんだよ。そんなに難しくなくていいんだよ。ベタ問チックでいいんだよ。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -3543,6 +3581,35 @@
 			]
 		},
 		{
+			"Category": "りゅうと_770",
+			"Worlds": [
+				{
+					"ID": "wrld_e433b70a-1346-4179-974b-2d85db95528f",
+					"Name": "謎解きワールド「謎郵便」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールド「謎郵便」 郵便がテーマの謎解きワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_fd6c39c5-f361-4b36-a172-29c4e9b635aa",
+					"Name": "【謎解きワールド】怪字ン二一三六面相",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ある怪人（怪字ン）がテーマの謎解きワールドです。想定難易度「やさしい」、想定クリア時間「15~30分」 ヒントあり。 2026⁄07⁄26 追記：問題一部修正、謎解きガイド追加、一部軽量化対応",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "れみりあ_",
 			"Worlds": [
 				{
@@ -3728,6 +3795,22 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "スノー_snow",
+			"Worlds": [
+				{
+					"ID": "wrld_342a9b07-d25c-4fa0-84f1-5f8ddac801b0",
+					"Name": "【謎解き】これであなたも多言語マスター",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "全5問 ｜ 想定時間 45分 ｜ 日本語話者想定 ｜ ペン以外はローカル動作 ｜ヒントあり ｜｜｜｜ 色々な言語で作られた（?）謎を解いて、あなたも多言語マスターを目指しましょう！ ＃VRC_LangRiddle",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]

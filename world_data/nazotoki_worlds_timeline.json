@@ -248,6 +248,17 @@
 					}
 				},
 				{
+					"ID": "wrld_454441bc-bc3b-469a-bb76-365b57428d35",
+					"Name": "VRC謎解きワールド『一本道』",
+					"RecommendedCapacity": 1,
+					"Capacity": 8,
+					"Description": "どこまで行っても一本道？⁄難易度˸簡単⁄推奨人数1人⁄全4問⁄想定クリア時間10分～30分⁄QVペン以外ローカル⁄何でも許せる人向け⁄検索なし",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_c827f453-7fef-44ca-b55e-a842ab5926bd",
 					"Name": "BOARD․IO",
 					"RecommendedCapacity": 13,
@@ -282,6 +293,17 @@
 					}
 				},
 				{
+					"ID": "wrld_4b463c4b-6d6a-4993-9be2-965bda47339c",
+					"Name": "謎解きワールド カメンリドラー",
+					"RecommendedCapacity": 12,
+					"Capacity": 16,
+					"Description": "仮面ライダーと謎解きが好きな方向けの謎解きワールドです。検索有りです。 難易度 難しい ＃VRC_カメンリドラー 8⁄13 没になった問題をおまけで置いておきます。パブリックで挑戦していたら作者が見に行きます（こわいね）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_b120cf93-3ffb-41a0-8d7f-ea662ab43c91",
 					"Name": "プチ高難易度謎解きワールド『幻想塔』",
 					"RecommendedCapacity": 16,
@@ -298,6 +320,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "ツギハギツギハグ 想定時間˸1h~1․5h 問題数˸6＋6＋3 難易度˸ふつう（EXやや難） ヒント完備 プレイ人数˸1人～ 知識˸ほぼ不要（検索OK） ＃VRC_ツギハギツギハグ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7a5aab51-1936-4907-8011-e2465844ca98",
+					"Name": "数字謎",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "何かの数字を使う謎解きワールドです。 全7問あります。（EXはありません。） 一部、検索推奨の謎があります。 難易度：そこそこ 推奨時間： 30分～1時間",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -375,6 +408,17 @@
 		{
 			"Category": "2026/07",
 			"Worlds": [
+				{
+					"ID": "wrld_043cd671-7d5f-417f-85bf-8cf1eaad9f34",
+					"Name": "【謎ときワールド】えぬぴーしー生誕祭2026",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "えぬぴーしーくんのお誕生日のために作成した謎解きワールドです！ご本人に許可をいただいたのでパブリック化しましたHappyBirthday 全15問＋EX1問。想定クリア時間：1～2時間。日本語話者向け。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
 				{
 					"ID": "wrld_71c16404-5ebb-42d3-b49e-d18edeb4bed2",
 					"Name": "【謎解きワールド】 The Hidden Room",

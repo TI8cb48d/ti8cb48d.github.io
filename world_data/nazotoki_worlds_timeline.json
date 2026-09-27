@@ -6,6 +6,17 @@
 			"Category": "2026/09",
 			"Worlds": [
 				{
+					"ID": "wrld_80327592-8619-4cf1-9cc4-223e6ba372f1",
+					"Name": "カワウソの屋根裏",
+					"RecommendedCapacity": 5,
+					"Capacity": 30,
+					"Description": "とあるカワウソのお家。 よく観察してみよう。androidでもいけないことはないが、一部色が見えないので非推奨。 最終回答が一つに定まらないと思うので、片っ端から打ってください。ごめんなさい。１０回間違えた場合、ワールドに入りなおしたら再び回答を打てるようになります。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_efece4b1-d0a1-4abe-b4de-98598d047825",
 					"Name": "謎解き 「TRIED」",
 					"RecommendedCapacity": 4,

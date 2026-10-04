@@ -3,8 +3,57 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
+			"Category": "2026/10",
+			"Worlds": [
+				{
+					"ID": "wrld_d65a1999-d29c-43e1-8e1c-418fe40f09aa",
+					"Name": "謎解きワールド『失われた音楽』",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "謎を解いてタクトを振ろう。想定時間：15分~⁄推奨人数1~6人⁄ヒント有⁄難易度˸普通⁄問題数6問＋1問⁄動作はQVペンとクリア後の?????以外ローカルです。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "2026/09",
 			"Worlds": [
+				{
+					"ID": "wrld_e33a3a5f-8971-4b24-bbf0-603e334c3971",
+					"Name": "お笑いオタクが作った謎ワ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "お笑いオタクが作ったお笑い好きの為の謎ワです。お笑いが分からない方は後半検索が必要かもしれません。【問題数】7【所要時間】15分～",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_cfe1dbbc-6716-4b40-ad40-a9655f31524c",
+					"Name": "謎解き 「アリバイ工作」",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "「それ」の目撃者を作ってください。 想定難易度：普通 想定クリア時間 5~45分 翻訳スイッチを追加しました。 不具合や問題の欠陥があれば作者まで。 ＃VRC_アリバイ工作",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ba41e681-cca9-4b9a-8be8-bb96b95bcd1b",
+					"Name": "【謎解きワールド】 The Room of X",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "部屋中の細かい所まで見渡して謎を解こう！（制限時間などはないので、じっくり解いてもOK！）【難易度：ふつう～ややむずかしい⁄想定プレイ時間：60分~3時間（人数による）途中合流可能⁄ヒントあり】 ＃VRC_TROX 9⁄28：問題を調整しました（答え、解法に影響なし）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
 				{
 					"ID": "wrld_80327592-8619-4cf1-9cc4-223e6ba372f1",
 					"Name": "カワウソの屋根裏",
@@ -14,6 +63,40 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a66fe660-cc8b-44fd-9fdd-4008b8f4e4b2",
+					"Name": "謎解きワールド「MAKE A MOMENT」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「一瞬」を作れ。想定難易度：6、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：20分以上、＃VRC_MAKE_A_MOMENT",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_d5f15f48-bff0-4e0a-b101-ae37eb6b2a47",
+					"Name": "謎解きワールド「Silhouette」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールド「Silhouette」 答えを導き、失われた色を取り戻してください。 想定時間120分～ ＃VRC_Silhouette",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_932088b5-efbc-424c-b49c-9a118818995c",
+					"Name": "謎解きワールド「歪なノート」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "難易度「普通」 ヒントは公開一週間後に出します 追記ヒントは9月23日に延長させていただきます。 9⁄22 大問５にヒントを追加しました",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				},
 				{

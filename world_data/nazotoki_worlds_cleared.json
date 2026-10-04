@@ -1773,6 +1773,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_454441bc-bc3b-469a-bb76-365b57428d35",
+					"Name": "VRC謎解きワールド『一本道』",
+					"RecommendedCapacity": 1,
+					"Capacity": 8,
+					"Description": "どこまで行っても一本道？⁄難易度˸簡単⁄推奨人数1人⁄全4問⁄想定クリア時間10分～30分⁄QVペン以外ローカル⁄何でも許せる人向け⁄検索なし",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -3262,6 +3273,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_d5f15f48-bff0-4e0a-b101-ae37eb6b2a47",
+					"Name": "謎解きワールド「Silhouette」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールド「Silhouette」 答えを導き、失われた色を取り戻してください。 想定時間120分～ ＃VRC_Silhouette",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -3274,6 +3296,22 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 16,
 					"Description": "公開日：2026⁄6⁄19 問題数：1問 難易度：やさしい～ふつう 所要時間：～15分程度 動作：ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "ぬぃ；；",
+			"Worlds": [
+				{
+					"ID": "wrld_932088b5-efbc-424c-b49c-9a118818995c",
+					"Name": "謎解きワールド「歪なノート」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "難易度「普通」 ヒントは公開一週間後に出します 追記ヒントは9月23日に延長させていただきます。 9⁄22 大問５にヒントを追加しました",
 					"Platform": {
 						"PC": true,
 						"Android": false

@@ -154,17 +154,6 @@
 					}
 				},
 				{
-					"ID": "wrld_7802a897-eaed-4e60-a8b7-0add21f6b487",
-					"Name": "神の喫煙所",
-					"RecommendedCapacity": 8,
-					"Capacity": 20,
-					"Description": "3⁄24更新）イメージパッドを追加しました",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
 					"ID": "wrld_2c374fe0-8b84-43c3-b3b2-3a2ee1be6dfb",
 					"Name": "Cloudveil Cabin",
 					"RecommendedCapacity": 8,
@@ -283,6 +272,61 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c868d227-091b-4bd3-b2eb-274414251ac6",
+					"Name": "鏡写しの水面",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "最近ちょこちょこサムネ詐欺みたいなワールドを見かけたのでそれに対抗するために作ったワールドです このワールドのサムネはスクショをそのまま使用した物です！（bloomを使っているのでクエスト単機などで入るとサムネと違う場合があります） 水面が深すぎたので修正しました。 使用アセット（LuraSwitch2・QvPen・YamaPlayer・RARA - StarfieldUnlit v1․2）訪問者数1万超え、お気に入り登録1000ありがとうございます。サムネ詐欺なんかしなくても魅力は作れるのが少しですが証明できました",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8ed886fc-ff79-4361-bbbe-48f1a3cfa518",
+					"Name": "静かな朝の屋上と海と空",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "QVペン、yamaplayer、麻雀パズル、RailPen 、波の音は入口のボタンで消えます․ クエスト対応できてるか確認してない！！！！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_290929a4-5c82-46da-aaa4-f82e5c793462",
+					"Name": "長崎には海と山しかない",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "田舎の海辺の家。クッションはジャンプで上り、ジャンプ長押しで下がります。Android版のテストはQuest3で行いました。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4e90675f-ccb0-46dc-818b-bc0d68aaafd1",
+					"Name": "Room of Rain",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "a chill world",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b26c8a97-5c38-4dd2-9aa7-520eea7b3e69",
+					"Name": "星の入り江 - Liminal Cove",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［WIP］ Update˸ アバターのライティングを調整",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -422,6 +466,28 @@
 					"RecommendedCapacity": 40,
 					"Capacity": 40,
 					"Description": "VRCワールド「SayaTown」公開しました！ 14․5k㎡の広大なワールドで様々な建物、場所があり 電車、車、バイク、ヘリコプターなどのに乗り探索することができます。 観光スポットも多数あり！ みなさん、ぜひ遊びに来てね！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_550ec585-a5d6-48e0-b3ef-750aca1c9042",
+					"Name": "Shuto Highway",
+					"RecommendedCapacity": 16,
+					"Capacity": 40,
+					"Description": "首都圏の高速道路を再現したワールドです。C1、C2、首都高湾岸線、東名っぽいレイアウトがあります。 Udonナビシステムあり。そのうち色々増やします。本線の総延長59km。2026⁄09⁄21夜モード追加しました。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_11e77d1a-2280-49e7-80c9-b80da4bfb5f0",
+					"Name": "町林市 - ドライブ＆フライト",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "車や飛行機の操縦、停留所に沿ったバスの運転ができるワールドです。 重めのワールドです。重く感じる方は描画距離等の設定調整をお試しください。 雰囲気で作ってます。もし不具合などを見つけた際はDMにて教えていただけると助かります。 In this world‚ you can drive cars‚ pilot aircraft‚ and operate buses along designated routes․ This world is on the heavier side․ If you experience performance issues‚ please try adjusting your render distance （draw distance）․ This world was created mainly for atmosphere and vibes․ If you find any bugs or issues‚ Id appreciate it if you could let me know via DMǃ",
 					"Platform": {
 						"PC": true,
 						"Android": false

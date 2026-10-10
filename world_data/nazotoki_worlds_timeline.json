@@ -6,6 +6,83 @@
 			"Category": "2026/10",
 			"Worlds": [
 				{
+					"ID": "wrld_994e3fe9-b3a2-4fc4-b5ca-1e660e6fa2d9",
+					"Name": "基本知識だけで解ける謎解き",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "謎解きワールドを作ってみたかったので作りました。頻出知識の復習用にでもどうぞ。ヒントもあるよ。想定プレイ時間：10～20分",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_26032e39-e923-4916-9ef1-aebe0a7a7071",
+					"Name": "Mini Puzzle Tower 「」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "∗この塔は名前を持ちません。各フロアが名前を持っているからです。∗ 10個あるMini Puzzleを全て解きましょう。健闘を祈ります。 Difficulty˸ 4（1F） ~ 9（10Fノーヒント）自動セーブ有 動作˸ローカル 想定クリア時間˸4h~ v1․6˸ 10Fバグ修正",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3182d215-9253-460c-b6ae-bd2962768539",
+					"Name": "「キーボード謎」謎解きワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールド「キーボード謎」です。想定クリア時間 ［2時間～］ 難易度［難しい］ ＃VRC_riddle_Keyboard",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_420bf71a-a032-4c94-a212-54b9bcd12af6",
+					"Name": "【謎解きワールド】Space․",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解き。宇宙謎と本人は言い張っています Desktopでないとクリアできません。 難易度˸ Keneq",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_263649e8-9149-4ea1-943d-32f3b650bbbf",
+					"Name": "スイッチ10",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "スイッチを押して、法則を見つけ、全ての明かりをつける謎解きパズルワールドです。全13ステージ『通常10 ＋ EX3』",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9861e06f-bd73-4765-b4b7-9cd45a62658e",
+					"Name": "謎解きワールド 1006",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あなたを待っています ［難易度］ふつう～むずかしい ［問題数］10＋ ［所要時間］ 30分～ ＃VRC_Tensix",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6b906013-5a4d-41ac-84e4-64db99b788af",
+					"Name": "謎解喫茶（なぞときっさ）ナースカフェ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2026⁄09⁄15とりま完成、飲み物の注文はカウンターにいるラピーヌさんにお願いします。日替わりの謎が3問づつぐらいある感じです、やっつけなので何か問題があったらすまん2026⁄09⁄16 QVペン追加動作確認は後でやる 2026⁄09⁄17謎解き班！の方々に見てもらって修正、ここ最近夜ふかしがひどいんで不具合が無いことを祈りながら更新して寝ます2026⁄09⁄18大幅に配置換えしました2026⁄09⁄20謎解き班！の方に攻略してもらい判明した不具合を修正2026⁄09⁄27残りの修正点も直してこれでオープンベータはすべて修正完了なはす2026⁄10⁄05ルブダでラピーヌさんの顔が白くなるやつの対処がわからんのでとりま位置移動、ついでに地下に二問追加2026⁄10⁄06回答の不足と誤字と金庫修正",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_d65a1999-d29c-43e1-8e1c-418fe40f09aa",
 					"Name": "謎解きワールド『失われた音楽』",
 					"RecommendedCapacity": 6,

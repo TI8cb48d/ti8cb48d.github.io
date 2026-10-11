@@ -6,6 +6,17 @@
 			"Category": "2026/10",
 			"Worlds": [
 				{
+					"ID": "wrld_8e6ece58-d0ae-477a-96c4-d092269b8c92",
+					"Name": "実績だらけのバーラウンジからの脱出 Escape from a Bar Lounge Full of Achievements",
+					"RecommendedCapacity": 30,
+					"Capacity": 50,
+					"Description": "制限時間なし ⁄ 途中参加可能 ⁄ 難易度˸ふつう～ややむずかしい ⁄ 日本語と英語に対応しています ⁄ ＃VRC_実績だらけ脱出 ⁄ No time limit ⁄ Join at any time ⁄ Difficulty level˸ Normal to moderately challenging ⁄ Available in Japanese and English",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_994e3fe9-b3a2-4fc4-b5ca-1e660e6fa2d9",
 					"Name": "基本知識だけで解ける謎解き",
 					"RecommendedCapacity": 4,

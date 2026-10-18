@@ -6,6 +6,73 @@
 			"Category": "2026/10",
 			"Worlds": [
 				{
+					"ID": "wrld_f39f975f-9a43-4673-90f8-babe576b653a",
+					"Name": "漢字パズルと魔法陣の部屋からの脱出プチ",
+					"RecommendedCapacity": 4,
+					"Capacity": 20,
+					"Description": "パズルと謎を解き、部屋から脱出しましょう。 想定難易度：ふつう 想定クリア時間：20m~40m 短編脱出ゲームです。不具合や問題の欠陥、別解がありましたら作者のDMまで。＃VRC_sen10-e１",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_30fdad52-0faa-4ea4-8c27-e8d8d6655992",
+					"Name": "あにちまた",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "アナグラムの一種である、チマタグラムを30問解くワールドです。答えはすべて、アニメ・漫画のタイトルになります。 すべてクリアする必要はないので、気軽に遊んでください。 言葉に完全に依存した問題が続きます。 ワールド動作：ローカル 1プレイの時間˸30分～諦めるまで ＃あにちまた",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5fdab6be-8a05-4978-989b-07da9aeec39d",
+					"Name": "謎解きワールド『今すぐ全員殺すんだǃ』",
+					"RecommendedCapacity": 6,
+					"Capacity": 13,
+					"Description": "目的は、正しい人物を殺すこと。 こんなこと、あっていいのか。＃VRC_です",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ccba540b-f07d-4c7b-b044-5b1cac34c935",
+					"Name": "謎解きワールド「DialNumber」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "電話を掛けろ。想定難易度：６、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：30分以上、＃VRC_DialNumber",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_ca888a81-90e5-418e-9eb5-07932e232ac2",
+					"Name": "動く謎解き研究所からの脱出",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎からアイテムが飛び出してしまった世界。 ギミックは全てローカル。 想定プレイ時間30~90分。途中参加可",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ce27bd98-75d1-46d1-88ce-0aa545501586",
+					"Name": "謎解きワールド「タクイツ・メガパンチ」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "［JP Only］自動進行する謎解きゲーム。謎を解いて正しい答えを選び、プロテインを勝ち取ろう。 プレイ人数：1人～ プレイ時間：15分",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
 					"ID": "wrld_8e6ece58-d0ae-477a-96c4-d092269b8c92",
 					"Name": "実績だらけのバーラウンジからの脱出 Escape from a Bar Lounge Full of Achievements",
 					"RecommendedCapacity": 30,

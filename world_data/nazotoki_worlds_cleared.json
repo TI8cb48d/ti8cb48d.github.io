@@ -314,6 +314,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_f21e40c7-131a-4744-ae60-5ac623976b29",
+					"Name": "［Riddle］Just A Button",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Make ＂CLEAR＂․ ［Difficulty］Normal ［Estimate Time］30min-1h ＃VRC_JustAButton",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -359,6 +370,22 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "3Dで触って楽しめる謎解きワールドです。想定プレイ時間˸30分 ＃VRC_ソラのなぞとき",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "HEROKing_XD",
+			"Worlds": [
+				{
+					"ID": "wrld_d65a1999-d29c-43e1-8e1c-418fe40f09aa",
+					"Name": "謎解きワールド『失われた音楽』",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "謎を解いてタクトを振ろう。想定時間：15分~⁄推奨人数1~6人⁄ヒント有⁄難易度˸普通⁄問題数6問＋1問⁄動作はQVペンとクリア後の?????以外ローカルです。",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -604,6 +631,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5fdab6be-8a05-4978-989b-07da9aeec39d",
+					"Name": "謎解きワールド『今すぐ全員殺すんだǃ』",
+					"RecommendedCapacity": 6,
+					"Capacity": 13,
+					"Description": "目的は、正しい人物を殺すこと。 こんなこと、あっていいのか。＃VRC_です",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -1383,6 +1421,28 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_a60364c1-2d23-4b79-a228-b759daa63726",
+					"Name": "謎解きワールド「無名果盗難事件」",
+					"RecommendedCapacity": 16,
+					"Capacity": 12,
+					"Description": "極秘研究中の果物、「アンネームドフルーツ」が盗まれてしまった！謎を解いて手がかりを出現させ、犯人を当てよう！動作はローカルです。想定時間˸ 1時間 ＃VRC_無名果 難易度˸ Keneq",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a4b0e1fc-f674-41bf-9811-5c4c96ef9c16",
+					"Name": "パズルクイズ謎解きワールド「八方美神」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "パズル能力も知識も発想も必要。そんなワールドです。検索必須ではないと思っていましたが検索したほうがいいかもしれません。予想平均時間 15～150 min․ （2025⁄08⁄23 02˸20） 解説をわかりやすく更新しました",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -1702,6 +1762,22 @@
 						"PC": true,
 						"Android": true,
 						"iOS": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "hiyoko_piyo",
+			"Worlds": [
+				{
+					"ID": "wrld_263649e8-9149-4ea1-943d-32f3b650bbbf",
+					"Name": "スイッチ10",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "スイッチを押して、法則を見つけ、全ての明かりをつける謎解きパズルワールドです。全13ステージ『通常10 ＋ EX3』",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -2440,6 +2516,18 @@
 						"Android": true,
 						"iOS": true
 					}
+				},
+				{
+					"ID": "wrld_ccba540b-f07d-4c7b-b044-5b1cac34c935",
+					"Name": "謎解きワールド「DialNumber」",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "電話を掛けろ。想定難易度：６、ヒント有無：なし、ワールド動作：ローカル、想定クリア時間：30分以上、＃VRC_DialNumber",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
 				}
 			]
 		},
@@ -2479,6 +2567,17 @@
 					"RecommendedCapacity": 4,
 					"Capacity": 10,
 					"Description": "記憶の通りにやってごらん 前作未プレイならかなり高難度 全4問 想定クリア時間：10分～ 前作の問題の法則を使いました。例示がないですが、解答不可にならないようある程度調整しています。 問題の欠陥、不具合等は作者まで。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_cfe1dbbc-6716-4b40-ad40-a9655f31524c",
+					"Name": "謎解き 「アリバイ工作」",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "「それ」の目撃者を作ってください。 想定難易度：普通 想定クリア時間 5~45分 翻訳スイッチを追加しました。 不具合や問題の欠陥があれば作者まで。 ＃VRC_アリバイ工作",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -2907,6 +3006,22 @@
 			]
 		},
 		{
+			"Category": "きー ⁄ keep_OC",
+			"Worlds": [
+				{
+					"ID": "wrld_688d0137-f54c-4728-88e3-783fe7f4a7c5",
+					"Name": "謎解きワールド「Issue」",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "全 8 問 ＋ α の謎解きワールドです。クリアには日本語の知識が必要です。想定プレイ時間 60 分程度 ギミックはすべてローカルです。全問ヒントありです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "くまた０９３０",
 			"Worlds": [
 				{
@@ -2948,6 +3063,22 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "［jp Only］ 【難易度】そこそこ~しっかり 【回答ギミック】ローカル",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "そりっど",
+			"Worlds": [
+				{
+					"ID": "wrld_994e3fe9-b3a2-4fc4-b5ca-1e660e6fa2d9",
+					"Name": "基本知識だけで解ける謎解き",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "謎解きワールドを作ってみたかったので作りました。頻出知識の復習用にでもどうぞ。ヒントもあるよ。想定プレイ時間：10～20分",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -3149,6 +3280,33 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_0662a8b3-a2c6-419c-afa7-94679dbe2ceb",
+					"Name": "カラフレス",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "［JP Only］ 日本人向けのやさしめな謎解きワールドです。想定プレイ時間は～30分程度。ワールド動作はローカルです。ソロプレイでも協力プレイでも遊べます。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "ちゃろです",
+			"Worlds": [
+				{
+					"ID": "wrld_313d9e59-76f2-402d-8ebe-3e3b8b799b24",
+					"Name": "【謎解きワールド】名もなき君へ",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "日本語話者向けの謎解きワールドです。 プレイ人数：2人～ 想定クリア時間：6時間～？ ＃vrc_namonaki",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -3161,6 +3319,17 @@
 					"RecommendedCapacity": 1,
 					"Capacity": 16,
 					"Description": "謎の家からの脱出を目指せ！⁄想定クリア時間60分‚挙動は全てローカル⁄＃VRC_NazoHouse",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3a17dee3-8db9-4754-a389-d4a25d327a7d",
+					"Name": "全部嘘?の謎解き",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "このワールドには嘘が含まれていません?⁄挙動は全てグローバル?⁄＃VRC_全嘘",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -3495,6 +3664,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_00298abf-a662-4f2d-a925-4e99f10ffa19",
+					"Name": "謎解きワールド Wink",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "心の目で見ましょう ［難易度］ むずかしい ［問題数］ 5 ［所要時間］ 30分～ ＃VRC_Wink",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -3626,6 +3806,22 @@
 			]
 		},
 		{
+			"Category": "らるでぃー",
+			"Worlds": [
+				{
+					"ID": "wrld_cac8ca64-759d-4254-b56b-6f6106c47f9f",
+					"Name": "【推測系謎解きワールド】 4Buttons",
+					"RecommendedCapacity": 2,
+					"Capacity": 4,
+					"Description": "狭い部屋の中に置かれた4つのボタンを、ある法則に従って押すこと。 難易度：【難しい】 想定クリア時間：【30分～3時間】",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "りうむ（rium）",
 			"Worlds": [
 				{
@@ -3662,6 +3858,18 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "ある怪人（怪字ン）がテーマの謎解きワールドです。想定難易度「やさしい」、想定クリア時間「15~30分」 ヒントあり。 2026⁄07⁄26 追記：問題一部修正、謎解きガイド追加、一部軽量化対応",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					}
+				},
+				{
+					"ID": "wrld_26e03ac7-d62f-4934-ba28-ab0740f0cc02",
+					"Name": "【謎解きワールド】 PLAY to FAVORITE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "そこには４つのボタン。想定難易度：「むずかしい～？？？」‚ 想定クリア時間：「3h～」",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -4872,6 +5080,22 @@
 			]
 		},
 		{
+			"Category": "火野彼方（Xgular）",
+			"Worlds": [
+				{
+					"ID": "wrld_58f6b508-b522-4845-ab0e-0bdf2121fed3",
+					"Name": "謎解きワールド「カラーコード」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "カラーコードをテーマにした謎解きワールドです。 難易度は謎解きにある程度なれた人を想定しています。 想定クリア時間は1時間～です。 工業高校出身の人が一人いると心強いかもしれません。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
 			"Category": "鼎猫（kanaeneko）",
 			"Worlds": [
 				{
@@ -4931,6 +5155,38 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "紅葉会長",
+			"Worlds": [
+				{
+					"ID": "wrld_b5cd7dd7-e154-4868-835b-4370d6d2b831",
+					"Name": "紅葉会長からの挑戦状",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "謎解きワールドです。デスクトップ／VR対応。クエスト対応は考慮していません。初めて作成したので、難易度がどの程度か分かりません。問題によってかなり差があります。。EX問題（2個）は検索必須の知識問題です。いろいろ多めにみてもらえると嬉しいです。。。ヒントっぽいのもあります。あと、ライム可愛い！！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "湯本_Yumoto",
+			"Worlds": [
+				{
+					"ID": "wrld_55cd6b33-b9f9-41fb-9e80-92bce115f250",
+					"Name": "謎解きワールド プレイリスト",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "初めて作った謎解きワールドです。Clearを目指して頑張ってください 6․11 気が付いたらラボ抜けできていたのでちょっとだけアップデート ＃VRC_playlistを付けてXに投稿してくれたら嬉しいです",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
